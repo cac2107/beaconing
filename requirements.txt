@@ -1,0 +1,12 @@
+cryptography==37.0.4
+Flask==3.0.0
+Flask_SocketIO==5.3.6
+keyboard==0.13.5
+psutil==5.9.5
+pyad==0.6.0
+PyAutoGUI==0.9.54
+pywin32==305
+Requests==2.31.0
+rsa==4.9
+scipy==1.11.3
+sounddevice==0.4.6

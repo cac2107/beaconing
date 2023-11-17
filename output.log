@@ -1,0 +1,38 @@
+2023-11-13 20:01:25.531837 -- 30:9C:23:AF:C0:27
+ls
+constants.py
+keylogger.py
+keys
+main_command.py
+pycontrol.py
+pyutils
+__pycache__
+
+2023-11-13 20:01:47.423850 -- 30:9C:23:AF:C0:27
+screenshot
+Successfully sent screenshot
+
+2023-11-13 20:02:29.587129 -- 30:9C:23:AF:C0:27
+screenshot
+Successfully sent screenshot
+
+2023-11-15 17:05:22.846523 -- EC:63:D7:B6:E8:64
+ls
+.git
+constants.py
+keylogger.py
+keys
+main_command.py
+output.log
+payloadgen.py
+pycontrol.py
+pyutils
+readme.md
+requirements.txt
+upload
+__pycache__
+
+2023-11-15 17:05:42.995411 -- EC:63:D7:B6:E8:64
+screenshot
+Successfully sent screenshot
+
