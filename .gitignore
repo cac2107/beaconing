@@ -1,0 +1,4 @@
+output/
+*.exe
+*.log
+__pycache__/

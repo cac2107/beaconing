@@ -36,3 +36,3201 @@ __pycache__
 screenshot
 Successfully sent screenshot
 
+2023-11-17 15:24:21.943028 -- 30:9C:23:AF:C0:27
+get-process
+'get-process' is not recognized as an internal or external command,
+operable program or batch file.
+
+
+2023-11-17 15:24:42.792435 -- 30:9C:23:AF:C0:27
+get-processes
+PID: 0, Name: System Idle Process
+PID: 4, Name: System
+PID: 8, Name: fontdrvhost.exe
+PID: 104, Name: 
+PID: 184, Name: Registry
+PID: 524, Name: smss.exe
+PID: 544, Name: LsaIso.exe
+PID: 548, Name: lsass.exe
+PID: 636, Name: services.exe
+PID: 712, Name: csrss.exe
+PID: 820, Name: wininit.exe
+PID: 828, Name: csrss.exe
+PID: 928, Name: winlogon.exe
+PID: 968, Name: svchost.exe
+PID: 984, Name: fontdrvhost.exe
+PID: 1004, Name: svchost.exe
+PID: 1016, Name: MoNotificationUx.exe
+PID: 1080, Name: OpenConsole.exe
+PID: 1116, Name: svchost.exe
+PID: 1172, Name: svchost.exe
+PID: 1260, Name: dwm.exe
+PID: 1324, Name: svchost.exe
+PID: 1348, Name: svchost.exe
+PID: 1392, Name: svchost.exe
+PID: 1424, Name: sppsvc.exe
+PID: 1516, Name: powershell.exe
+PID: 1520, Name: steam.exe
+PID: 1536, Name: svchost.exe
+PID: 1572, Name: svchost.exe
+PID: 1588, Name: svchost.exe
+PID: 1600, Name: svchost.exe
+PID: 1664, Name: svchost.exe
+PID: 1704, Name: msedge.exe
+PID: 1804, Name: svchost.exe
+PID: 1836, Name: svchost.exe
+PID: 1860, Name: wslrelay.exe
+PID: 1884, Name: svchost.exe
+PID: 1964, Name: NVDisplay.Container.exe
+PID: 2000, Name: powershell.exe
+PID: 2120, Name: svchost.exe
+PID: 2132, Name: svchost.exe
+PID: 2140, Name: svchost.exe
+PID: 2148, Name: svchost.exe
+PID: 2196, Name: svchost.exe
+PID: 2252, Name: backgroundTaskHost.exe
+PID: 2288, Name: svchost.exe
+PID: 2352, Name: svchost.exe
+PID: 2396, Name: ApplicationFrameHost.exe
+PID: 2428, Name: MemCompression
+PID: 2484, Name: svchost.exe
+PID: 2508, Name: svchost.exe
+PID: 2576, Name: svchost.exe
+PID: 2584, Name: svchost.exe
+PID: 2672, Name: svchost.exe
+PID: 2800, Name: svchost.exe
+PID: 2848, Name: svchost.exe
+PID: 2976, Name: sqlwriter.exe
+PID: 2988, Name: svchost.exe
+PID: 3060, Name: svchost.exe
+PID: 3188, Name: vmcompute.exe
+PID: 3256, Name: sqlbrowser.exe
+PID: 3312, Name: svchost.exe
+PID: 3352, Name: remotesolverdispatcherservice.exe
+PID: 3364, Name: svchost.exe
+PID: 3460, Name: SWVisualize.Queue.Server.exe
+PID: 3472, Name: svchost.exe
+PID: 3476, Name: svchost.exe
+PID: 3588, Name: svchost.exe
+PID: 3612, Name: svchost.exe
+PID: 3676, Name: spoolsv.exe
+PID: 3720, Name: svchost.exe
+PID: 3784, Name: svchost.exe
+PID: 3792, Name: PhoneExperienceHost.exe
+PID: 3804, Name: svchost.exe
+PID: 3812, Name: EwServer.exe
+PID: 3824, Name: conhost.exe
+PID: 3828, Name: svchost.exe
+PID: 3840, Name: filezilla-server.exe
+PID: 3852, Name: remoting_host.exe
+PID: 3868, Name: svchost.exe
+PID: 3892, Name: FNPLicensingService64.exe
+PID: 3928, Name: svchost.exe
+PID: 3960, Name: OfficeClickToRun.exe
+PID: 4032, Name: SpotifyWidgetProvider.exe
+PID: 4048, Name: dllhost.exe
+PID: 4052, Name: sqlservr.exe
+PID: 4076, Name: mysqld.exe
+PID: 4120, Name: svchost.exe
+PID: 4128, Name: svchost.exe
+PID: 4136, Name: svchost.exe
+PID: 4260, Name: vmnat.exe
+PID: 4268, Name: WMIRegistrationService.exe
+PID: 4288, Name: vmware-usbarbitrator64.exe
+PID: 4296, Name: MsMpEng.exe
+PID: 4304, Name: vmnetdhcp.exe
+PID: 4340, Name: svchost.exe
+PID: 4368, Name: svchost.exe
+PID: 4376, Name: vmware-authd.exe
+PID: 4400, Name: sqlceip.exe
+PID: 4424, Name: svchost.exe
+PID: 4532, Name: dispatcher.exe
+PID: 4612, Name: conhost.exe
+PID: 4756, Name: jhi_service.exe
+PID: 4788, Name: svchost.exe
+PID: 5196, Name: remoting_host.exe
+PID: 5228, Name: mysqld.exe
+PID: 5276, Name: conhost.exe
+PID: 5320, Name: svchost.exe
+PID: 5384, Name: explorer.exe
+PID: 5548, Name: AggregatorHost.exe
+PID: 5632, Name: dasHost.exe
+PID: 5656, Name: LockApp.exe
+PID: 5744, Name: taskhostw.exe
+PID: 5752, Name: svchost.exe
+PID: 5816, Name: NisSrv.exe
+PID: 5892, Name: msedge.exe
+PID: 6084, Name: svchost.exe
+PID: 6172, Name: conhost.exe
+PID: 6280, Name: wslhost.exe
+PID: 6472, Name: svchost.exe
+PID: 6592, Name: dasHost.exe
+PID: 6616, Name: steamwebhelper.exe
+PID: 6704, Name: svchost.exe
+PID: 6744, Name: svchost.exe
+PID: 6760, Name: svchost.exe
+PID: 6876, Name: Code.exe
+PID: 7036, Name: CodeSetup-stable-1a5daa3a0231a0fbba4f14db7ec463cf99d7768e.tmp
+PID: 7208, Name: RuntimeBroker.exe
+PID: 7584, Name: vmmemWSL
+PID: 7680, Name: dllhost.exe
+PID: 7700, Name: chrome.exe
+PID: 7832, Name: WidgetService.exe
+PID: 7924, Name: ctfmon.exe
+PID: 7964, Name: sihost.exe
+PID: 8100, Name: conhost.exe
+PID: 8120, Name: NVDisplay.Container.exe
+PID: 8132, Name: svchost.exe
+PID: 8180, Name: SecurityHealthService.exe
+PID: 8220, Name: svchost.exe
+PID: 8224, Name: wslhost.exe
+PID: 8284, Name: svchost.exe
+PID: 8364, Name: Code.exe
+PID: 8468, Name: SecurityHealthSystray.exe
+PID: 8524, Name: MpDefenderCoreService.exe
+PID: 8532, Name: wslhost.exe
+PID: 8544, Name: SgrmBroker.exe
+PID: 8548, Name: svchost.exe
+PID: 8704, Name: TextInputHost.exe
+PID: 8808, Name: svchost.exe
+PID: 8852, Name: FileSyncHelper.exe
+PID: 8860, Name: Widgets.exe
+PID: 9068, Name: svchost.exe
+PID: 9332, Name: SearchHost.exe
+PID: 9356, Name: StartMenuExperienceHost.exe
+PID: 9440, Name: Code.exe
+PID: 9520, Name: RuntimeBroker.exe
+PID: 9584, Name: RuntimeBroker.exe
+PID: 9716, Name: svchost.exe
+PID: 10096, Name: dllhost.exe
+PID: 10116, Name: svchost.exe
+PID: 10608, Name: SearchIndexer.exe
+PID: 11020, Name: svchost.exe
+PID: 11068, Name: Code.exe
+PID: 11088, Name: svchost.exe
+PID: 11140, Name: com.docker.build.exe
+PID: 11152, Name: wslhost.exe
+PID: 11192, Name: svchost.exe
+PID: 11344, Name: RuntimeBroker.exe
+PID: 11740, Name: dllhost.exe
+PID: 11856, Name: backgroundTaskHost.exe
+PID: 11992, Name: ShellExperienceHost.exe
+PID: 12136, Name: Docker Desktop.exe
+PID: 12328, Name: Grammarly.Desktop.exe
+PID: 12528, Name: steamwebhelper.exe
+PID: 12540, Name: steamwebhelper.exe
+PID: 12568, Name: Docker Desktop.exe
+PID: 12628, Name: steamwebhelper.exe
+PID: 12900, Name: RuntimeBroker.exe
+PID: 13044, Name: Code.exe
+PID: 13052, Name: steamservice.exe
+PID: 13192, Name: steamwebhelper.exe
+PID: 14288, Name: EpicWebHelper.exe
+PID: 14352, Name: svchost.exe
+PID: 14432, Name: jucheck.exe
+PID: 14444, Name: conhost.exe
+PID: 14772, Name: steamwebhelper.exe
+PID: 15080, Name: svchost.exe
+PID: 15148, Name: MoUsoCoreWorker.exe
+PID: 15412, Name: vmwp.exe
+PID: 15740, Name: msedgewebview2.exe
+PID: 15932, Name: wslservice.exe
+PID: 15992, Name: OneDrive.exe
+PID: 16008, Name: msedgewebview2.exe
+PID: 16268, Name: dllhost.exe
+PID: 16300, Name: AppleMobileDeviceProcess.exe
+PID: 16428, Name: py.exe
+PID: 16596, Name: Discord.exe
+PID: 16768, Name: Discord.exe
+PID: 16900, Name: Discord.exe
+PID: 16912, Name: Discord.exe
+PID: 17040, Name: com.docker.backend.exe
+PID: 17048, Name: conhost.exe
+PID: 17240, Name: Code.exe
+PID: 17280, Name: svchost.exe
+PID: 17300, Name: Docker Desktop.exe
+PID: 17316, Name: docker.exe
+PID: 17524, Name: sldworks_fs.exe
+PID: 17628, Name: Discord.exe
+PID: 17636, Name: com.docker.dev-envs.exe
+PID: 17792, Name: vmware-tray.exe
+PID: 17844, Name: com.docker.extensions.exe
+PID: 17852, Name: chrome.exe
+PID: 18060, Name: jusched.exe
+PID: 18116, Name: svchost.exe
+PID: 18176, Name: dllhost.exe
+PID: 18212, Name: dllhost.exe
+PID: 18360, Name: Docker Desktop.exe
+PID: 18376, Name: conhost.exe
+PID: 18420, Name: RuntimeBroker.exe
+PID: 18532, Name: Discord.exe
+PID: 18740, Name: python.exe
+PID: 18868, Name: Video.UI.exe
+PID: 19016, Name: conhost.exe
+PID: 19048, Name: backgroundTaskHost.exe
+PID: 19116, Name: msedgewebview2.exe
+PID: 19224, Name: msrdc.exe
+PID: 19296, Name: wslhost.exe
+PID: 19352, Name: msrdc.exe
+PID: 19520, Name: wsl.exe
+PID: 19564, Name: wsl.exe
+PID: 19636, Name: wslhost.exe
+PID: 19644, Name: wsl.exe
+PID: 19668, Name: wsl.exe
+PID: 19720, Name: conhost.exe
+PID: 19804, Name: dllhost.exe
+PID: 19848, Name: wsl.exe
+PID: 19876, Name: wsl.exe
+PID: 19968, Name: wslhost.exe
+PID: 19992, Name: wslhost.exe
+PID: 20016, Name: conhost.exe
+PID: 20076, Name: conhost.exe
+PID: 20224, Name: backgroundTaskHost.exe
+PID: 20520, Name: msedgewebview2.exe
+PID: 21316, Name: dllhost.exe
+PID: 21404, Name: msedgewebview2.exe
+PID: 22212, Name: OneDrive.exe
+PID: 22396, Name: backgroundTaskHost.exe
+PID: 22484, Name: powershell.exe
+PID: 22896, Name: svchost.exe
+PID: 23528, Name: smartscreen.exe
+PID: 23596, Name: Code.exe
+PID: 23876, Name: audiodg.exe
+PID: 24208, Name: python.exe
+PID: 24824, Name: Code.exe
+PID: 25472, Name: msedgewebview2.exe
+PID: 25572, Name: DataExchangeHost.exe
+PID: 26040, Name: Microsoft.SharePoint.exe
+PID: 26176, Name: Code.exe
+PID: 26196, Name: python.exe
+PID: 27320, Name: backgroundTaskHost.exe
+PID: 27340, Name: Code.exe
+PID: 27440, Name: msedge.exe
+PID: 27940, Name: msedgewebview2.exe
+PID: 28372, Name: wallpaper32.exe
+PID: 28824, Name: msdtc.exe
+PID: 29320, Name: powershell.exe
+PID: 29580, Name: chrome.exe
+PID: 29968, Name: Code.exe
+PID: 30328, Name: WindowsTerminal.exe
+PID: 30804, Name: py.exe
+PID: 31444, Name: conhost.exe
+PID: 31452, Name: python.exe
+PID: 31476, Name: uhssvc.exe
+PID: 31696, Name: svchost.exe
+PID: 32544, Name: msedgewebview2.exe
+PID: 33324, Name: CodeSetup-stable-1a5daa3a0231a0fbba4f14db7ec463cf99d7768e.exe
+PID: 33404, Name: Code.exe
+PID: 33760, Name: svchost.exe
+PID: 34128, Name: Code.exe
+PID: 35416, Name: HPPrintScanDoctorService.exe
+PID: 35504, Name: Code.exe
+PID: 35636, Name: svchost.exe
+PID: 36572, Name: EpicGamesLauncher.exe
+PID: 36964, Name: backgroundTaskHost.exe
+PID: 37932, Name: dllhost.exe
+PID: 38032, Name: msedgewebview2.exe
+PID: 38408, Name: chrome.exe
+PID: 38612, Name: svchost.exe
+PID: 38700, Name: msedge.exe
+PID: 38840, Name: RuntimeBroker.exe
+PID: 39020, Name: OpenConsole.exe
+PID: 39068, Name: msedge.exe
+PID: 39408, Name: Code.exe
+PID: 40436, Name: FileCoAuth.exe
+PID: 41072, Name: chrome.exe
+PID: 41356, Name: EpicWebHelper.exe
+PID: 41396, Name: chrome.exe
+PID: 42180, Name: dllhost.exe
+PID: 43972, Name: conhost.exe
+PID: 44192, Name: chrome.exe
+PID: 44324, Name: msedgewebview2.exe
+PID: 45496, Name: svchost.exe
+PID: 45972, Name: msedgewebview2.exe
+PID: 46032, Name: msedgewebview2.exe
+PID: 46384, Name: Code.exe
+PID: 46692, Name: msedgewebview2.exe
+PID: 47332, Name: chrome.exe
+PID: 48212, Name: chrome.exe
+PID: 48512, Name: RuntimeBroker.exe
+PID: 49072, Name: backgroundTaskHost.exe
+
+
+2023-11-17 15:25:34.047552 -- 30:9C:23:AF:C0:27
+kill 44192
+module 'signal' has no attribute 'SIGKILL'
+
+2023-11-17 15:28:10.600250 -- 30:9C:23:AF:C0:27
+kill 44192
+module 'signal' has no attribute 'SIGSTOP'
+
+2023-11-17 15:38:17.782635 -- 30:9C:23:AF:C0:27
+kill 44192
+Succesfully killed process: 44192
+
+2023-11-17 15:38:28.639821 -- 30:9C:23:AF:C0:27
+get-processes
+PID: 0, Name: System Idle Process
+PID: 4, Name: System
+PID: 8, Name: fontdrvhost.exe
+PID: 104, Name: 
+PID: 184, Name: Registry
+PID: 524, Name: smss.exe
+PID: 544, Name: LsaIso.exe
+PID: 548, Name: lsass.exe
+PID: 636, Name: services.exe
+PID: 712, Name: csrss.exe
+PID: 820, Name: wininit.exe
+PID: 828, Name: csrss.exe
+PID: 928, Name: winlogon.exe
+PID: 968, Name: svchost.exe
+PID: 984, Name: fontdrvhost.exe
+PID: 1004, Name: svchost.exe
+PID: 1016, Name: MoNotificationUx.exe
+PID: 1080, Name: OpenConsole.exe
+PID: 1116, Name: svchost.exe
+PID: 1172, Name: svchost.exe
+PID: 1260, Name: dwm.exe
+PID: 1324, Name: svchost.exe
+PID: 1348, Name: svchost.exe
+PID: 1392, Name: svchost.exe
+PID: 1516, Name: powershell.exe
+PID: 1520, Name: steam.exe
+PID: 1536, Name: svchost.exe
+PID: 1572, Name: svchost.exe
+PID: 1588, Name: svchost.exe
+PID: 1600, Name: svchost.exe
+PID: 1664, Name: svchost.exe
+PID: 1704, Name: msedge.exe
+PID: 1804, Name: svchost.exe
+PID: 1836, Name: svchost.exe
+PID: 1860, Name: wslrelay.exe
+PID: 1884, Name: svchost.exe
+PID: 1964, Name: NVDisplay.Container.exe
+PID: 2000, Name: powershell.exe
+PID: 2120, Name: svchost.exe
+PID: 2132, Name: svchost.exe
+PID: 2140, Name: svchost.exe
+PID: 2148, Name: svchost.exe
+PID: 2196, Name: svchost.exe
+PID: 2252, Name: backgroundTaskHost.exe
+PID: 2288, Name: svchost.exe
+PID: 2352, Name: svchost.exe
+PID: 2396, Name: ApplicationFrameHost.exe
+PID: 2428, Name: MemCompression
+PID: 2484, Name: svchost.exe
+PID: 2508, Name: svchost.exe
+PID: 2576, Name: svchost.exe
+PID: 2584, Name: svchost.exe
+PID: 2672, Name: svchost.exe
+PID: 2800, Name: svchost.exe
+PID: 2848, Name: svchost.exe
+PID: 2976, Name: sqlwriter.exe
+PID: 2988, Name: svchost.exe
+PID: 3060, Name: svchost.exe
+PID: 3188, Name: vmcompute.exe
+PID: 3256, Name: sqlbrowser.exe
+PID: 3312, Name: svchost.exe
+PID: 3352, Name: remotesolverdispatcherservice.exe
+PID: 3364, Name: svchost.exe
+PID: 3460, Name: SWVisualize.Queue.Server.exe
+PID: 3472, Name: svchost.exe
+PID: 3476, Name: svchost.exe
+PID: 3588, Name: svchost.exe
+PID: 3612, Name: svchost.exe
+PID: 3676, Name: spoolsv.exe
+PID: 3720, Name: svchost.exe
+PID: 3784, Name: svchost.exe
+PID: 3792, Name: PhoneExperienceHost.exe
+PID: 3804, Name: svchost.exe
+PID: 3812, Name: EwServer.exe
+PID: 3824, Name: conhost.exe
+PID: 3828, Name: svchost.exe
+PID: 3840, Name: filezilla-server.exe
+PID: 3852, Name: remoting_host.exe
+PID: 3868, Name: svchost.exe
+PID: 3892, Name: FNPLicensingService64.exe
+PID: 3928, Name: svchost.exe
+PID: 3960, Name: OfficeClickToRun.exe
+PID: 4032, Name: SpotifyWidgetProvider.exe
+PID: 4048, Name: dllhost.exe
+PID: 4052, Name: sqlservr.exe
+PID: 4076, Name: mysqld.exe
+PID: 4120, Name: svchost.exe
+PID: 4128, Name: svchost.exe
+PID: 4136, Name: svchost.exe
+PID: 4260, Name: vmnat.exe
+PID: 4268, Name: WMIRegistrationService.exe
+PID: 4288, Name: vmware-usbarbitrator64.exe
+PID: 4296, Name: MsMpEng.exe
+PID: 4304, Name: vmnetdhcp.exe
+PID: 4340, Name: svchost.exe
+PID: 4368, Name: svchost.exe
+PID: 4376, Name: vmware-authd.exe
+PID: 4400, Name: sqlceip.exe
+PID: 4424, Name: svchost.exe
+PID: 4532, Name: dispatcher.exe
+PID: 4612, Name: conhost.exe
+PID: 4756, Name: jhi_service.exe
+PID: 4788, Name: svchost.exe
+PID: 5196, Name: remoting_host.exe
+PID: 5228, Name: mysqld.exe
+PID: 5276, Name: conhost.exe
+PID: 5320, Name: svchost.exe
+PID: 5384, Name: explorer.exe
+PID: 5548, Name: AggregatorHost.exe
+PID: 5632, Name: dasHost.exe
+PID: 5656, Name: LockApp.exe
+PID: 5744, Name: taskhostw.exe
+PID: 5752, Name: svchost.exe
+PID: 5816, Name: NisSrv.exe
+PID: 5892, Name: msedge.exe
+PID: 6084, Name: svchost.exe
+PID: 6172, Name: conhost.exe
+PID: 6280, Name: wslhost.exe
+PID: 6472, Name: svchost.exe
+PID: 6592, Name: dasHost.exe
+PID: 6616, Name: steamwebhelper.exe
+PID: 6704, Name: svchost.exe
+PID: 6744, Name: svchost.exe
+PID: 6760, Name: svchost.exe
+PID: 6876, Name: Code.exe
+PID: 7036, Name: CodeSetup-stable-1a5daa3a0231a0fbba4f14db7ec463cf99d7768e.tmp
+PID: 7208, Name: RuntimeBroker.exe
+PID: 7584, Name: vmmemWSL
+PID: 7680, Name: dllhost.exe
+PID: 7832, Name: WidgetService.exe
+PID: 7924, Name: ctfmon.exe
+PID: 7948, Name: chrome.exe
+PID: 7964, Name: sihost.exe
+PID: 8100, Name: conhost.exe
+PID: 8112, Name: chrome.exe
+PID: 8120, Name: NVDisplay.Container.exe
+PID: 8132, Name: svchost.exe
+PID: 8180, Name: SecurityHealthService.exe
+PID: 8220, Name: svchost.exe
+PID: 8224, Name: wslhost.exe
+PID: 8284, Name: svchost.exe
+PID: 8364, Name: Code.exe
+PID: 8468, Name: SecurityHealthSystray.exe
+PID: 8524, Name: MpDefenderCoreService.exe
+PID: 8532, Name: wslhost.exe
+PID: 8544, Name: SgrmBroker.exe
+PID: 8548, Name: svchost.exe
+PID: 8704, Name: TextInputHost.exe
+PID: 8808, Name: svchost.exe
+PID: 8852, Name: FileSyncHelper.exe
+PID: 8860, Name: Widgets.exe
+PID: 9068, Name: svchost.exe
+PID: 9332, Name: SearchHost.exe
+PID: 9356, Name: StartMenuExperienceHost.exe
+PID: 9440, Name: Code.exe
+PID: 9520, Name: RuntimeBroker.exe
+PID: 9584, Name: RuntimeBroker.exe
+PID: 9716, Name: svchost.exe
+PID: 10096, Name: dllhost.exe
+PID: 10116, Name: svchost.exe
+PID: 10576, Name: chrome.exe
+PID: 10608, Name: SearchIndexer.exe
+PID: 10996, Name: chrome.exe
+PID: 11020, Name: svchost.exe
+PID: 11068, Name: Code.exe
+PID: 11088, Name: svchost.exe
+PID: 11140, Name: com.docker.build.exe
+PID: 11152, Name: wslhost.exe
+PID: 11192, Name: svchost.exe
+PID: 11344, Name: RuntimeBroker.exe
+PID: 11576, Name: chrome.exe
+PID: 11740, Name: dllhost.exe
+PID: 11856, Name: backgroundTaskHost.exe
+PID: 11992, Name: ShellExperienceHost.exe
+PID: 12136, Name: Docker Desktop.exe
+PID: 12328, Name: Grammarly.Desktop.exe
+PID: 12528, Name: steamwebhelper.exe
+PID: 12540, Name: steamwebhelper.exe
+PID: 12568, Name: Docker Desktop.exe
+PID: 12628, Name: steamwebhelper.exe
+PID: 12900, Name: RuntimeBroker.exe
+PID: 13044, Name: Code.exe
+PID: 13052, Name: steamservice.exe
+PID: 13192, Name: steamwebhelper.exe
+PID: 14288, Name: EpicWebHelper.exe
+PID: 14352, Name: svchost.exe
+PID: 14432, Name: jucheck.exe
+PID: 14444, Name: conhost.exe
+PID: 14772, Name: steamwebhelper.exe
+PID: 15080, Name: svchost.exe
+PID: 15148, Name: MoUsoCoreWorker.exe
+PID: 15412, Name: vmwp.exe
+PID: 15740, Name: msedgewebview2.exe
+PID: 15932, Name: wslservice.exe
+PID: 15992, Name: OneDrive.exe
+PID: 16008, Name: msedgewebview2.exe
+PID: 16268, Name: dllhost.exe
+PID: 16300, Name: AppleMobileDeviceProcess.exe
+PID: 16596, Name: Discord.exe
+PID: 16768, Name: Discord.exe
+PID: 16900, Name: Discord.exe
+PID: 16912, Name: Discord.exe
+PID: 17040, Name: com.docker.backend.exe
+PID: 17048, Name: conhost.exe
+PID: 17240, Name: Code.exe
+PID: 17280, Name: svchost.exe
+PID: 17300, Name: Docker Desktop.exe
+PID: 17316, Name: docker.exe
+PID: 17524, Name: sldworks_fs.exe
+PID: 17628, Name: Discord.exe
+PID: 17636, Name: com.docker.dev-envs.exe
+PID: 17668, Name: chrome.exe
+PID: 17792, Name: vmware-tray.exe
+PID: 17844, Name: com.docker.extensions.exe
+PID: 17852, Name: chrome.exe
+PID: 18060, Name: jusched.exe
+PID: 18100, Name: smartscreen.exe
+PID: 18116, Name: svchost.exe
+PID: 18176, Name: dllhost.exe
+PID: 18212, Name: dllhost.exe
+PID: 18360, Name: Docker Desktop.exe
+PID: 18376, Name: conhost.exe
+PID: 18420, Name: RuntimeBroker.exe
+PID: 18532, Name: Discord.exe
+PID: 18740, Name: python.exe
+PID: 18868, Name: Video.UI.exe
+PID: 19016, Name: conhost.exe
+PID: 19048, Name: backgroundTaskHost.exe
+PID: 19116, Name: msedgewebview2.exe
+PID: 19224, Name: msrdc.exe
+PID: 19296, Name: wslhost.exe
+PID: 19352, Name: msrdc.exe
+PID: 19520, Name: wsl.exe
+PID: 19564, Name: wsl.exe
+PID: 19636, Name: wslhost.exe
+PID: 19644, Name: wsl.exe
+PID: 19668, Name: wsl.exe
+PID: 19720, Name: conhost.exe
+PID: 19804, Name: dllhost.exe
+PID: 19848, Name: wsl.exe
+PID: 19876, Name: wsl.exe
+PID: 19968, Name: wslhost.exe
+PID: 19992, Name: wslhost.exe
+PID: 20016, Name: conhost.exe
+PID: 20076, Name: conhost.exe
+PID: 20224, Name: backgroundTaskHost.exe
+PID: 20412, Name: chrome.exe
+PID: 20520, Name: msedgewebview2.exe
+PID: 21316, Name: dllhost.exe
+PID: 21404, Name: msedgewebview2.exe
+PID: 22212, Name: OneDrive.exe
+PID: 22268, Name: chrome.exe
+PID: 22396, Name: backgroundTaskHost.exe
+PID: 22400, Name: chrome.exe
+PID: 22476, Name: chrome.exe
+PID: 22484, Name: powershell.exe
+PID: 22896, Name: svchost.exe
+PID: 23364, Name: chrome.exe
+PID: 23376, Name: powershell.exe
+PID: 23596, Name: Code.exe
+PID: 23876, Name: audiodg.exe
+PID: 24188, Name: chrome.exe
+PID: 24208, Name: python.exe
+PID: 24552, Name: conhost.exe
+PID: 24824, Name: Code.exe
+PID: 25248, Name: chrome.exe
+PID: 25472, Name: msedgewebview2.exe
+PID: 25488, Name: chrome.exe
+PID: 25508, Name: chrome.exe
+PID: 25572, Name: DataExchangeHost.exe
+PID: 25748, Name: svchost.exe
+PID: 26040, Name: Microsoft.SharePoint.exe
+PID: 26176, Name: Code.exe
+PID: 27320, Name: backgroundTaskHost.exe
+PID: 27340, Name: Code.exe
+PID: 27440, Name: msedge.exe
+PID: 27940, Name: msedgewebview2.exe
+PID: 28008, Name: chrome.exe
+PID: 28372, Name: wallpaper32.exe
+PID: 28416, Name: chrome.exe
+PID: 28624, Name: chrome.exe
+PID: 28824, Name: msdtc.exe
+PID: 29320, Name: powershell.exe
+PID: 29968, Name: Code.exe
+PID: 30328, Name: WindowsTerminal.exe
+PID: 30804, Name: py.exe
+PID: 31444, Name: conhost.exe
+PID: 31452, Name: python.exe
+PID: 31460, Name: chrome.exe
+PID: 31476, Name: uhssvc.exe
+PID: 31544, Name: chrome.exe
+PID: 31872, Name: chrome.exe
+PID: 32364, Name: chrome.exe
+PID: 32544, Name: msedgewebview2.exe
+PID: 32576, Name: chrome.exe
+PID: 33324, Name: CodeSetup-stable-1a5daa3a0231a0fbba4f14db7ec463cf99d7768e.exe
+PID: 33404, Name: Code.exe
+PID: 33760, Name: svchost.exe
+PID: 33864, Name: chrome.exe
+PID: 34128, Name: Code.exe
+PID: 34332, Name: chrome.exe
+PID: 35416, Name: HPPrintScanDoctorService.exe
+PID: 35504, Name: Code.exe
+PID: 35548, Name: chrome.exe
+PID: 35636, Name: svchost.exe
+PID: 36208, Name: chrome.exe
+PID: 36572, Name: EpicGamesLauncher.exe
+PID: 36964, Name: backgroundTaskHost.exe
+PID: 37532, Name: chrome.exe
+PID: 37932, Name: dllhost.exe
+PID: 37936, Name: chrome.exe
+PID: 38032, Name: msedgewebview2.exe
+PID: 38244, Name: chrome.exe
+PID: 38408, Name: chrome.exe
+PID: 38608, Name: WmiPrvSE.exe
+PID: 38612, Name: svchost.exe
+PID: 38700, Name: msedge.exe
+PID: 38788, Name: chrome.exe
+PID: 39020, Name: OpenConsole.exe
+PID: 39068, Name: msedge.exe
+PID: 39400, Name: chrome.exe
+PID: 39408, Name: Code.exe
+PID: 40436, Name: FileCoAuth.exe
+PID: 40624, Name: chrome.exe
+PID: 40952, Name: chrome.exe
+PID: 41072, Name: chrome.exe
+PID: 41356, Name: EpicWebHelper.exe
+PID: 41396, Name: chrome.exe
+PID: 42180, Name: dllhost.exe
+PID: 42484, Name: chrome.exe
+PID: 43108, Name: py.exe
+PID: 43972, Name: conhost.exe
+PID: 44324, Name: msedgewebview2.exe
+PID: 45180, Name: chrome.exe
+PID: 45972, Name: msedgewebview2.exe
+PID: 46032, Name: msedgewebview2.exe
+PID: 46068, Name: chrome.exe
+PID: 46384, Name: Code.exe
+PID: 46576, Name: chrome.exe
+PID: 46692, Name: msedgewebview2.exe
+PID: 46756, Name: chrome.exe
+PID: 47200, Name: python.exe
+PID: 47332, Name: chrome.exe
+PID: 48212, Name: chrome.exe
+PID: 48512, Name: RuntimeBroker.exe
+PID: 48544, Name: chrome.exe
+
+
+2023-11-17 15:48:56.915460 -- 30:9C:23:AF:C0:27
+kill-by-name chrome.exe
+Succesfully killed process: chrome.exe
+
+2023-11-17 15:52:15.278130 -- 30:9C:23:AF:C0:27
+get-processes
+PID: 0, Name: System Idle Process
+PID: 4, Name: System
+PID: 8, Name: fontdrvhost.exe
+PID: 104, Name: 
+PID: 184, Name: Registry
+PID: 524, Name: smss.exe
+PID: 544, Name: LsaIso.exe
+PID: 548, Name: lsass.exe
+PID: 636, Name: services.exe
+PID: 712, Name: csrss.exe
+PID: 820, Name: wininit.exe
+PID: 828, Name: csrss.exe
+PID: 928, Name: winlogon.exe
+PID: 968, Name: svchost.exe
+PID: 984, Name: fontdrvhost.exe
+PID: 1004, Name: svchost.exe
+PID: 1016, Name: MoNotificationUx.exe
+PID: 1080, Name: OpenConsole.exe
+PID: 1116, Name: svchost.exe
+PID: 1172, Name: svchost.exe
+PID: 1260, Name: dwm.exe
+PID: 1324, Name: svchost.exe
+PID: 1348, Name: svchost.exe
+PID: 1392, Name: svchost.exe
+PID: 1516, Name: powershell.exe
+PID: 1520, Name: steam.exe
+PID: 1536, Name: svchost.exe
+PID: 1572, Name: svchost.exe
+PID: 1588, Name: svchost.exe
+PID: 1600, Name: svchost.exe
+PID: 1664, Name: svchost.exe
+PID: 1704, Name: msedge.exe
+PID: 1804, Name: svchost.exe
+PID: 1836, Name: svchost.exe
+PID: 1860, Name: wslrelay.exe
+PID: 1884, Name: svchost.exe
+PID: 1964, Name: NVDisplay.Container.exe
+PID: 2000, Name: powershell.exe
+PID: 2120, Name: svchost.exe
+PID: 2132, Name: svchost.exe
+PID: 2140, Name: svchost.exe
+PID: 2148, Name: svchost.exe
+PID: 2196, Name: svchost.exe
+PID: 2252, Name: backgroundTaskHost.exe
+PID: 2288, Name: svchost.exe
+PID: 2352, Name: svchost.exe
+PID: 2396, Name: ApplicationFrameHost.exe
+PID: 2428, Name: MemCompression
+PID: 2484, Name: svchost.exe
+PID: 2508, Name: svchost.exe
+PID: 2576, Name: svchost.exe
+PID: 2584, Name: svchost.exe
+PID: 2672, Name: svchost.exe
+PID: 2800, Name: svchost.exe
+PID: 2848, Name: svchost.exe
+PID: 2976, Name: sqlwriter.exe
+PID: 2988, Name: svchost.exe
+PID: 3060, Name: svchost.exe
+PID: 3188, Name: vmcompute.exe
+PID: 3256, Name: sqlbrowser.exe
+PID: 3312, Name: svchost.exe
+PID: 3352, Name: remotesolverdispatcherservice.exe
+PID: 3364, Name: svchost.exe
+PID: 3460, Name: SWVisualize.Queue.Server.exe
+PID: 3472, Name: svchost.exe
+PID: 3476, Name: svchost.exe
+PID: 3588, Name: svchost.exe
+PID: 3612, Name: svchost.exe
+PID: 3676, Name: spoolsv.exe
+PID: 3720, Name: svchost.exe
+PID: 3784, Name: svchost.exe
+PID: 3792, Name: PhoneExperienceHost.exe
+PID: 3804, Name: svchost.exe
+PID: 3812, Name: EwServer.exe
+PID: 3824, Name: conhost.exe
+PID: 3828, Name: svchost.exe
+PID: 3840, Name: filezilla-server.exe
+PID: 3852, Name: remoting_host.exe
+PID: 3868, Name: svchost.exe
+PID: 3892, Name: FNPLicensingService64.exe
+PID: 3928, Name: svchost.exe
+PID: 3960, Name: OfficeClickToRun.exe
+PID: 4032, Name: SpotifyWidgetProvider.exe
+PID: 4048, Name: dllhost.exe
+PID: 4052, Name: sqlservr.exe
+PID: 4076, Name: mysqld.exe
+PID: 4120, Name: svchost.exe
+PID: 4128, Name: svchost.exe
+PID: 4136, Name: svchost.exe
+PID: 4260, Name: vmnat.exe
+PID: 4268, Name: WMIRegistrationService.exe
+PID: 4288, Name: vmware-usbarbitrator64.exe
+PID: 4296, Name: MsMpEng.exe
+PID: 4304, Name: vmnetdhcp.exe
+PID: 4340, Name: svchost.exe
+PID: 4368, Name: svchost.exe
+PID: 4376, Name: vmware-authd.exe
+PID: 4400, Name: sqlceip.exe
+PID: 4424, Name: svchost.exe
+PID: 4532, Name: dispatcher.exe
+PID: 4612, Name: conhost.exe
+PID: 4756, Name: jhi_service.exe
+PID: 4788, Name: svchost.exe
+PID: 5196, Name: remoting_host.exe
+PID: 5228, Name: mysqld.exe
+PID: 5276, Name: conhost.exe
+PID: 5320, Name: svchost.exe
+PID: 5384, Name: explorer.exe
+PID: 5548, Name: AggregatorHost.exe
+PID: 5620, Name: python.exe
+PID: 5632, Name: dasHost.exe
+PID: 5656, Name: LockApp.exe
+PID: 5744, Name: taskhostw.exe
+PID: 5752, Name: svchost.exe
+PID: 5816, Name: NisSrv.exe
+PID: 5892, Name: msedge.exe
+PID: 6084, Name: svchost.exe
+PID: 6172, Name: conhost.exe
+PID: 6280, Name: wslhost.exe
+PID: 6472, Name: svchost.exe
+PID: 6592, Name: dasHost.exe
+PID: 6616, Name: steamwebhelper.exe
+PID: 6704, Name: svchost.exe
+PID: 6744, Name: svchost.exe
+PID: 6760, Name: svchost.exe
+PID: 6876, Name: Code.exe
+PID: 7036, Name: CodeSetup-stable-1a5daa3a0231a0fbba4f14db7ec463cf99d7768e.tmp
+PID: 7208, Name: RuntimeBroker.exe
+PID: 7584, Name: vmmemWSL
+PID: 7680, Name: dllhost.exe
+PID: 7832, Name: WidgetService.exe
+PID: 7924, Name: ctfmon.exe
+PID: 7964, Name: sihost.exe
+PID: 8100, Name: conhost.exe
+PID: 8120, Name: NVDisplay.Container.exe
+PID: 8132, Name: svchost.exe
+PID: 8180, Name: SecurityHealthService.exe
+PID: 8220, Name: svchost.exe
+PID: 8224, Name: wslhost.exe
+PID: 8284, Name: svchost.exe
+PID: 8364, Name: Code.exe
+PID: 8468, Name: SecurityHealthSystray.exe
+PID: 8524, Name: MpDefenderCoreService.exe
+PID: 8532, Name: wslhost.exe
+PID: 8544, Name: SgrmBroker.exe
+PID: 8548, Name: svchost.exe
+PID: 8704, Name: TextInputHost.exe
+PID: 8808, Name: svchost.exe
+PID: 8852, Name: FileSyncHelper.exe
+PID: 8860, Name: Widgets.exe
+PID: 9068, Name: svchost.exe
+PID: 9332, Name: SearchHost.exe
+PID: 9356, Name: StartMenuExperienceHost.exe
+PID: 9440, Name: Code.exe
+PID: 9520, Name: RuntimeBroker.exe
+PID: 9584, Name: RuntimeBroker.exe
+PID: 9716, Name: svchost.exe
+PID: 10096, Name: dllhost.exe
+PID: 10116, Name: svchost.exe
+PID: 10608, Name: SearchIndexer.exe
+PID: 11020, Name: svchost.exe
+PID: 11068, Name: Code.exe
+PID: 11088, Name: svchost.exe
+PID: 11140, Name: com.docker.build.exe
+PID: 11152, Name: wslhost.exe
+PID: 11192, Name: svchost.exe
+PID: 11340, Name: py.exe
+PID: 11344, Name: RuntimeBroker.exe
+PID: 11740, Name: dllhost.exe
+PID: 11856, Name: backgroundTaskHost.exe
+PID: 11992, Name: ShellExperienceHost.exe
+PID: 12136, Name: Docker Desktop.exe
+PID: 12328, Name: Grammarly.Desktop.exe
+PID: 12528, Name: steamwebhelper.exe
+PID: 12540, Name: steamwebhelper.exe
+PID: 12568, Name: Docker Desktop.exe
+PID: 12628, Name: steamwebhelper.exe
+PID: 12900, Name: RuntimeBroker.exe
+PID: 13044, Name: Code.exe
+PID: 13052, Name: steamservice.exe
+PID: 13192, Name: steamwebhelper.exe
+PID: 14288, Name: EpicWebHelper.exe
+PID: 14352, Name: svchost.exe
+PID: 14432, Name: jucheck.exe
+PID: 14444, Name: conhost.exe
+PID: 14772, Name: steamwebhelper.exe
+PID: 15080, Name: svchost.exe
+PID: 15148, Name: MoUsoCoreWorker.exe
+PID: 15412, Name: vmwp.exe
+PID: 15740, Name: msedgewebview2.exe
+PID: 15932, Name: wslservice.exe
+PID: 15992, Name: OneDrive.exe
+PID: 16008, Name: msedgewebview2.exe
+PID: 16268, Name: dllhost.exe
+PID: 16300, Name: AppleMobileDeviceProcess.exe
+PID: 16596, Name: Discord.exe
+PID: 16768, Name: Discord.exe
+PID: 16900, Name: Discord.exe
+PID: 16912, Name: Discord.exe
+PID: 17040, Name: com.docker.backend.exe
+PID: 17048, Name: conhost.exe
+PID: 17240, Name: Code.exe
+PID: 17280, Name: svchost.exe
+PID: 17300, Name: Docker Desktop.exe
+PID: 17316, Name: docker.exe
+PID: 17524, Name: sldworks_fs.exe
+PID: 17628, Name: Discord.exe
+PID: 17636, Name: com.docker.dev-envs.exe
+PID: 17792, Name: vmware-tray.exe
+PID: 17844, Name: com.docker.extensions.exe
+PID: 18060, Name: jusched.exe
+PID: 18116, Name: svchost.exe
+PID: 18176, Name: dllhost.exe
+PID: 18212, Name: dllhost.exe
+PID: 18360, Name: Docker Desktop.exe
+PID: 18376, Name: conhost.exe
+PID: 18420, Name: RuntimeBroker.exe
+PID: 18532, Name: Discord.exe
+PID: 18868, Name: Video.UI.exe
+PID: 19016, Name: conhost.exe
+PID: 19048, Name: backgroundTaskHost.exe
+PID: 19116, Name: msedgewebview2.exe
+PID: 19224, Name: msrdc.exe
+PID: 19296, Name: wslhost.exe
+PID: 19352, Name: msrdc.exe
+PID: 19520, Name: wsl.exe
+PID: 19564, Name: wsl.exe
+PID: 19636, Name: wslhost.exe
+PID: 19644, Name: wsl.exe
+PID: 19668, Name: wsl.exe
+PID: 19720, Name: conhost.exe
+PID: 19804, Name: dllhost.exe
+PID: 19848, Name: wsl.exe
+PID: 19876, Name: wsl.exe
+PID: 19968, Name: wslhost.exe
+PID: 19992, Name: wslhost.exe
+PID: 20016, Name: conhost.exe
+PID: 20076, Name: conhost.exe
+PID: 20224, Name: backgroundTaskHost.exe
+PID: 20520, Name: msedgewebview2.exe
+PID: 21316, Name: dllhost.exe
+PID: 21404, Name: msedgewebview2.exe
+PID: 21648, Name: py.exe
+PID: 22212, Name: OneDrive.exe
+PID: 22396, Name: backgroundTaskHost.exe
+PID: 22472, Name: WmiPrvSE.exe
+PID: 22484, Name: powershell.exe
+PID: 22896, Name: svchost.exe
+PID: 23376, Name: powershell.exe
+PID: 23596, Name: Code.exe
+PID: 23876, Name: audiodg.exe
+PID: 24208, Name: python.exe
+PID: 24552, Name: conhost.exe
+PID: 24824, Name: Code.exe
+PID: 25472, Name: msedgewebview2.exe
+PID: 25572, Name: DataExchangeHost.exe
+PID: 26040, Name: Microsoft.SharePoint.exe
+PID: 26176, Name: Code.exe
+PID: 27320, Name: backgroundTaskHost.exe
+PID: 27340, Name: Code.exe
+PID: 27440, Name: msedge.exe
+PID: 27940, Name: msedgewebview2.exe
+PID: 28372, Name: wallpaper32.exe
+PID: 28824, Name: msdtc.exe
+PID: 29320, Name: powershell.exe
+PID: 29968, Name: Code.exe
+PID: 30328, Name: WindowsTerminal.exe
+PID: 31444, Name: conhost.exe
+PID: 31452, Name: python.exe
+PID: 31476, Name: uhssvc.exe
+PID: 32544, Name: msedgewebview2.exe
+PID: 33324, Name: CodeSetup-stable-1a5daa3a0231a0fbba4f14db7ec463cf99d7768e.exe
+PID: 33404, Name: Code.exe
+PID: 33760, Name: svchost.exe
+PID: 34128, Name: Code.exe
+PID: 35416, Name: HPPrintScanDoctorService.exe
+PID: 35504, Name: Code.exe
+PID: 35636, Name: svchost.exe
+PID: 36464, Name: python.exe
+PID: 36572, Name: EpicGamesLauncher.exe
+PID: 36964, Name: backgroundTaskHost.exe
+PID: 37932, Name: dllhost.exe
+PID: 38032, Name: msedgewebview2.exe
+PID: 38612, Name: svchost.exe
+PID: 38700, Name: msedge.exe
+PID: 39020, Name: OpenConsole.exe
+PID: 39068, Name: msedge.exe
+PID: 39408, Name: Code.exe
+PID: 40436, Name: FileCoAuth.exe
+PID: 41356, Name: EpicWebHelper.exe
+PID: 42180, Name: dllhost.exe
+PID: 43972, Name: conhost.exe
+PID: 44324, Name: msedgewebview2.exe
+PID: 45972, Name: msedgewebview2.exe
+PID: 46032, Name: msedgewebview2.exe
+PID: 46384, Name: Code.exe
+PID: 46692, Name: msedgewebview2.exe
+PID: 48512, Name: RuntimeBroker.exe
+PID: 48788, Name: svchost.exe
+
+
+2023-11-17 15:53:07.437565 -- 30:9C:23:AF:C0:27
+kill-by-name discord.exe
+Succesfully killed process: discord.exe
+
+2023-11-17 15:54:15.882453 -- 30:9C:23:AF:C0:27
+kill-by-name discord.exe
+Succesfully killed process: discord.exe
+
+2023-11-17 15:59:10.713483 -- 30:9C:23:AF:C0:27
+kill-by-name chrome.exe
+Succesfully killed process: chrome.exe
+
+2023-11-17 18:48:45.868985 -- 30:9C:23:AF:C0:27
+get-all-services
+Name: AJRouter, DisplayName: AllJoyn Router Service, Status:stopped
+Name: ALG, DisplayName: Application Layer Gateway Service, Status:stopped
+Name: AppIDSvc, DisplayName: Application Identity, Status:stopped
+Name: Appinfo, DisplayName: Application Information, Status:running
+Name: AppMgmt, DisplayName: Application Management, Status:stopped
+Name: AppReadiness, DisplayName: App Readiness, Status:stopped
+Name: AppVClient, DisplayName: Microsoft App-V Client, Status:stopped
+Name: AppXSvc, DisplayName: AppX Deployment Service (AppXSVC), Status:running
+Name: aspnet_state, DisplayName: ASP.NET State Service, Status:stopped
+Name: AssignedAccessManagerSvc, DisplayName: AssignedAccessManager Service, Status:stopped
+Name: AudioEndpointBuilder, DisplayName: Windows Audio Endpoint Builder, Status:running
+Name: Audiosrv, DisplayName: Windows Audio, Status:running
+Name: autotimesvc, DisplayName: Cellular Time, Status:stopped
+Name: AxInstSV, DisplayName: ActiveX Installer (AxInstSV), Status:stopped
+Name: AzureAttestService, DisplayName: AzureAttestService, Status:running
+Name: BDESVC, DisplayName: BitLocker Drive Encryption Service, Status:stopped
+Name: BFE, DisplayName: Base Filtering Engine, Status:running
+Name: BITS, DisplayName: Background Intelligent Transfer Service, Status:stopped
+Name: Bonjour Service, DisplayName: Bonjour Service, Status:stopped
+Name: BrokerInfrastructure, DisplayName: Background Tasks Infrastructure Service, Status:running
+Name: Browser, DisplayName: Computer Browser, Status:stopped
+Name: BTAGService, DisplayName: Bluetooth Audio Gateway Service, Status:stopped
+Name: BthAvctpSvc, DisplayName: AVCTP service, Status:running
+Name: bthserv, DisplayName: Bluetooth Support Service, Status:stopped
+Name: camsvc, DisplayName: Capability Access Manager Service, Status:running
+Name: CDPSvc, DisplayName: Connected Devices Platform Service, Status:running
+Name: CertPropSvc, DisplayName: Certificate Propagation, Status:stopped
+Name: chromoting, DisplayName: Chrome Remote Desktop Service, Status:running
+Name: ClickToRunSvc, DisplayName: Microsoft Office Click-to-Run Service, Status:running
+Name: ClipSVC, DisplayName: Client License Service (ClipSVC), Status:stopped
+Name: cloudidsvc, DisplayName: Microsoft Cloud Identity Service, Status:stopped
+Name: com.docker.service, DisplayName: Docker Desktop Service, Status:stopped
+Name: COMSysApp, DisplayName: COM+ System Application, Status:running
+Name: CoordinatorServiceHost, DisplayName: DTSInterops, Status:stopped
+Name: CoreMessagingRegistrar, DisplayName: CoreMessaging, Status:running
+Name: CryptSvc, DisplayName: Cryptographic Services, Status:running
+Name: CscService, DisplayName: Offline Files, Status:stopped
+Name: DcomLaunch, DisplayName: DCOM Server Process Launcher, Status:running
+Name: dcsvc, DisplayName: dcsvc, Status:stopped
+Name: defragsvc, DisplayName: Optimize drives, Status:stopped
+Name: DeviceAssociationService, DisplayName: Device Association Service, Status:running
+Name: DeviceInstall, DisplayName: Device Install Service, Status:stopped
+Name: DevQueryBroker, DisplayName: DevQuery Background Discovery Broker, Status:stopped
+Name: Dhcp, DisplayName: DHCP Client, Status:running
+Name: diagnosticshub.standardcollector.service, DisplayName: Microsoft (R) Diagnostics Hub Standard Collector Service, Status:stopped
+Name: diagsvc, DisplayName: Diagnostic Execution Service, Status:stopped
+Name: DiagTrack, DisplayName: Connected User Experiences and Telemetry, Status:running
+Name: DialogBlockingService, DisplayName: DialogBlockingService, Status:stopped
+Name: DispBrokerDesktopSvc, DisplayName: Display Policy Service, Status:running
+Name: DisplayEnhancementService, DisplayName: Display Enhancement Service, Status:running
+Name: DmEnrollmentSvc, DisplayName: Device Management Enrollment Service, Status:stopped
+Name: dmwappushservice, DisplayName: Device Management Wireless Application Protocol (WAP) Push message Routing Service, Status:stopped
+Name: Dnscache, DisplayName: DNS Client, Status:running
+Name: DoSvc, DisplayName: Delivery Optimization, Status:running
+Name: dot3svc, DisplayName: Wired AutoConfig, Status:stopped
+Name: DPS, DisplayName: Diagnostic Policy Service, Status:running
+Name: DsmSvc, DisplayName: Device Setup Manager, Status:stopped
+Name: DsSvc, DisplayName: Data Sharing Service, Status:running
+Name: DusmSvc, DisplayName: Data Usage, Status:running
+Name: EapHost, DisplayName: Extensible Authentication Protocol, Status:stopped
+Name: EasyAntiCheat_EOS, DisplayName: Easy Anti-Cheat (Epic Online Services), Status:stopped
+Name: edgeupdate, DisplayName: Microsoft Edge Update Service (edgeupdate), Status:stopped
+Name: edgeupdatem, DisplayName: Microsoft Edge Update Service (edgeupdatem), Status:stopped
+Name: EFS, DisplayName: Encrypting File System (EFS), Status:running
+Name: embeddedmode, DisplayName: Embedded Mode, Status:stopped
+Name: EntAppSvc, DisplayName: Enterprise App Management Service, Status:stopped
+Name: EpicOnlineServices, DisplayName: Epic Online Services, Status:stopped
+Name: EventLog, DisplayName: Windows Event Log, Status:running
+Name: EventSystem, DisplayName: COM+ Event System, Status:running
+Name: ewserver, DisplayName: SOLIDWORKS Electrical Collaborative Server, Status:running
+Name: Fax, DisplayName: Fax, Status:stopped
+Name: fdPHost, DisplayName: Function Discovery Provider Host, Status:stopped
+Name: FDResPub, DisplayName: Function Discovery Resource Publication, Status:stopped
+Name: fhsvc, DisplayName: File History Service, Status:stopped
+Name: FileSyncHelper, DisplayName: FileSyncHelper, Status:running
+Name: filezilla-server, DisplayName: filezilla-server, Status:running
+Name: FlexNet Licensing Service, DisplayName: FlexNet Licensing Service, Status:stopped
+Name: FlexNet Licensing Service 64, DisplayName: FlexNet Licensing Service 64, Status:running
+Name: FontCache, DisplayName: Windows Font Cache Service, Status:running
+Name: FrameServer, DisplayName: Windows Camera Frame Server, Status:stopped
+Name: FrameServerMonitor, DisplayName: Windows Camera Frame Server Monitor, Status:stopped
+Name: GoogleChromeBetaElevationService, DisplayName: Google Chrome Beta Elevation Service (GoogleChromeBetaElevationService), Status:stopped
+Name: GoogleChromeElevationService, DisplayName: Google Chrome Elevation Service (GoogleChromeElevationService), Status:stopped
+Name: gpsvc, DisplayName: Group Policy Client, Status:stopped
+Name: GraphicsPerfSvc, DisplayName: GraphicsPerfSvc, Status:stopped
+Name: hidserv, DisplayName: Human Interface Device Service, Status:running
+Name: hns, DisplayName: Host Network Service, Status:running
+Name: HPPrintScanDoctorService, DisplayName: HP Print Scan Doctor Service, Status:running
+Name: HvHost, DisplayName: HV Host Service, Status:running
+Name: icssvc, DisplayName: Windows Mobile Hotspot Service, Status:stopped
+Name: IKEEXT, DisplayName: IKE and AuthIP IPsec Keying Modules, Status:stopped
+Name: InstallService, DisplayName: Microsoft Store Install Service, Status:running
+Name: Intel(R) Capability Licensing Service TCP IP Interface, DisplayName: Intel(R) Capability Licensing Service TCP IP Interface, Status:stopped
+Name: Intel(R) TPM Provisioning Service, DisplayName: Intel(R) TPM Provisioning Service, Status:stopped
+Name: iphlpsvc, DisplayName: IP Helper, Status:running
+Name: IpxlatCfgSvc, DisplayName: IP Translation Configuration Service, Status:stopped
+Name: jhi_service, DisplayName: Intel(R) Dynamic Application Loader Host Interface Service, Status:running
+Name: KeyIso, DisplayName: CNG Key Isolation, Status:running
+Name: KtmRm, DisplayName: KtmRm for Distributed Transaction Coordinator, Status:stopped
+Name: LanmanServer, DisplayName: Server, Status:running
+Name: LanmanWorkstation, DisplayName: Workstation, Status:running
+Name: lfsvc, DisplayName: Geolocation Service, Status:running
+Name: LicenseManager, DisplayName: Windows License Manager Service, Status:running
+Name: lltdsvc, DisplayName: Link-Layer Topology Discovery Mapper, Status:stopped
+Name: lmhosts, DisplayName: TCP/IP NetBIOS Helper, Status:running
+Name: LSM, DisplayName: Local Session Manager, Status:running
+Name: LxpSvc, DisplayName: Language Experience Service, Status:stopped
+Name: LxssManager, DisplayName: LxssManager, Status:stopped
+Name: MapsBroker, DisplayName: Downloaded Maps Manager, Status:stopped
+Name: McpManagementService, DisplayName: McpManagementService, Status:stopped
+Name: MicrosoftEdgeElevationService, DisplayName: Microsoft Edge Elevation Service (MicrosoftEdgeElevationService), Status:stopped
+Name: MixedRealityOpenXRSvc, DisplayName: Windows Mixed Reality OpenXR Service, Status:stopped
+Name: mpssvc, DisplayName: Windows Defender Firewall, Status:running
+Name: MSDTC, DisplayName: Distributed Transaction Coordinator, Status:running
+Name: MSiSCSI, DisplayName: Microsoft iSCSI Initiator Service, Status:stopped
+Name: msiserver, DisplayName: Windows Installer, Status:stopped
+Name: MsKeyboardFilter, DisplayName: Microsoft Keyboard Filter, Status:stopped
+Name: MSSQL$TEW_SQLEXPRESS, DisplayName: SQL Server (TEW_SQLEXPRESS), Status:running
+Name: MySQL81, DisplayName: MySQL81, Status:running
+Name: NaturalAuthentication, DisplayName: Natural Authentication, Status:stopped
+Name: NcaSvc, DisplayName: Network Connectivity Assistant, Status:stopped
+Name: NcbService, DisplayName: Network Connection Broker, Status:running
+Name: NcdAutoSetup, DisplayName: Network Connected Devices Auto-Setup, Status:stopped
+Name: Netlogon, DisplayName: Netlogon, Status:stopped
+Name: Netman, DisplayName: Network Connections, Status:stopped
+Name: netprofm, DisplayName: Network List Service, Status:running
+Name: NetSetupSvc, DisplayName: Network Setup Service, Status:stopped
+Name: NetTcpPortSharing, DisplayName: Net.Tcp Port Sharing Service, Status:stopped
+Name: NgcCtnrSvc, DisplayName: Microsoft Passport Container, Status:stopped
+Name: NgcSvc, DisplayName: Microsoft Passport, Status:stopped
+Name: NlaSvc, DisplayName: Network Location Awareness, Status:stopped
+Name: nsi, DisplayName: Network Store Interface Service, Status:running
+Name: nvagent, DisplayName: Network Virtualization Service, Status:running
+Name: NVDisplay.ContainerLocalSystem, DisplayName: NVIDIA Display Container LS, Status:running
+Name: OfficeSvcManagerAddons, DisplayName: OfficeSvcManagerAddons, Status:stopped
+Name: OneDrive Updater Service, DisplayName: OneDrive Updater Service, Status:stopped
+Name: p2pimsvc, DisplayName: Peer Networking Identity Manager, Status:stopped
+Name: p2psvc, DisplayName: Peer Networking Grouping, Status:stopped
+Name: PcaSvc, DisplayName: Program Compatibility Assistant Service, Status:running
+Name: PeerDistSvc, DisplayName: BranchCache, Status:stopped
+Name: perceptionsimulation, DisplayName: Windows Perception Simulation Service, Status:stopped
+Name: PerfHost, DisplayName: Performance Counter DLL Host, Status:stopped
+Name: PhoneSvc, DisplayName: Phone Service, Status:stopped
+Name: pla, DisplayName: Performance Logs & Alerts, Status:stopped
+Name: PlugPlay, DisplayName: Plug and Play, Status:running
+Name: PNRPAutoReg, DisplayName: PNRP Machine Name Publication Service, Status:stopped
+Name: PNRPsvc, DisplayName: Peer Name Resolution Protocol, Status:stopped
+Name: PolicyAgent, DisplayName: IPsec Policy Agent, Status:running
+Name: Power, DisplayName: Power, Status:running
+Name: PrintNotify, DisplayName: Printer Extensions and Notifications, Status:stopped
+Name: ProfSvc, DisplayName: User Profile Service, Status:running
+Name: PushToInstall, DisplayName: Windows PushToInstall Service, Status:stopped
+Name: QWAVE, DisplayName: Quality Windows Audio Video Experience, Status:stopped
+Name: RasAuto, DisplayName: Remote Access Auto Connection Manager, Status:stopped
+Name: RasMan, DisplayName: Remote Access Connection Manager, Status:stopped
+Name: RemoteAccess, DisplayName: Routing and Remote Access, Status:stopped
+Name: RemoteRegistry, DisplayName: Remote Registry, Status:stopped
+Name: RemoteSolverDispatcher, DisplayName: Remote Solver for Flow Simulation 2020, Status:running
+Name: RetailDemo, DisplayName: Retail Demo Service, Status:stopped
+Name: RmSvc, DisplayName: Radio Management Service, Status:running
+Name: RpcEptMapper, DisplayName: RPC Endpoint Mapper, Status:running
+Name: RpcLocator, DisplayName: Remote Procedure Call (RPC) Locator, Status:stopped
+Name: RpcSs, DisplayName: Remote Procedure Call (RPC), Status:running
+Name: SamSs, DisplayName: Security Accounts Manager, Status:running
+Name: SCardSvr, DisplayName: Smart Card, Status:stopped
+Name: ScDeviceEnum, DisplayName: Smart Card Device Enumeration Service, Status:stopped
+Name: Schedule, DisplayName: Task Scheduler, Status:running
+Name: SCPolicySvc, DisplayName: Smart Card Removal Policy, Status:stopped
+Name: SDRSVC, DisplayName: Windows Backup, Status:running
+Name: seclogon, DisplayName: Secondary Logon, Status:stopped
+Name: SecurityHealthService, DisplayName: Windows Security Service, Status:running
+Name: SEMgrSvc, DisplayName: Payments and NFC/SE Manager, Status:stopped
+Name: SENS, DisplayName: System Event Notification Service, Status:running
+Name: Sense, DisplayName: Windows Defender Advanced Threat Protection Service, Status:stopped
+Name: SensorDataService, DisplayName: Sensor Data Service, Status:stopped
+Name: SensorService, DisplayName: Sensor Service, Status:stopped
+Name: SensrSvc, DisplayName: Sensor Monitoring Service, Status:stopped
+Name: SessionEnv, DisplayName: Remote Desktop Configuration, Status:stopped
+Name: SgrmBroker, DisplayName: System Guard Runtime Monitor Broker, Status:running
+Name: SharedAccess, DisplayName: Internet Connection Sharing (ICS), Status:running
+Name: SharedRealitySvc, DisplayName: Spatial Data Service, Status:stopped
+Name: ShellHWDetection, DisplayName: Shell Hardware Detection, Status:running
+Name: shpamsvc, DisplayName: Shared PC Account Manager, Status:stopped
+Name: smphost, DisplayName: Microsoft Storage Spaces SMP, Status:stopped
+Name: SmsRouter, DisplayName: Microsoft Windows SMS Router Service., Status:stopped
+Name: SNMPTrap, DisplayName: SNMP Trap, Status:stopped
+Name: SolidWorks Licensing Service, DisplayName: SolidWorks Licensing Service, Status:stopped
+Name: spectrum, DisplayName: Windows Perception Service, Status:stopped
+Name: Spooler, DisplayName: Print Spooler, Status:running
+Name: sppsvc, DisplayName: Software Protection, Status:stopped
+Name: SQLAgent$TEW_SQLEXPRESS, DisplayName: SQL Server Agent (TEW_SQLEXPRESS), Status:stopped
+Name: SQLBrowser, DisplayName: SQL Server Browser, Status:running
+Name: SQLTELEMETRY$TEW_SQLEXPRESS, DisplayName: SQL Server CEIP service (TEW_SQLEXPRESS), Status:running
+Name: SQLWriter, DisplayName: SQL Server VSS Writer, Status:running
+Name: SSDPSRV, DisplayName: SSDP Discovery, Status:running
+Name: ssh-agent, DisplayName: OpenSSH Authentication Agent, Status:stopped
+Name: SstpSvc, DisplayName: Secure Socket Tunneling Protocol Service, Status:stopped
+Name: StateRepository, DisplayName: State Repository Service, Status:running
+Name: Steam Client Service, DisplayName: Steam Client Service, Status:running
+Name: StiSvc, DisplayName: Windows Image Acquisition (WIA), Status:running
+Name: StorSvc, DisplayName: Storage Service, Status:running
+Name: svsvc, DisplayName: Spot Verifier, Status:stopped
+Name: swprv, DisplayName: Microsoft Software Shadow Copy Provider, Status:stopped
+Name: SWVisualize2023.Queue.Server, DisplayName: SWVisualize2023.Queue.Server, Status:running
+Name: SysMain, DisplayName: SysMain, Status:running
+Name: SystemEventsBroker, DisplayName: System Events Broker, Status:running
+Name: TabletInputService, DisplayName: Touch Keyboard and Handwriting Panel Service, Status:running
+Name: TapiSrv, DisplayName: Telephony, Status:stopped
+Name: TermService, DisplayName: Remote Desktop Services, Status:stopped
+Name: Themes, DisplayName: Themes, Status:running
+Name: TieringEngineService, DisplayName: Storage Tiers Management, Status:stopped
+Name: TimeBrokerSvc, DisplayName: Time Broker, Status:running
+Name: TokenBroker, DisplayName: Web Account Manager, Status:running
+Name: TrkWks, DisplayName: Distributed Link Tracking Client, Status:running
+Name: TroubleshootingSvc, DisplayName: Recommended Troubleshooting Service, Status:stopped
+Name: TrustedInstaller, DisplayName: Windows Modules Installer, Status:stopped
+Name: tzautoupdate, DisplayName: Auto Time Zone Updater, Status:stopped
+Name: UevAgentService, DisplayName: User Experience Virtualization Service, Status:stopped
+Name: uhssvc, DisplayName: Microsoft Update Health Service, Status:running
+Name: UmRdpService, DisplayName: Remote Desktop Services UserMode Port Redirector, Status:stopped
+Name: upnphost, DisplayName: UPnP Device Host, Status:stopped
+Name: UserManager, DisplayName: User Manager, Status:running
+Name: UsoSvc, DisplayName: Update Orchestrator Service, Status:running
+Name: VacSvc, DisplayName: Volumetric Audio Compositor Service, Status:stopped
+Name: VaultSvc, DisplayName: Credential Manager, Status:running
+Name: VBoxSDS, DisplayName: VirtualBox system service, Status:stopped
+Name: vds, DisplayName: Virtual Disk, Status:stopped
+Name: VMAuthdService, DisplayName: VMware Authorization Service, Status:running
+Name: vmcompute, DisplayName: Hyper-V Host Compute Service, Status:running
+Name: vmicguestinterface, DisplayName: Hyper-V Guest Service Interface, Status:stopped
+Name: vmicheartbeat, DisplayName: Hyper-V Heartbeat Service, Status:stopped
+Name: vmickvpexchange, DisplayName: Hyper-V Data Exchange Service, Status:stopped
+Name: vmicrdv, DisplayName: Hyper-V Remote Desktop Virtualization Service, Status:stopped
+Name: vmicshutdown, DisplayName: Hyper-V Guest Shutdown Service, Status:stopped
+Name: vmictimesync, DisplayName: Hyper-V Time Synchronization Service, Status:stopped
+Name: vmicvmsession, DisplayName: Hyper-V PowerShell Direct Service, Status:stopped
+Name: vmicvss, DisplayName: Hyper-V Volume Shadow Copy Requestor, Status:stopped
+Name: VMnetDHCP, DisplayName: VMware DHCP Service, Status:running
+Name: VMUSBArbService, DisplayName: VMware USB Arbitration Service, Status:running
+Name: VMware NAT Service, DisplayName: VMware NAT Service, Status:running
+Name: VmwareAutostartService, DisplayName: VMware Autostart Service, Status:stopped
+Name: VSS, DisplayName: Volume Shadow Copy, Status:stopped
+Name: VSStandardCollectorService150, DisplayName: Visual Studio Standard Collector Service 150, Status:stopped
+Name: W32Time, DisplayName: Windows Time, Status:stopped
+Name: WaaSMedicSvc, DisplayName: Windows Update Medic Service, Status:stopped
+Name: WalletService, DisplayName: WalletService, Status:stopped
+Name: WarpJITSvc, DisplayName: Warp JIT Service, Status:stopped
+Name: wbengine, DisplayName: Block Level Backup Engine Service, Status:stopped
+Name: WbioSrvc, DisplayName: Windows Biometric Service, Status:stopped
+Name: Wcmsvc, DisplayName: Windows Connection Manager, Status:running
+Name: wcncsvc, DisplayName: Windows Connect Now - Config Registrar, Status:stopped
+Name: WdiServiceHost, DisplayName: Diagnostic Service Host, Status:running
+Name: WdiSystemHost, DisplayName: Diagnostic System Host, Status:running
+Name: WdNisSvc, DisplayName: Microsoft Defender Antivirus Network Inspection Service, Status:running
+Name: WebClient, DisplayName: WebClient, Status:running
+Name: Wecsvc, DisplayName: Windows Event Collector, Status:stopped
+Name: WEPHOSTSVC, DisplayName: Windows Encryption Provider Host Service, Status:stopped
+Name: wercplsupport, DisplayName: Problem Reports Control Panel Support, Status:stopped
+Name: WerSvc, DisplayName: Windows Error Reporting Service, Status:stopped
+Name: WFDSConMgrSvc, DisplayName: Wi-Fi Direct Services Connection Manager Service, Status:stopped
+Name: WiaRpc, DisplayName: Still Image Acquisition Events, Status:stopped
+Name: WinDefend, DisplayName: Microsoft Defender Antivirus Service, Status:running
+Name: WinHttpAutoProxySvc, DisplayName: WinHTTP Web Proxy Auto-Discovery Service, Status:running
+Name: Winmgmt, DisplayName: Windows Management Instrumentation, Status:running
+Name: WinRM, DisplayName: Windows Remote Management (WS-Management), Status:stopped
+Name: wisvc, DisplayName: Windows Insider Service, Status:stopped
+Name: WlanSvc, DisplayName: WLAN AutoConfig, Status:running
+Name: wlidsvc, DisplayName: Microsoft Account Sign-in Assistant, Status:stopped
+Name: wlpasvc, DisplayName: Local Profile Assistant Service, Status:stopped
+Name: WManSvc, DisplayName: Windows Management Service, Status:stopped
+Name: wmiApSrv, DisplayName: WMI Performance Adapter, Status:stopped
+Name: WMIRegistrationService, DisplayName: Intel(R) Management Engine WMI Provider Registration, Status:running
+Name: WMPNetworkSvc, DisplayName: Windows Media Player Network Sharing Service, Status:stopped
+Name: workfolderssvc, DisplayName: Work Folders, Status:stopped
+Name: WpcMonSvc, DisplayName: Parental Controls, Status:stopped
+Name: WPDBusEnum, DisplayName: Portable Device Enumerator Service, Status:stopped
+Name: WpnService, DisplayName: Windows Push Notifications System Service, Status:running
+Name: wscsvc, DisplayName: Security Center, Status:running
+Name: WSearch, DisplayName: Windows Search, Status:running
+Name: wuauserv, DisplayName: Windows Update, Status:stopped
+Name: WwanSvc, DisplayName: WWAN AutoConfig, Status:stopped
+Name: XblAuthManager, DisplayName: Xbox Live Auth Manager, Status:stopped
+Name: XblGameSave, DisplayName: Xbox Live Game Save, Status:stopped
+Name: XboxGipSvc, DisplayName: Xbox Accessory Management Service, Status:stopped
+Name: XboxNetApiSvc, DisplayName: Xbox Live Networking Service, Status:stopped
+Name: AarSvc_28b5a7, DisplayName: Agent Activation Runtime_28b5a7, Status:stopped
+Name: BcastDVRUserService_28b5a7, DisplayName: GameDVR and Broadcast User Service_28b5a7, Status:stopped
+Name: BluetoothUserService_28b5a7, DisplayName: Bluetooth User Support Service_28b5a7, Status:stopped
+Name: CaptureService_28b5a7, DisplayName: CaptureService_28b5a7, Status:running
+Name: cbdhsvc_28b5a7, DisplayName: Clipboard User Service_28b5a7, Status:running
+Name: CDPUserSvc_28b5a7, DisplayName: Connected Devices Platform User Service_28b5a7, Status:running
+Name: ConsentUxUserSvc_28b5a7, DisplayName: ConsentUX User Service_28b5a7, Status:stopped
+Name: CredentialEnrollmentManagerUserSvc_28b5a7, DisplayName: CredentialEnrollmentManagerUserSvc_28b5a7, Status:stopped
+Name: DeviceAssociationBrokerSvc_28b5a7, DisplayName: DeviceAssociationBroker_28b5a7, Status:stopped
+Name: DevicePickerUserSvc_28b5a7, DisplayName: DevicePicker_28b5a7, Status:stopped
+Name: DevicesFlowUserSvc_28b5a7, DisplayName: DevicesFlow_28b5a7, Status:stopped
+Name: MessagingService_28b5a7, DisplayName: MessagingService_28b5a7, Status:stopped
+Name: NPSMSvc_28b5a7, DisplayName: NPSMSvc_28b5a7, Status:running
+Name: OneSyncSvc_28b5a7, DisplayName: Sync Host_28b5a7, Status:running
+Name: P9RdrService_28b5a7, DisplayName: P9RdrService_28b5a7, Status:stopped
+Name: PenService_28b5a7, DisplayName: PenService_28b5a7, Status:stopped
+Name: PimIndexMaintenanceSvc_28b5a7, DisplayName: Contact Data_28b5a7, Status:running
+Name: PrintWorkflowUserSvc_28b5a7, DisplayName: PrintWorkflow_28b5a7, Status:stopped
+Name: UdkUserSvc_28b5a7, DisplayName: Udk User Service_28b5a7, Status:running
+Name: UnistoreSvc_28b5a7, DisplayName: User Data Storage_28b5a7, Status:running
+Name: UserDataSvc_28b5a7, DisplayName: User Data Access_28b5a7, Status:running
+Name: WpnUserService_28b5a7, DisplayName: Windows Push Notifications User Service_28b5a7, Status:running
+Name: WslService, DisplayName: Windows Subsystem for Linux, Status:running
+Name: GoogleUpdaterInternalService121.0.6116.0, DisplayName: GoogleUpdater InternalService 121.0.6116.0 (GoogleUpdaterInternalService121.0.6116.0), Status:stopped
+Name: GoogleUpdaterService121.0.6116.0, DisplayName: GoogleUpdater Service 121.0.6116.0 (GoogleUpdaterService121.0.6116.0), Status:stopped
+Name: MDCoreSvc, DisplayName: Microsoft Defender Core Service, Status:running
+
+
+2023-11-17 18:52:11.783186 -- 30:9C:23:AF:C0:27
+get-all-services r
+Name: Appinfo, DisplayName: Application Information, Status: running
+Name: AppXSvc, DisplayName: AppX Deployment Service (AppXSVC), Status: running
+Name: AudioEndpointBuilder, DisplayName: Windows Audio Endpoint Builder, Status: running
+Name: Audiosrv, DisplayName: Windows Audio, Status: running
+Name: AzureAttestService, DisplayName: AzureAttestService, Status: running
+Name: BFE, DisplayName: Base Filtering Engine, Status: running
+Name: BrokerInfrastructure, DisplayName: Background Tasks Infrastructure Service, Status: running
+Name: BthAvctpSvc, DisplayName: AVCTP service, Status: running
+Name: camsvc, DisplayName: Capability Access Manager Service, Status: running
+Name: CDPSvc, DisplayName: Connected Devices Platform Service, Status: running
+Name: chromoting, DisplayName: Chrome Remote Desktop Service, Status: running
+Name: ClickToRunSvc, DisplayName: Microsoft Office Click-to-Run Service, Status: running
+Name: COMSysApp, DisplayName: COM+ System Application, Status: running
+Name: CoreMessagingRegistrar, DisplayName: CoreMessaging, Status: running
+Name: CryptSvc, DisplayName: Cryptographic Services, Status: running
+Name: DcomLaunch, DisplayName: DCOM Server Process Launcher, Status: running
+Name: DeviceAssociationService, DisplayName: Device Association Service, Status: running
+Name: Dhcp, DisplayName: DHCP Client, Status: running
+Name: DiagTrack, DisplayName: Connected User Experiences and Telemetry, Status: running
+Name: DispBrokerDesktopSvc, DisplayName: Display Policy Service, Status: running
+Name: DisplayEnhancementService, DisplayName: Display Enhancement Service, Status: running
+Name: Dnscache, DisplayName: DNS Client, Status: running
+Name: DoSvc, DisplayName: Delivery Optimization, Status: running
+Name: DPS, DisplayName: Diagnostic Policy Service, Status: running
+Name: DsSvc, DisplayName: Data Sharing Service, Status: running
+Name: DusmSvc, DisplayName: Data Usage, Status: running
+Name: EFS, DisplayName: Encrypting File System (EFS), Status: running
+Name: EventLog, DisplayName: Windows Event Log, Status: running
+Name: EventSystem, DisplayName: COM+ Event System, Status: running
+Name: ewserver, DisplayName: SOLIDWORKS Electrical Collaborative Server, Status: running
+Name: FileSyncHelper, DisplayName: FileSyncHelper, Status: running
+Name: filezilla-server, DisplayName: filezilla-server, Status: running
+Name: FlexNet Licensing Service 64, DisplayName: FlexNet Licensing Service 64, Status: running
+Name: FontCache, DisplayName: Windows Font Cache Service, Status: running
+Name: gpsvc, DisplayName: Group Policy Client, Status: running
+Name: hidserv, DisplayName: Human Interface Device Service, Status: running
+Name: hns, DisplayName: Host Network Service, Status: running
+Name: HPPrintScanDoctorService, DisplayName: HP Print Scan Doctor Service, Status: running
+Name: HvHost, DisplayName: HV Host Service, Status: running
+Name: InstallService, DisplayName: Microsoft Store Install Service, Status: running
+Name: iphlpsvc, DisplayName: IP Helper, Status: running
+Name: jhi_service, DisplayName: Intel(R) Dynamic Application Loader Host Interface Service, Status: running
+Name: KeyIso, DisplayName: CNG Key Isolation, Status: running
+Name: LanmanServer, DisplayName: Server, Status: running
+Name: LanmanWorkstation, DisplayName: Workstation, Status: running
+Name: lfsvc, DisplayName: Geolocation Service, Status: running
+Name: LicenseManager, DisplayName: Windows License Manager Service, Status: running
+Name: lmhosts, DisplayName: TCP/IP NetBIOS Helper, Status: running
+Name: LSM, DisplayName: Local Session Manager, Status: running
+Name: mpssvc, DisplayName: Windows Defender Firewall, Status: running
+Name: MSDTC, DisplayName: Distributed Transaction Coordinator, Status: running
+Name: MSSQL$TEW_SQLEXPRESS, DisplayName: SQL Server (TEW_SQLEXPRESS), Status: running
+Name: MySQL81, DisplayName: MySQL81, Status: running
+Name: NcbService, DisplayName: Network Connection Broker, Status: running
+Name: netprofm, DisplayName: Network List Service, Status: running
+Name: nsi, DisplayName: Network Store Interface Service, Status: running
+Name: nvagent, DisplayName: Network Virtualization Service, Status: running
+Name: NVDisplay.ContainerLocalSystem, DisplayName: NVIDIA Display Container LS, Status: running
+Name: PcaSvc, DisplayName: Program Compatibility Assistant Service, Status: running
+Name: PlugPlay, DisplayName: Plug and Play, Status: running
+Name: PolicyAgent, DisplayName: IPsec Policy Agent, Status: running
+Name: Power, DisplayName: Power, Status: running
+Name: ProfSvc, DisplayName: User Profile Service, Status: running
+Name: RemoteSolverDispatcher, DisplayName: Remote Solver for Flow Simulation 2020, Status: running
+Name: RmSvc, DisplayName: Radio Management Service, Status: running
+Name: RpcEptMapper, DisplayName: RPC Endpoint Mapper, Status: running
+Name: RpcSs, DisplayName: Remote Procedure Call (RPC), Status: running
+Name: SamSs, DisplayName: Security Accounts Manager, Status: running
+Name: Schedule, DisplayName: Task Scheduler, Status: running
+Name: SDRSVC, DisplayName: Windows Backup, Status: running
+Name: SecurityHealthService, DisplayName: Windows Security Service, Status: running
+Name: SENS, DisplayName: System Event Notification Service, Status: running
+Name: SgrmBroker, DisplayName: System Guard Runtime Monitor Broker, Status: running
+Name: SharedAccess, DisplayName: Internet Connection Sharing (ICS), Status: running
+Name: ShellHWDetection, DisplayName: Shell Hardware Detection, Status: running
+Name: Spooler, DisplayName: Print Spooler, Status: running
+Name: SQLBrowser, DisplayName: SQL Server Browser, Status: running
+Name: SQLTELEMETRY$TEW_SQLEXPRESS, DisplayName: SQL Server CEIP service (TEW_SQLEXPRESS), Status: running
+Name: SQLWriter, DisplayName: SQL Server VSS Writer, Status: running
+Name: SSDPSRV, DisplayName: SSDP Discovery, Status: running
+Name: StateRepository, DisplayName: State Repository Service, Status: running
+Name: Steam Client Service, DisplayName: Steam Client Service, Status: running
+Name: StiSvc, DisplayName: Windows Image Acquisition (WIA), Status: running
+Name: StorSvc, DisplayName: Storage Service, Status: running
+Name: SWVisualize2023.Queue.Server, DisplayName: SWVisualize2023.Queue.Server, Status: running
+Name: SysMain, DisplayName: SysMain, Status: running
+Name: SystemEventsBroker, DisplayName: System Events Broker, Status: running
+Name: TabletInputService, DisplayName: Touch Keyboard and Handwriting Panel Service, Status: running
+Name: Themes, DisplayName: Themes, Status: running
+Name: TimeBrokerSvc, DisplayName: Time Broker, Status: running
+Name: TokenBroker, DisplayName: Web Account Manager, Status: running
+Name: TrkWks, DisplayName: Distributed Link Tracking Client, Status: running
+Name: uhssvc, DisplayName: Microsoft Update Health Service, Status: running
+Name: UserManager, DisplayName: User Manager, Status: running
+Name: UsoSvc, DisplayName: Update Orchestrator Service, Status: running
+Name: VaultSvc, DisplayName: Credential Manager, Status: running
+Name: VMAuthdService, DisplayName: VMware Authorization Service, Status: running
+Name: vmcompute, DisplayName: Hyper-V Host Compute Service, Status: running
+Name: VMnetDHCP, DisplayName: VMware DHCP Service, Status: running
+Name: VMUSBArbService, DisplayName: VMware USB Arbitration Service, Status: running
+Name: VMware NAT Service, DisplayName: VMware NAT Service, Status: running
+Name: Wcmsvc, DisplayName: Windows Connection Manager, Status: running
+Name: WdiServiceHost, DisplayName: Diagnostic Service Host, Status: running
+Name: WdiSystemHost, DisplayName: Diagnostic System Host, Status: running
+Name: WdNisSvc, DisplayName: Microsoft Defender Antivirus Network Inspection Service, Status: running
+Name: WebClient, DisplayName: WebClient, Status: running
+Name: WinDefend, DisplayName: Microsoft Defender Antivirus Service, Status: running
+Name: WinHttpAutoProxySvc, DisplayName: WinHTTP Web Proxy Auto-Discovery Service, Status: running
+Name: Winmgmt, DisplayName: Windows Management Instrumentation, Status: running
+Name: WlanSvc, DisplayName: WLAN AutoConfig, Status: running
+Name: WMIRegistrationService, DisplayName: Intel(R) Management Engine WMI Provider Registration, Status: running
+Name: WpnService, DisplayName: Windows Push Notifications System Service, Status: running
+Name: wscsvc, DisplayName: Security Center, Status: running
+Name: WSearch, DisplayName: Windows Search, Status: running
+Name: CaptureService_28b5a7, DisplayName: CaptureService_28b5a7, Status: running
+Name: cbdhsvc_28b5a7, DisplayName: Clipboard User Service_28b5a7, Status: running
+Name: CDPUserSvc_28b5a7, DisplayName: Connected Devices Platform User Service_28b5a7, Status: running
+Name: NPSMSvc_28b5a7, DisplayName: NPSMSvc_28b5a7, Status: running
+Name: OneSyncSvc_28b5a7, DisplayName: Sync Host_28b5a7, Status: running
+Name: PimIndexMaintenanceSvc_28b5a7, DisplayName: Contact Data_28b5a7, Status: running
+Name: UdkUserSvc_28b5a7, DisplayName: Udk User Service_28b5a7, Status: running
+Name: UnistoreSvc_28b5a7, DisplayName: User Data Storage_28b5a7, Status: running
+Name: UserDataSvc_28b5a7, DisplayName: User Data Access_28b5a7, Status: running
+Name: WpnUserService_28b5a7, DisplayName: Windows Push Notifications User Service_28b5a7, Status: running
+Name: WslService, DisplayName: Windows Subsystem for Linux, Status: running
+Name: MDCoreSvc, DisplayName: Microsoft Defender Core Service, Status: running
+
+
+2023-11-17 18:53:25.819052 -- 30:9C:23:AF:C0:27
+stop-service chromoting
+Called Process Error: Command '['sc', 'config', 'chromoting', 'start=', 'disabled']' returned non-zero exit status 5.
+
+2023-11-17 18:54:12.844776 -- 30:9C:23:AF:C0:27
+stop-service chromoting
+Called Process Error: Command '['sc', 'stop', 'chromoting']' returned non-zero exit status 5.
+
+2023-11-17 18:57:13.280190 -- 30:9C:23:AF:C0:27
+stop-service chromoting
+Succesfully stopped service: chromoting
+
+2023-11-17 18:58:53.988233 -- 30:9C:23:AF:C0:27
+stop-service chromoting
+Succesfully stopped service: chromoting
+
+2023-11-17 18:59:15.157084 -- 30:9C:23:AF:C0:27
+get-all-services r
+Name: Appinfo, DisplayName: Application Information, Status: running
+Name: AppXSvc, DisplayName: AppX Deployment Service (AppXSVC), Status: running
+Name: AudioEndpointBuilder, DisplayName: Windows Audio Endpoint Builder, Status: running
+Name: Audiosrv, DisplayName: Windows Audio, Status: running
+Name: AzureAttestService, DisplayName: AzureAttestService, Status: running
+Name: BFE, DisplayName: Base Filtering Engine, Status: running
+Name: BrokerInfrastructure, DisplayName: Background Tasks Infrastructure Service, Status: running
+Name: BthAvctpSvc, DisplayName: AVCTP service, Status: running
+Name: camsvc, DisplayName: Capability Access Manager Service, Status: running
+Name: CDPSvc, DisplayName: Connected Devices Platform Service, Status: running
+Name: ClickToRunSvc, DisplayName: Microsoft Office Click-to-Run Service, Status: running
+Name: COMSysApp, DisplayName: COM+ System Application, Status: running
+Name: CoreMessagingRegistrar, DisplayName: CoreMessaging, Status: running
+Name: CryptSvc, DisplayName: Cryptographic Services, Status: running
+Name: DcomLaunch, DisplayName: DCOM Server Process Launcher, Status: running
+Name: DeviceAssociationService, DisplayName: Device Association Service, Status: running
+Name: Dhcp, DisplayName: DHCP Client, Status: running
+Name: DiagTrack, DisplayName: Connected User Experiences and Telemetry, Status: running
+Name: DispBrokerDesktopSvc, DisplayName: Display Policy Service, Status: running
+Name: DisplayEnhancementService, DisplayName: Display Enhancement Service, Status: running
+Name: Dnscache, DisplayName: DNS Client, Status: running
+Name: DoSvc, DisplayName: Delivery Optimization, Status: running
+Name: DPS, DisplayName: Diagnostic Policy Service, Status: running
+Name: DsSvc, DisplayName: Data Sharing Service, Status: running
+Name: DusmSvc, DisplayName: Data Usage, Status: running
+Name: EFS, DisplayName: Encrypting File System (EFS), Status: running
+Name: EventLog, DisplayName: Windows Event Log, Status: running
+Name: EventSystem, DisplayName: COM+ Event System, Status: running
+Name: ewserver, DisplayName: SOLIDWORKS Electrical Collaborative Server, Status: running
+Name: FileSyncHelper, DisplayName: FileSyncHelper, Status: running
+Name: filezilla-server, DisplayName: filezilla-server, Status: running
+Name: FlexNet Licensing Service 64, DisplayName: FlexNet Licensing Service 64, Status: running
+Name: FontCache, DisplayName: Windows Font Cache Service, Status: running
+Name: hidserv, DisplayName: Human Interface Device Service, Status: running
+Name: hns, DisplayName: Host Network Service, Status: running
+Name: HPPrintScanDoctorService, DisplayName: HP Print Scan Doctor Service, Status: running
+Name: HvHost, DisplayName: HV Host Service, Status: running
+Name: InstallService, DisplayName: Microsoft Store Install Service, Status: running
+Name: iphlpsvc, DisplayName: IP Helper, Status: running
+Name: jhi_service, DisplayName: Intel(R) Dynamic Application Loader Host Interface Service, Status: running
+Name: KeyIso, DisplayName: CNG Key Isolation, Status: running
+Name: LanmanServer, DisplayName: Server, Status: running
+Name: LanmanWorkstation, DisplayName: Workstation, Status: running
+Name: lfsvc, DisplayName: Geolocation Service, Status: running
+Name: LicenseManager, DisplayName: Windows License Manager Service, Status: running
+Name: lmhosts, DisplayName: TCP/IP NetBIOS Helper, Status: running
+Name: LSM, DisplayName: Local Session Manager, Status: running
+Name: mpssvc, DisplayName: Windows Defender Firewall, Status: running
+Name: MSDTC, DisplayName: Distributed Transaction Coordinator, Status: running
+Name: MSSQL$TEW_SQLEXPRESS, DisplayName: SQL Server (TEW_SQLEXPRESS), Status: running
+Name: MySQL81, DisplayName: MySQL81, Status: running
+Name: NcbService, DisplayName: Network Connection Broker, Status: running
+Name: netprofm, DisplayName: Network List Service, Status: running
+Name: nsi, DisplayName: Network Store Interface Service, Status: running
+Name: nvagent, DisplayName: Network Virtualization Service, Status: running
+Name: NVDisplay.ContainerLocalSystem, DisplayName: NVIDIA Display Container LS, Status: running
+Name: PcaSvc, DisplayName: Program Compatibility Assistant Service, Status: running
+Name: PlugPlay, DisplayName: Plug and Play, Status: running
+Name: PolicyAgent, DisplayName: IPsec Policy Agent, Status: running
+Name: Power, DisplayName: Power, Status: running
+Name: ProfSvc, DisplayName: User Profile Service, Status: running
+Name: RemoteSolverDispatcher, DisplayName: Remote Solver for Flow Simulation 2020, Status: running
+Name: RmSvc, DisplayName: Radio Management Service, Status: running
+Name: RpcEptMapper, DisplayName: RPC Endpoint Mapper, Status: running
+Name: RpcSs, DisplayName: Remote Procedure Call (RPC), Status: running
+Name: SamSs, DisplayName: Security Accounts Manager, Status: running
+Name: Schedule, DisplayName: Task Scheduler, Status: running
+Name: SDRSVC, DisplayName: Windows Backup, Status: running
+Name: SecurityHealthService, DisplayName: Windows Security Service, Status: running
+Name: SENS, DisplayName: System Event Notification Service, Status: running
+Name: SgrmBroker, DisplayName: System Guard Runtime Monitor Broker, Status: running
+Name: SharedAccess, DisplayName: Internet Connection Sharing (ICS), Status: running
+Name: ShellHWDetection, DisplayName: Shell Hardware Detection, Status: running
+Name: Spooler, DisplayName: Print Spooler, Status: running
+Name: SQLBrowser, DisplayName: SQL Server Browser, Status: running
+Name: SQLTELEMETRY$TEW_SQLEXPRESS, DisplayName: SQL Server CEIP service (TEW_SQLEXPRESS), Status: running
+Name: SQLWriter, DisplayName: SQL Server VSS Writer, Status: running
+Name: SSDPSRV, DisplayName: SSDP Discovery, Status: running
+Name: StateRepository, DisplayName: State Repository Service, Status: running
+Name: Steam Client Service, DisplayName: Steam Client Service, Status: running
+Name: StiSvc, DisplayName: Windows Image Acquisition (WIA), Status: running
+Name: StorSvc, DisplayName: Storage Service, Status: running
+Name: SWVisualize2023.Queue.Server, DisplayName: SWVisualize2023.Queue.Server, Status: running
+Name: SysMain, DisplayName: SysMain, Status: running
+Name: SystemEventsBroker, DisplayName: System Events Broker, Status: running
+Name: TabletInputService, DisplayName: Touch Keyboard and Handwriting Panel Service, Status: running
+Name: Themes, DisplayName: Themes, Status: running
+Name: TimeBrokerSvc, DisplayName: Time Broker, Status: running
+Name: TokenBroker, DisplayName: Web Account Manager, Status: running
+Name: TrkWks, DisplayName: Distributed Link Tracking Client, Status: running
+Name: uhssvc, DisplayName: Microsoft Update Health Service, Status: running
+Name: UserManager, DisplayName: User Manager, Status: running
+Name: UsoSvc, DisplayName: Update Orchestrator Service, Status: running
+Name: VaultSvc, DisplayName: Credential Manager, Status: running
+Name: VMAuthdService, DisplayName: VMware Authorization Service, Status: running
+Name: vmcompute, DisplayName: Hyper-V Host Compute Service, Status: running
+Name: VMnetDHCP, DisplayName: VMware DHCP Service, Status: running
+Name: VMUSBArbService, DisplayName: VMware USB Arbitration Service, Status: running
+Name: VMware NAT Service, DisplayName: VMware NAT Service, Status: running
+Name: Wcmsvc, DisplayName: Windows Connection Manager, Status: running
+Name: WdiServiceHost, DisplayName: Diagnostic Service Host, Status: running
+Name: WdiSystemHost, DisplayName: Diagnostic System Host, Status: running
+Name: WdNisSvc, DisplayName: Microsoft Defender Antivirus Network Inspection Service, Status: running
+Name: WebClient, DisplayName: WebClient, Status: running
+Name: WinDefend, DisplayName: Microsoft Defender Antivirus Service, Status: running
+Name: WinHttpAutoProxySvc, DisplayName: WinHTTP Web Proxy Auto-Discovery Service, Status: running
+Name: Winmgmt, DisplayName: Windows Management Instrumentation, Status: running
+Name: WlanSvc, DisplayName: WLAN AutoConfig, Status: running
+Name: WMIRegistrationService, DisplayName: Intel(R) Management Engine WMI Provider Registration, Status: running
+Name: WpnService, DisplayName: Windows Push Notifications System Service, Status: running
+Name: wscsvc, DisplayName: Security Center, Status: running
+Name: WSearch, DisplayName: Windows Search, Status: running
+Name: CaptureService_28b5a7, DisplayName: CaptureService_28b5a7, Status: running
+Name: cbdhsvc_28b5a7, DisplayName: Clipboard User Service_28b5a7, Status: running
+Name: CDPUserSvc_28b5a7, DisplayName: Connected Devices Platform User Service_28b5a7, Status: running
+Name: NPSMSvc_28b5a7, DisplayName: NPSMSvc_28b5a7, Status: running
+Name: OneSyncSvc_28b5a7, DisplayName: Sync Host_28b5a7, Status: running
+Name: PimIndexMaintenanceSvc_28b5a7, DisplayName: Contact Data_28b5a7, Status: running
+Name: UdkUserSvc_28b5a7, DisplayName: Udk User Service_28b5a7, Status: running
+Name: UnistoreSvc_28b5a7, DisplayName: User Data Storage_28b5a7, Status: running
+Name: UserDataSvc_28b5a7, DisplayName: User Data Access_28b5a7, Status: running
+Name: WpnUserService_28b5a7, DisplayName: Windows Push Notifications User Service_28b5a7, Status: running
+Name: WslService, DisplayName: Windows Subsystem for Linux, Status: running
+Name: MDCoreSvc, DisplayName: Microsoft Defender Core Service, Status: running
+
+
+2023-11-17 19:02:14.423803 -- 30:9C:23:AF:C0:27
+get-all-services r
+Name: Appinfo, DisplayName: Application Information, Status: running
+Name: AppXSvc, DisplayName: AppX Deployment Service (AppXSVC), Status: running
+Name: AudioEndpointBuilder, DisplayName: Windows Audio Endpoint Builder, Status: running
+Name: Audiosrv, DisplayName: Windows Audio, Status: running
+Name: AzureAttestService, DisplayName: AzureAttestService, Status: running
+Name: BFE, DisplayName: Base Filtering Engine, Status: running
+Name: BrokerInfrastructure, DisplayName: Background Tasks Infrastructure Service, Status: running
+Name: BthAvctpSvc, DisplayName: AVCTP service, Status: running
+Name: camsvc, DisplayName: Capability Access Manager Service, Status: running
+Name: CDPSvc, DisplayName: Connected Devices Platform Service, Status: running
+Name: ClickToRunSvc, DisplayName: Microsoft Office Click-to-Run Service, Status: running
+Name: COMSysApp, DisplayName: COM+ System Application, Status: running
+Name: CoreMessagingRegistrar, DisplayName: CoreMessaging, Status: running
+Name: CryptSvc, DisplayName: Cryptographic Services, Status: running
+Name: DcomLaunch, DisplayName: DCOM Server Process Launcher, Status: running
+Name: DeviceAssociationService, DisplayName: Device Association Service, Status: running
+Name: Dhcp, DisplayName: DHCP Client, Status: running
+Name: DiagTrack, DisplayName: Connected User Experiences and Telemetry, Status: running
+Name: DispBrokerDesktopSvc, DisplayName: Display Policy Service, Status: running
+Name: DisplayEnhancementService, DisplayName: Display Enhancement Service, Status: running
+Name: Dnscache, DisplayName: DNS Client, Status: running
+Name: DoSvc, DisplayName: Delivery Optimization, Status: running
+Name: DPS, DisplayName: Diagnostic Policy Service, Status: running
+Name: DsSvc, DisplayName: Data Sharing Service, Status: running
+Name: DusmSvc, DisplayName: Data Usage, Status: running
+Name: EFS, DisplayName: Encrypting File System (EFS), Status: running
+Name: EventLog, DisplayName: Windows Event Log, Status: running
+Name: EventSystem, DisplayName: COM+ Event System, Status: running
+Name: ewserver, DisplayName: SOLIDWORKS Electrical Collaborative Server, Status: running
+Name: FileSyncHelper, DisplayName: FileSyncHelper, Status: running
+Name: filezilla-server, DisplayName: filezilla-server, Status: running
+Name: FlexNet Licensing Service 64, DisplayName: FlexNet Licensing Service 64, Status: running
+Name: FontCache, DisplayName: Windows Font Cache Service, Status: running
+Name: hidserv, DisplayName: Human Interface Device Service, Status: running
+Name: hns, DisplayName: Host Network Service, Status: running
+Name: HPPrintScanDoctorService, DisplayName: HP Print Scan Doctor Service, Status: running
+Name: HvHost, DisplayName: HV Host Service, Status: running
+Name: InstallService, DisplayName: Microsoft Store Install Service, Status: running
+Name: iphlpsvc, DisplayName: IP Helper, Status: running
+Name: jhi_service, DisplayName: Intel(R) Dynamic Application Loader Host Interface Service, Status: running
+Name: KeyIso, DisplayName: CNG Key Isolation, Status: running
+Name: LanmanServer, DisplayName: Server, Status: running
+Name: LanmanWorkstation, DisplayName: Workstation, Status: running
+Name: lfsvc, DisplayName: Geolocation Service, Status: running
+Name: LicenseManager, DisplayName: Windows License Manager Service, Status: running
+Name: lmhosts, DisplayName: TCP/IP NetBIOS Helper, Status: running
+Name: LSM, DisplayName: Local Session Manager, Status: running
+Name: mpssvc, DisplayName: Windows Defender Firewall, Status: running
+Name: MSDTC, DisplayName: Distributed Transaction Coordinator, Status: running
+Name: MSSQL$TEW_SQLEXPRESS, DisplayName: SQL Server (TEW_SQLEXPRESS), Status: running
+Name: MySQL81, DisplayName: MySQL81, Status: running
+Name: NcbService, DisplayName: Network Connection Broker, Status: running
+Name: netprofm, DisplayName: Network List Service, Status: running
+Name: nsi, DisplayName: Network Store Interface Service, Status: running
+Name: nvagent, DisplayName: Network Virtualization Service, Status: running
+Name: NVDisplay.ContainerLocalSystem, DisplayName: NVIDIA Display Container LS, Status: running
+Name: PcaSvc, DisplayName: Program Compatibility Assistant Service, Status: running
+Name: PlugPlay, DisplayName: Plug and Play, Status: running
+Name: PolicyAgent, DisplayName: IPsec Policy Agent, Status: running
+Name: Power, DisplayName: Power, Status: running
+Name: ProfSvc, DisplayName: User Profile Service, Status: running
+Name: RemoteSolverDispatcher, DisplayName: Remote Solver for Flow Simulation 2020, Status: running
+Name: RmSvc, DisplayName: Radio Management Service, Status: running
+Name: RpcEptMapper, DisplayName: RPC Endpoint Mapper, Status: running
+Name: RpcSs, DisplayName: Remote Procedure Call (RPC), Status: running
+Name: SamSs, DisplayName: Security Accounts Manager, Status: running
+Name: Schedule, DisplayName: Task Scheduler, Status: running
+Name: SDRSVC, DisplayName: Windows Backup, Status: running
+Name: SecurityHealthService, DisplayName: Windows Security Service, Status: running
+Name: SENS, DisplayName: System Event Notification Service, Status: running
+Name: SgrmBroker, DisplayName: System Guard Runtime Monitor Broker, Status: running
+Name: SharedAccess, DisplayName: Internet Connection Sharing (ICS), Status: running
+Name: ShellHWDetection, DisplayName: Shell Hardware Detection, Status: running
+Name: Spooler, DisplayName: Print Spooler, Status: running
+Name: SQLBrowser, DisplayName: SQL Server Browser, Status: running
+Name: SQLTELEMETRY$TEW_SQLEXPRESS, DisplayName: SQL Server CEIP service (TEW_SQLEXPRESS), Status: running
+Name: SQLWriter, DisplayName: SQL Server VSS Writer, Status: running
+Name: SSDPSRV, DisplayName: SSDP Discovery, Status: running
+Name: StateRepository, DisplayName: State Repository Service, Status: running
+Name: Steam Client Service, DisplayName: Steam Client Service, Status: running
+Name: StiSvc, DisplayName: Windows Image Acquisition (WIA), Status: running
+Name: StorSvc, DisplayName: Storage Service, Status: running
+Name: SWVisualize2023.Queue.Server, DisplayName: SWVisualize2023.Queue.Server, Status: running
+Name: SysMain, DisplayName: SysMain, Status: running
+Name: SystemEventsBroker, DisplayName: System Events Broker, Status: running
+Name: TabletInputService, DisplayName: Touch Keyboard and Handwriting Panel Service, Status: running
+Name: Themes, DisplayName: Themes, Status: running
+Name: TimeBrokerSvc, DisplayName: Time Broker, Status: running
+Name: TokenBroker, DisplayName: Web Account Manager, Status: running
+Name: TrkWks, DisplayName: Distributed Link Tracking Client, Status: running
+Name: uhssvc, DisplayName: Microsoft Update Health Service, Status: running
+Name: UserManager, DisplayName: User Manager, Status: running
+Name: UsoSvc, DisplayName: Update Orchestrator Service, Status: running
+Name: VaultSvc, DisplayName: Credential Manager, Status: running
+Name: VMAuthdService, DisplayName: VMware Authorization Service, Status: running
+Name: vmcompute, DisplayName: Hyper-V Host Compute Service, Status: running
+Name: VMnetDHCP, DisplayName: VMware DHCP Service, Status: running
+Name: VMUSBArbService, DisplayName: VMware USB Arbitration Service, Status: running
+Name: VMware NAT Service, DisplayName: VMware NAT Service, Status: running
+Name: Wcmsvc, DisplayName: Windows Connection Manager, Status: running
+Name: WdiServiceHost, DisplayName: Diagnostic Service Host, Status: running
+Name: WdiSystemHost, DisplayName: Diagnostic System Host, Status: running
+Name: WdNisSvc, DisplayName: Microsoft Defender Antivirus Network Inspection Service, Status: running
+Name: WebClient, DisplayName: WebClient, Status: running
+Name: WinDefend, DisplayName: Microsoft Defender Antivirus Service, Status: running
+Name: WinHttpAutoProxySvc, DisplayName: WinHTTP Web Proxy Auto-Discovery Service, Status: running
+Name: Winmgmt, DisplayName: Windows Management Instrumentation, Status: running
+Name: WlanSvc, DisplayName: WLAN AutoConfig, Status: running
+Name: WMIRegistrationService, DisplayName: Intel(R) Management Engine WMI Provider Registration, Status: running
+Name: WpnService, DisplayName: Windows Push Notifications System Service, Status: running
+Name: wscsvc, DisplayName: Security Center, Status: running
+Name: WSearch, DisplayName: Windows Search, Status: running
+Name: CaptureService_28b5a7, DisplayName: CaptureService_28b5a7, Status: running
+Name: cbdhsvc_28b5a7, DisplayName: Clipboard User Service_28b5a7, Status: running
+Name: CDPUserSvc_28b5a7, DisplayName: Connected Devices Platform User Service_28b5a7, Status: running
+Name: NPSMSvc_28b5a7, DisplayName: NPSMSvc_28b5a7, Status: running
+Name: OneSyncSvc_28b5a7, DisplayName: Sync Host_28b5a7, Status: running
+Name: PimIndexMaintenanceSvc_28b5a7, DisplayName: Contact Data_28b5a7, Status: running
+Name: UdkUserSvc_28b5a7, DisplayName: Udk User Service_28b5a7, Status: running
+Name: UnistoreSvc_28b5a7, DisplayName: User Data Storage_28b5a7, Status: running
+Name: UserDataSvc_28b5a7, DisplayName: User Data Access_28b5a7, Status: running
+Name: WpnUserService_28b5a7, DisplayName: Windows Push Notifications User Service_28b5a7, Status: running
+Name: WslService, DisplayName: Windows Subsystem for Linux, Status: running
+Name: MDCoreSvc, DisplayName: Microsoft Defender Core Service, Status: running
+
+
+2023-11-17 19:02:59.835476 -- 30:9C:23:AF:C0:27
+get-all-services 
+Name: Appinfo, DisplayName: Application Information, Status: running
+Name: AppXSvc, DisplayName: AppX Deployment Service (AppXSVC), Status: running
+Name: AudioEndpointBuilder, DisplayName: Windows Audio Endpoint Builder, Status: running
+Name: Audiosrv, DisplayName: Windows Audio, Status: running
+Name: AzureAttestService, DisplayName: AzureAttestService, Status: running
+Name: BFE, DisplayName: Base Filtering Engine, Status: running
+Name: BrokerInfrastructure, DisplayName: Background Tasks Infrastructure Service, Status: running
+Name: BthAvctpSvc, DisplayName: AVCTP service, Status: running
+Name: camsvc, DisplayName: Capability Access Manager Service, Status: running
+Name: CDPSvc, DisplayName: Connected Devices Platform Service, Status: running
+Name: ClickToRunSvc, DisplayName: Microsoft Office Click-to-Run Service, Status: running
+Name: COMSysApp, DisplayName: COM+ System Application, Status: running
+Name: CoreMessagingRegistrar, DisplayName: CoreMessaging, Status: running
+Name: CryptSvc, DisplayName: Cryptographic Services, Status: running
+Name: DcomLaunch, DisplayName: DCOM Server Process Launcher, Status: running
+Name: DeviceAssociationService, DisplayName: Device Association Service, Status: running
+Name: Dhcp, DisplayName: DHCP Client, Status: running
+Name: DiagTrack, DisplayName: Connected User Experiences and Telemetry, Status: running
+Name: DispBrokerDesktopSvc, DisplayName: Display Policy Service, Status: running
+Name: DisplayEnhancementService, DisplayName: Display Enhancement Service, Status: running
+Name: Dnscache, DisplayName: DNS Client, Status: running
+Name: DoSvc, DisplayName: Delivery Optimization, Status: running
+Name: DPS, DisplayName: Diagnostic Policy Service, Status: running
+Name: DsSvc, DisplayName: Data Sharing Service, Status: running
+Name: DusmSvc, DisplayName: Data Usage, Status: running
+Name: EFS, DisplayName: Encrypting File System (EFS), Status: running
+Name: EventLog, DisplayName: Windows Event Log, Status: running
+Name: EventSystem, DisplayName: COM+ Event System, Status: running
+Name: ewserver, DisplayName: SOLIDWORKS Electrical Collaborative Server, Status: running
+Name: FileSyncHelper, DisplayName: FileSyncHelper, Status: running
+Name: filezilla-server, DisplayName: filezilla-server, Status: running
+Name: FlexNet Licensing Service 64, DisplayName: FlexNet Licensing Service 64, Status: running
+Name: FontCache, DisplayName: Windows Font Cache Service, Status: running
+Name: hidserv, DisplayName: Human Interface Device Service, Status: running
+Name: hns, DisplayName: Host Network Service, Status: running
+Name: HPPrintScanDoctorService, DisplayName: HP Print Scan Doctor Service, Status: running
+Name: HvHost, DisplayName: HV Host Service, Status: running
+Name: InstallService, DisplayName: Microsoft Store Install Service, Status: running
+Name: iphlpsvc, DisplayName: IP Helper, Status: running
+Name: jhi_service, DisplayName: Intel(R) Dynamic Application Loader Host Interface Service, Status: running
+Name: KeyIso, DisplayName: CNG Key Isolation, Status: running
+Name: LanmanServer, DisplayName: Server, Status: running
+Name: LanmanWorkstation, DisplayName: Workstation, Status: running
+Name: lfsvc, DisplayName: Geolocation Service, Status: running
+Name: LicenseManager, DisplayName: Windows License Manager Service, Status: running
+Name: lmhosts, DisplayName: TCP/IP NetBIOS Helper, Status: running
+Name: LSM, DisplayName: Local Session Manager, Status: running
+Name: mpssvc, DisplayName: Windows Defender Firewall, Status: running
+Name: MSDTC, DisplayName: Distributed Transaction Coordinator, Status: running
+Name: MSSQL$TEW_SQLEXPRESS, DisplayName: SQL Server (TEW_SQLEXPRESS), Status: running
+Name: MySQL81, DisplayName: MySQL81, Status: running
+Name: NcbService, DisplayName: Network Connection Broker, Status: running
+Name: netprofm, DisplayName: Network List Service, Status: running
+Name: nsi, DisplayName: Network Store Interface Service, Status: running
+Name: nvagent, DisplayName: Network Virtualization Service, Status: running
+Name: NVDisplay.ContainerLocalSystem, DisplayName: NVIDIA Display Container LS, Status: running
+Name: PcaSvc, DisplayName: Program Compatibility Assistant Service, Status: running
+Name: PlugPlay, DisplayName: Plug and Play, Status: running
+Name: PolicyAgent, DisplayName: IPsec Policy Agent, Status: running
+Name: Power, DisplayName: Power, Status: running
+Name: ProfSvc, DisplayName: User Profile Service, Status: running
+Name: RemoteSolverDispatcher, DisplayName: Remote Solver for Flow Simulation 2020, Status: running
+Name: RmSvc, DisplayName: Radio Management Service, Status: running
+Name: RpcEptMapper, DisplayName: RPC Endpoint Mapper, Status: running
+Name: RpcSs, DisplayName: Remote Procedure Call (RPC), Status: running
+Name: SamSs, DisplayName: Security Accounts Manager, Status: running
+Name: Schedule, DisplayName: Task Scheduler, Status: running
+Name: SDRSVC, DisplayName: Windows Backup, Status: running
+Name: SecurityHealthService, DisplayName: Windows Security Service, Status: running
+Name: SENS, DisplayName: System Event Notification Service, Status: running
+Name: SgrmBroker, DisplayName: System Guard Runtime Monitor Broker, Status: running
+Name: SharedAccess, DisplayName: Internet Connection Sharing (ICS), Status: running
+Name: ShellHWDetection, DisplayName: Shell Hardware Detection, Status: running
+Name: Spooler, DisplayName: Print Spooler, Status: running
+Name: SQLBrowser, DisplayName: SQL Server Browser, Status: running
+Name: SQLTELEMETRY$TEW_SQLEXPRESS, DisplayName: SQL Server CEIP service (TEW_SQLEXPRESS), Status: running
+Name: SQLWriter, DisplayName: SQL Server VSS Writer, Status: running
+Name: SSDPSRV, DisplayName: SSDP Discovery, Status: running
+Name: StateRepository, DisplayName: State Repository Service, Status: running
+Name: Steam Client Service, DisplayName: Steam Client Service, Status: running
+Name: StiSvc, DisplayName: Windows Image Acquisition (WIA), Status: running
+Name: StorSvc, DisplayName: Storage Service, Status: running
+Name: SWVisualize2023.Queue.Server, DisplayName: SWVisualize2023.Queue.Server, Status: running
+Name: SysMain, DisplayName: SysMain, Status: running
+Name: SystemEventsBroker, DisplayName: System Events Broker, Status: running
+Name: TabletInputService, DisplayName: Touch Keyboard and Handwriting Panel Service, Status: running
+Name: Themes, DisplayName: Themes, Status: running
+Name: TimeBrokerSvc, DisplayName: Time Broker, Status: running
+Name: TokenBroker, DisplayName: Web Account Manager, Status: running
+Name: TrkWks, DisplayName: Distributed Link Tracking Client, Status: running
+Name: uhssvc, DisplayName: Microsoft Update Health Service, Status: running
+Name: UserManager, DisplayName: User Manager, Status: running
+Name: UsoSvc, DisplayName: Update Orchestrator Service, Status: running
+Name: VaultSvc, DisplayName: Credential Manager, Status: running
+Name: VMAuthdService, DisplayName: VMware Authorization Service, Status: running
+Name: vmcompute, DisplayName: Hyper-V Host Compute Service, Status: running
+Name: VMnetDHCP, DisplayName: VMware DHCP Service, Status: running
+Name: VMUSBArbService, DisplayName: VMware USB Arbitration Service, Status: running
+Name: VMware NAT Service, DisplayName: VMware NAT Service, Status: running
+Name: Wcmsvc, DisplayName: Windows Connection Manager, Status: running
+Name: WdiServiceHost, DisplayName: Diagnostic Service Host, Status: running
+Name: WdiSystemHost, DisplayName: Diagnostic System Host, Status: running
+Name: WdNisSvc, DisplayName: Microsoft Defender Antivirus Network Inspection Service, Status: running
+Name: WebClient, DisplayName: WebClient, Status: running
+Name: WinDefend, DisplayName: Microsoft Defender Antivirus Service, Status: running
+Name: WinHttpAutoProxySvc, DisplayName: WinHTTP Web Proxy Auto-Discovery Service, Status: running
+Name: Winmgmt, DisplayName: Windows Management Instrumentation, Status: running
+Name: WlanSvc, DisplayName: WLAN AutoConfig, Status: running
+Name: WMIRegistrationService, DisplayName: Intel(R) Management Engine WMI Provider Registration, Status: running
+Name: WpnService, DisplayName: Windows Push Notifications System Service, Status: running
+Name: wscsvc, DisplayName: Security Center, Status: running
+Name: WSearch, DisplayName: Windows Search, Status: running
+Name: CaptureService_28b5a7, DisplayName: CaptureService_28b5a7, Status: running
+Name: cbdhsvc_28b5a7, DisplayName: Clipboard User Service_28b5a7, Status: running
+Name: CDPUserSvc_28b5a7, DisplayName: Connected Devices Platform User Service_28b5a7, Status: running
+Name: NPSMSvc_28b5a7, DisplayName: NPSMSvc_28b5a7, Status: running
+Name: OneSyncSvc_28b5a7, DisplayName: Sync Host_28b5a7, Status: running
+Name: PimIndexMaintenanceSvc_28b5a7, DisplayName: Contact Data_28b5a7, Status: running
+Name: UdkUserSvc_28b5a7, DisplayName: Udk User Service_28b5a7, Status: running
+Name: UnistoreSvc_28b5a7, DisplayName: User Data Storage_28b5a7, Status: running
+Name: UserDataSvc_28b5a7, DisplayName: User Data Access_28b5a7, Status: running
+Name: WpnUserService_28b5a7, DisplayName: Windows Push Notifications User Service_28b5a7, Status: running
+Name: WslService, DisplayName: Windows Subsystem for Linux, Status: running
+Name: MDCoreSvc, DisplayName: Microsoft Defender Core Service, Status: running
+
+
+2023-11-17 19:03:16.607426 -- 30:9C:23:AF:C0:27
+get-all-services r
+Name: Appinfo, DisplayName: Application Information, Status: running
+Name: AppXSvc, DisplayName: AppX Deployment Service (AppXSVC), Status: running
+Name: AudioEndpointBuilder, DisplayName: Windows Audio Endpoint Builder, Status: running
+Name: Audiosrv, DisplayName: Windows Audio, Status: running
+Name: AzureAttestService, DisplayName: AzureAttestService, Status: running
+Name: BFE, DisplayName: Base Filtering Engine, Status: running
+Name: BrokerInfrastructure, DisplayName: Background Tasks Infrastructure Service, Status: running
+Name: BthAvctpSvc, DisplayName: AVCTP service, Status: running
+Name: camsvc, DisplayName: Capability Access Manager Service, Status: running
+Name: CDPSvc, DisplayName: Connected Devices Platform Service, Status: running
+Name: chromoting, DisplayName: Chrome Remote Desktop Service, Status: running
+Name: ClickToRunSvc, DisplayName: Microsoft Office Click-to-Run Service, Status: running
+Name: COMSysApp, DisplayName: COM+ System Application, Status: running
+Name: CoreMessagingRegistrar, DisplayName: CoreMessaging, Status: running
+Name: CryptSvc, DisplayName: Cryptographic Services, Status: running
+Name: DcomLaunch, DisplayName: DCOM Server Process Launcher, Status: running
+Name: DeviceAssociationService, DisplayName: Device Association Service, Status: running
+Name: Dhcp, DisplayName: DHCP Client, Status: running
+Name: DiagTrack, DisplayName: Connected User Experiences and Telemetry, Status: running
+Name: DispBrokerDesktopSvc, DisplayName: Display Policy Service, Status: running
+Name: DisplayEnhancementService, DisplayName: Display Enhancement Service, Status: running
+Name: Dnscache, DisplayName: DNS Client, Status: running
+Name: DoSvc, DisplayName: Delivery Optimization, Status: running
+Name: DPS, DisplayName: Diagnostic Policy Service, Status: running
+Name: DsSvc, DisplayName: Data Sharing Service, Status: running
+Name: DusmSvc, DisplayName: Data Usage, Status: running
+Name: EFS, DisplayName: Encrypting File System (EFS), Status: running
+Name: EventLog, DisplayName: Windows Event Log, Status: running
+Name: EventSystem, DisplayName: COM+ Event System, Status: running
+Name: ewserver, DisplayName: SOLIDWORKS Electrical Collaborative Server, Status: running
+Name: FileSyncHelper, DisplayName: FileSyncHelper, Status: running
+Name: filezilla-server, DisplayName: filezilla-server, Status: running
+Name: FlexNet Licensing Service 64, DisplayName: FlexNet Licensing Service 64, Status: running
+Name: FontCache, DisplayName: Windows Font Cache Service, Status: running
+Name: hidserv, DisplayName: Human Interface Device Service, Status: running
+Name: hns, DisplayName: Host Network Service, Status: running
+Name: HPPrintScanDoctorService, DisplayName: HP Print Scan Doctor Service, Status: running
+Name: HvHost, DisplayName: HV Host Service, Status: running
+Name: InstallService, DisplayName: Microsoft Store Install Service, Status: running
+Name: iphlpsvc, DisplayName: IP Helper, Status: running
+Name: jhi_service, DisplayName: Intel(R) Dynamic Application Loader Host Interface Service, Status: running
+Name: KeyIso, DisplayName: CNG Key Isolation, Status: running
+Name: LanmanServer, DisplayName: Server, Status: running
+Name: LanmanWorkstation, DisplayName: Workstation, Status: running
+Name: lfsvc, DisplayName: Geolocation Service, Status: running
+Name: LicenseManager, DisplayName: Windows License Manager Service, Status: running
+Name: lmhosts, DisplayName: TCP/IP NetBIOS Helper, Status: running
+Name: LSM, DisplayName: Local Session Manager, Status: running
+Name: mpssvc, DisplayName: Windows Defender Firewall, Status: running
+Name: MSDTC, DisplayName: Distributed Transaction Coordinator, Status: running
+Name: MSSQL$TEW_SQLEXPRESS, DisplayName: SQL Server (TEW_SQLEXPRESS), Status: running
+Name: MySQL81, DisplayName: MySQL81, Status: running
+Name: NcbService, DisplayName: Network Connection Broker, Status: running
+Name: netprofm, DisplayName: Network List Service, Status: running
+Name: nsi, DisplayName: Network Store Interface Service, Status: running
+Name: nvagent, DisplayName: Network Virtualization Service, Status: running
+Name: NVDisplay.ContainerLocalSystem, DisplayName: NVIDIA Display Container LS, Status: running
+Name: PcaSvc, DisplayName: Program Compatibility Assistant Service, Status: running
+Name: PlugPlay, DisplayName: Plug and Play, Status: running
+Name: PolicyAgent, DisplayName: IPsec Policy Agent, Status: running
+Name: Power, DisplayName: Power, Status: running
+Name: ProfSvc, DisplayName: User Profile Service, Status: running
+Name: RemoteSolverDispatcher, DisplayName: Remote Solver for Flow Simulation 2020, Status: running
+Name: RmSvc, DisplayName: Radio Management Service, Status: running
+Name: RpcEptMapper, DisplayName: RPC Endpoint Mapper, Status: running
+Name: RpcSs, DisplayName: Remote Procedure Call (RPC), Status: running
+Name: SamSs, DisplayName: Security Accounts Manager, Status: running
+Name: Schedule, DisplayName: Task Scheduler, Status: running
+Name: SDRSVC, DisplayName: Windows Backup, Status: running
+Name: SecurityHealthService, DisplayName: Windows Security Service, Status: running
+Name: SENS, DisplayName: System Event Notification Service, Status: running
+Name: SgrmBroker, DisplayName: System Guard Runtime Monitor Broker, Status: running
+Name: SharedAccess, DisplayName: Internet Connection Sharing (ICS), Status: running
+Name: ShellHWDetection, DisplayName: Shell Hardware Detection, Status: running
+Name: Spooler, DisplayName: Print Spooler, Status: running
+Name: SQLBrowser, DisplayName: SQL Server Browser, Status: running
+Name: SQLTELEMETRY$TEW_SQLEXPRESS, DisplayName: SQL Server CEIP service (TEW_SQLEXPRESS), Status: running
+Name: SQLWriter, DisplayName: SQL Server VSS Writer, Status: running
+Name: SSDPSRV, DisplayName: SSDP Discovery, Status: running
+Name: StateRepository, DisplayName: State Repository Service, Status: running
+Name: Steam Client Service, DisplayName: Steam Client Service, Status: running
+Name: StiSvc, DisplayName: Windows Image Acquisition (WIA), Status: running
+Name: StorSvc, DisplayName: Storage Service, Status: running
+Name: SWVisualize2023.Queue.Server, DisplayName: SWVisualize2023.Queue.Server, Status: running
+Name: SysMain, DisplayName: SysMain, Status: running
+Name: SystemEventsBroker, DisplayName: System Events Broker, Status: running
+Name: TabletInputService, DisplayName: Touch Keyboard and Handwriting Panel Service, Status: running
+Name: Themes, DisplayName: Themes, Status: running
+Name: TimeBrokerSvc, DisplayName: Time Broker, Status: running
+Name: TokenBroker, DisplayName: Web Account Manager, Status: running
+Name: TrkWks, DisplayName: Distributed Link Tracking Client, Status: running
+Name: uhssvc, DisplayName: Microsoft Update Health Service, Status: running
+Name: UserManager, DisplayName: User Manager, Status: running
+Name: UsoSvc, DisplayName: Update Orchestrator Service, Status: running
+Name: VaultSvc, DisplayName: Credential Manager, Status: running
+Name: VMAuthdService, DisplayName: VMware Authorization Service, Status: running
+Name: vmcompute, DisplayName: Hyper-V Host Compute Service, Status: running
+Name: VMnetDHCP, DisplayName: VMware DHCP Service, Status: running
+Name: VMUSBArbService, DisplayName: VMware USB Arbitration Service, Status: running
+Name: VMware NAT Service, DisplayName: VMware NAT Service, Status: running
+Name: Wcmsvc, DisplayName: Windows Connection Manager, Status: running
+Name: WdiServiceHost, DisplayName: Diagnostic Service Host, Status: running
+Name: WdiSystemHost, DisplayName: Diagnostic System Host, Status: running
+Name: WdNisSvc, DisplayName: Microsoft Defender Antivirus Network Inspection Service, Status: running
+Name: WebClient, DisplayName: WebClient, Status: running
+Name: WinDefend, DisplayName: Microsoft Defender Antivirus Service, Status: running
+Name: WinHttpAutoProxySvc, DisplayName: WinHTTP Web Proxy Auto-Discovery Service, Status: running
+Name: Winmgmt, DisplayName: Windows Management Instrumentation, Status: running
+Name: WlanSvc, DisplayName: WLAN AutoConfig, Status: running
+Name: WMIRegistrationService, DisplayName: Intel(R) Management Engine WMI Provider Registration, Status: running
+Name: WpnService, DisplayName: Windows Push Notifications System Service, Status: running
+Name: wscsvc, DisplayName: Security Center, Status: running
+Name: WSearch, DisplayName: Windows Search, Status: running
+Name: CaptureService_28b5a7, DisplayName: CaptureService_28b5a7, Status: running
+Name: cbdhsvc_28b5a7, DisplayName: Clipboard User Service_28b5a7, Status: running
+Name: CDPUserSvc_28b5a7, DisplayName: Connected Devices Platform User Service_28b5a7, Status: running
+Name: NPSMSvc_28b5a7, DisplayName: NPSMSvc_28b5a7, Status: running
+Name: OneSyncSvc_28b5a7, DisplayName: Sync Host_28b5a7, Status: running
+Name: PimIndexMaintenanceSvc_28b5a7, DisplayName: Contact Data_28b5a7, Status: running
+Name: UdkUserSvc_28b5a7, DisplayName: Udk User Service_28b5a7, Status: running
+Name: UnistoreSvc_28b5a7, DisplayName: User Data Storage_28b5a7, Status: running
+Name: UserDataSvc_28b5a7, DisplayName: User Data Access_28b5a7, Status: running
+Name: WpnUserService_28b5a7, DisplayName: Windows Push Notifications User Service_28b5a7, Status: running
+Name: WslService, DisplayName: Windows Subsystem for Linux, Status: running
+Name: MDCoreSvc, DisplayName: Microsoft Defender Core Service, Status: running
+
+
+2023-11-17 19:03:34.723122 -- 30:9C:23:AF:C0:27
+stop-service chromoting
+Succesfully stopped service: chromoting
+
+2023-11-17 19:06:15.949201 -- 30:9C:23:AF:C0:27
+handle_keylogger() takes 0 positional arguments but 1 was given
+
+2023-11-17 19:07:22.546392 -- 30:9C:23:AF:C0:27
+keylogger
+Started keylogger thread
+
+2023-11-17 19:07:29.593665 -- 30:9C:23:AF:C0:27
+km84
+
+[Time: 19:07]: 
+[WindowName: Untitled - Notepad]: t
+
+2023-11-17 19:07:29.674798 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *t - Notepad]: e
+
+2023-11-17 19:07:29.785606 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *te - Notepad]: s
+
+2023-11-17 19:07:29.977893 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *tes - Notepad]: t
+
+2023-11-17 19:07:30.309188 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *test - Notepad]:  f
+
+2023-11-17 19:07:30.330844 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *test f - Notepad]: d
+
+2023-11-17 19:07:30.584399 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *test fd - Notepad]: s
+
+2023-11-17 19:07:30.730784 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *test fds - Notepad]: f
+
+2023-11-17 19:07:33.428427 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *test fdsf - Notepad]: d
+
+2023-11-17 19:07:33.570909 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *test fdsfd - Notepad]: f
+
+2023-11-17 19:07:33.615797 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *test fdsfdf - Notepad]: d
+
+2023-11-17 19:07:33.834896 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *test fdsfdfd - Notepad]: s
+
+2023-11-17 19:07:33.948488 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *test fdsfdfds - Notepad]: f
+
+2023-11-17 19:07:33.978453 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *test fdsfdfdsf - Notepad]: d
+
+2023-11-17 19:07:34.117200 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *test fdsfdfdsfd - Notepad]: s
+
+2023-11-17 19:07:34.237346 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *test fdsfdfdsfds - Notepad]: f
+
+2023-11-17 19:07:34.246344 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *test fdsfdfdsfdsf - Notepad]: d
+
+2023-11-17 19:07:34.392997 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *test fdsfdfdsfdsfd - Notepad]: s
+
+2023-11-17 19:07:34.513893 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *test fdsfdfdsfdsfds - Notepad]: f
+
+2023-11-17 19:07:34.527707 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *test fdsfdfdsfdsfdsf - Notepad]: s
+
+2023-11-17 19:07:34.655641 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *test fdsfdfdsfdsfdsfs - Notepad]: d
+
+2023-11-17 19:07:34.788738 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *test fdsfdfdsfdsfdsfsd - Notepad]: f
+
+2023-11-17 19:07:34.817806 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *test fdsfdfdsfdsfdsfsdf - Notepad]: s
+
+2023-11-17 19:07:34.934885 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *test fdsfdfdsfdsfdsfsdfs - Notepad]: d
+
+2023-11-17 19:07:35.076283 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *test fdsfdfdsfdsfdsfsdfsd - Notepad]: f
+
+2023-11-17 19:07:36.141098 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *test fdsfdfdsfdsfdsfsdfsdf - Notepad]: s
+
+2023-11-17 19:07:36.635697 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *test fdsfdfdsfdsfdsfsdfsdfs - Notepad]: <BACKSPACE>
+
+2023-11-17 19:07:36.666697 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *test fdsfdfdsfdsfdsfsdfsdf - Notepad]: <BACKSPACE>
+
+2023-11-17 19:07:36.713835 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *test fdsfdfdsfdsfdsfsdfsd - Notepad]: <BACKSPACE>
+
+2023-11-17 19:07:36.752661 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *test fdsfdfdsfdsfdsfsdfs - Notepad]: <BACKSPACE>
+
+2023-11-17 19:07:36.776113 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *test fdsfdfdsfdsfdsfsdf - Notepad]: <BACKSPACE>
+
+2023-11-17 19:07:36.809111 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *test fdsfdfdsfdsfdsfsd - Notepad]: <BACKSPACE>
+
+2023-11-17 19:07:36.841112 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *test fdsfdfdsfdsfdsfs - Notepad]: <BACKSPACE>
+
+2023-11-17 19:07:36.872242 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *test fdsfdfdsfdsfdsf - Notepad]: <BACKSPACE>
+
+2023-11-17 19:07:36.902256 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *test fdsfdfdsfdsfds - Notepad]: <BACKSPACE>
+
+2023-11-17 19:07:36.941382 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *test fdsfdfdsfdsfd - Notepad]: <BACKSPACE>
+
+2023-11-17 19:07:36.965377 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *test fdsfdfdsfdsf - Notepad]: <BACKSPACE>
+
+2023-11-17 19:07:36.997376 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *test fdsfdfdsfds - Notepad]: <BACKSPACE>
+
+2023-11-17 19:07:37.029376 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *test fdsfdfdsfd - Notepad]: <BACKSPACE>
+
+2023-11-17 19:07:37.078173 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *test fdsfdfdsf - Notepad]: <BACKSPACE>
+
+2023-11-17 19:07:37.110277 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *test fdsfdfds - Notepad]: <BACKSPACE>
+
+2023-11-17 19:07:37.152253 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *test fdsfdfd - Notepad]: <BACKSPACE>
+
+2023-11-17 19:07:37.173244 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *test fdsfdf - Notepad]: <BACKSPACE>
+
+2023-11-17 19:07:38.089457 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *test fdsfd - Notepad]: <BACKSPACE>
+
+2023-11-17 19:07:39.468939 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *test fdsf - Notepad]: <BACKSPACE>
+
+2023-11-17 19:07:39.978551 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *test fds - Notepad]: <BACKSPACE>
+
+2023-11-17 19:07:40.011759 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *test fd - Notepad]: <BACKSPACE>
+
+2023-11-17 19:07:40.042237 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *test f - Notepad]: <BACKSPACE>
+
+2023-11-17 19:07:40.102922 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *test - Notepad]: <BACKSPACE><BACKSPACE>
+
+2023-11-17 19:07:40.134864 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *tes - Notepad]: <BACKSPACE>
+
+2023-11-17 19:07:40.180997 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *te - Notepad]: <BACKSPACE>
+
+2023-11-17 19:07:40.219321 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *t - Notepad]: <BACKSPACE>
+
+2023-11-17 19:07:40.482315 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: Untitled - Notepad]: <BACKSPACE><BACKSPACE><BACKSPACE><BACKSPACE><BACKSPACE><BACKSPACE><BACKSPACE><BACKSPACE><BACKSPACE>
+
+2023-11-17 19:07:41.572661 -- 30:9C:23:AF:C0:27
+km84
+<BACKSPACE><BACKSPACE><BACKSPACE>L
+
+2023-11-17 19:07:41.774639 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *L - Notepad]: O
+
+2023-11-17 19:07:41.989415 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *LO - Notepad]: L
+
+2023-11-17 19:07:42.192896 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *LOL - Notepad]: O
+
+2023-11-17 19:07:42.384262 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *LOLO - Notepad]: L
+
+2023-11-17 19:07:42.586778 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *LOLOL - Notepad]: O
+
+2023-11-17 19:07:42.791807 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *LOLOLO - Notepad]: L
+
+2023-11-17 19:07:42.984201 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *LOLOLOL - Notepad]: O
+
+2023-11-17 19:07:43.191774 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *LOLOLOLO - Notepad]: L
+
+2023-11-17 19:07:43.401703 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *LOLOLOLOL - Notepad]: O
+
+2023-11-17 19:07:43.627505 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *LOLOLOLOLO - Notepad]: L
+
+2023-11-17 19:07:43.852745 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *LOLOLOLOLOL - Notepad]: O
+
+2023-11-17 19:07:44.079264 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *LOLOLOLOLOLO - Notepad]: L
+
+2023-11-17 19:07:44.289321 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *LOLOLOLOLOLOL - Notepad]: O
+
+2023-11-17 19:07:44.503620 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *LOLOLOLOLOLOLO - Notepad]: L
+
+2023-11-17 19:07:44.689745 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *LOLOLOLOLOLOLOL - Notepad]: O
+
+2023-11-17 19:07:44.914754 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *LOLOLOLOLOLOLOLO - Notepad]: L
+
+2023-11-17 19:07:45.140464 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *LOLOLOLOLOLOLOLOL - Notepad]: O
+
+2023-11-17 19:07:45.380747 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *LOLOLOLOLOLOLOLOLO - Notepad]: L
+
+2023-11-17 19:07:45.566883 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *LOLOLOLOLOLOLOLOLOL - Notepad]: O
+
+2023-11-17 19:07:45.776842 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *LOLOLOLOLOLOLOLOLOLO - Notepad]: L
+
+2023-11-17 19:07:45.984022 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *LOLOLOLOLOLOLOLOLOLOL - Notepad]: O
+
+2023-11-17 19:07:46.930176 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *LOLOLOLOLOLOLOLOLOLOLO - Notepad]: L
+
+2023-11-17 19:07:47.439440 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *LOLOLOLOLOLOLOLOLOLOLOL - Notepad]: <BACKSPACE>
+
+2023-11-17 19:07:47.470982 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *LOLOLOLOLOLOLOLOLOLOLO - Notepad]: <BACKSPACE>
+
+2023-11-17 19:07:47.501882 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *LOLOLOLOLOLOLOLOLOLOL - Notepad]: <BACKSPACE>
+
+2023-11-17 19:07:47.531900 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *LOLOLOLOLOLOLOLOLOLO - Notepad]: <BACKSPACE>
+
+2023-11-17 19:07:47.564800 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *LOLOLOLOLOLOLOLOLOL - Notepad]: <BACKSPACE>
+
+2023-11-17 19:07:47.611475 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *LOLOLOLOLOLOLOLOLO - Notepad]: <BACKSPACE>
+
+2023-11-17 19:07:47.641728 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *LOLOLOLOLOLOLOLOL - Notepad]: <BACKSPACE>
+
+2023-11-17 19:07:47.672661 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *LOLOLOLOLOLOLOLO - Notepad]: <BACKSPACE>
+
+2023-11-17 19:07:47.704317 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *LOLOLOLOLOLOLOL - Notepad]: <BACKSPACE>
+
+2023-11-17 19:07:47.735013 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *LOLOLOLOLOLOLO - Notepad]: <BACKSPACE>
+
+2023-11-17 19:07:47.772786 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *LOLOLOLOLOLOL - Notepad]: <BACKSPACE>
+
+2023-11-17 19:07:47.828731 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *LOLOLOLOLOLO - Notepad]: <BACKSPACE><BACKSPACE>
+
+2023-11-17 19:07:47.860928 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *LOLOLOLOLO - Notepad]: <BACKSPACE>
+
+2023-11-17 19:07:47.907230 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *LOLOLOLOL - Notepad]: <BACKSPACE>
+
+2023-11-17 19:07:47.939644 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *LOLOLOLO - Notepad]: <BACKSPACE>
+
+2023-11-17 19:07:47.969694 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *LOLOLOL - Notepad]: <BACKSPACE>
+
+2023-11-17 19:07:48.007850 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *LOLOLO - Notepad]: <BACKSPACE>
+
+2023-11-17 19:07:48.031347 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *LOLOL - Notepad]: <BACKSPACE>
+
+2023-11-17 19:07:48.063369 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *LOLO - Notepad]: <BACKSPACE>
+
+2023-11-17 19:07:48.096370 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *LOL - Notepad]: <BACKSPACE>
+
+2023-11-17 19:07:48.125345 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *LO - Notepad]: <BACKSPACE>
+
+2023-11-17 19:07:48.157780 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *L - Notepad]: <BACKSPACE>
+
+2023-11-17 19:07:48.425407 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: Untitled - Notepad]: <BACKSPACE><BACKSPACE><BACKSPACE><BACKSPACE><BACKSPACE><BACKSPACE><BACKSPACE><BACKSPACE><BACKSPACE>
+
+2023-11-17 19:08:07.440617 -- 30:9C:23:AF:C0:27
+km84
+<BACKSPACE>
+
+2023-11-17 19:08:12.718615 -- 30:9C:23:AF:C0:27
+kill-keylogger
+Error: list index out of range
+
+2023-11-17 19:08:12.970279 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: Windows PowerShell]: kill-keylogger<ENTER>
+
+2023-11-17 19:08:13.084057 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: Untitled - Notepad]: s
+
+2023-11-17 19:08:13.106057 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *s - Notepad]: a
+
+2023-11-17 19:08:13.328489 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *sa - Notepad]: S
+
+2023-11-17 19:08:13.473413 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *saS - Notepad]: A
+
+2023-11-17 19:08:13.637840 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *saSA - Notepad]: S
+
+2023-11-17 19:08:13.729396 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *saSAS - Notepad]: a
+
+2023-11-17 19:08:13.897353 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *saSASa - Notepad]: s
+
+2023-11-17 19:08:14.025825 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *saSASas - Notepad]: a
+
+2023-11-17 19:08:14.226132 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *saSASasa - Notepad]: s
+
+2023-11-17 19:08:14.315885 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *saSASasas - Notepad]: a
+
+2023-11-17 19:08:14.476850 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *saSASasasa - Notepad]: s
+
+2023-11-17 19:08:14.610165 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *saSASasasas - Notepad]: a
+
+2023-11-17 19:08:14.749328 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *saSASasasasa - Notepad]: s
+
+2023-11-17 19:08:14.892347 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *saSASasasasas - Notepad]: a
+
+2023-11-17 19:08:15.057823 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *saSASasasasasa - Notepad]: s
+
+2023-11-17 19:08:15.169847 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *saSASasasasasas - Notepad]: a
+
+2023-11-17 19:08:15.306790 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *saSASasasasasasa - Notepad]: s
+
+2023-11-17 19:08:15.427832 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *saSASasasasasasas - Notepad]: a
+
+2023-11-17 19:08:15.541246 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *saSASasasasasasasa - Notepad]: s
+
+2023-11-17 19:08:15.659068 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *saSASasasasasasasas - Notepad]: a
+
+2023-11-17 19:08:15.779304 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *saSASasasasasasasasa - Notepad]: s
+
+2023-11-17 19:08:15.889293 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *saSASasasasasasasasas - Notepad]: a
+
+2023-11-17 19:08:15.988661 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *saSASasasasasasasasasa - Notepad]: s
+
+2023-11-17 19:08:16.096508 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *saSASasasasasasasasasas - Notepad]: a
+
+2023-11-17 19:08:16.184810 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *saSASasasasasasasasasasa - Notepad]: s
+
+2023-11-17 19:08:16.281349 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *saSASasasasasasasasasasas - Notepad]: a
+
+2023-11-17 19:08:16.439895 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *saSASasasasasasasasasasasa - Notepad]: s
+
+2023-11-17 19:08:16.555985 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *saSASasasasasasasasasasasas - Notepad]: a
+
+2023-11-17 19:08:16.677542 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *saSASasasasasasasasasasasasa - Notepad]: s
+
+2023-11-17 19:08:16.777437 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *saSASasasasasasasasasasasasas - Notepad]: a
+
+2023-11-17 19:08:16.884589 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *saSASasasasasasasasasasasasasa - Notepad]: s
+
+2023-11-17 19:08:16.986221 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *saSASasasasasasasasasasasasasas - Notepad]: a
+
+2023-11-17 19:08:17.085689 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *saSASasasasasasasasasasasasasasa - Notepad]: s
+
+2023-11-17 19:08:17.230373 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *saSASasasasasasasasasasasasasasas - Notepad]: a
+
+2023-11-17 19:08:17.270408 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *saSASasasasasasasasasasasasasasasa - Notepad]: a
+
+2023-11-17 19:08:37.482844 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *saSASasasasasasasasasasasasasasasaa - Notepad]: sasasasasassa
+
+2023-11-17 19:10:12.141458 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: keylogger.py - beaconing - Visual Studio Code]: ffmainf
+
+2023-11-17 19:10:24.653527 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: Untitled - Notepad]: f
+
+2023-11-17 19:10:24.722526 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *f - Notepad]: d
+
+2023-11-17 19:10:24.824529 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *fd - Notepad]: s
+
+2023-11-17 19:10:24.922130 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *fds - Notepad]: f
+
+2023-11-17 19:10:25.098636 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *fdsf - Notepad]: d
+
+2023-11-17 19:10:27.344195 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *fdsfd - Notepad]: f
+
+2023-11-17 19:10:37.535064 -- 30:9C:23:AF:C0:27
+kill-keylogger
+Error: list index out of range
+
+2023-11-17 19:12:04.958950 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: Windows PowerShell]: <ENTER>
+
+2023-11-17 19:12:26.066597 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: keylogger.py - beaconing - Visual Studio Code]: fdie<ENTER>
+
+2023-11-17 19:12:26.355645 -- 30:9C:23:AF:C0:27
+km84
+
+[Time: 19:12]: <BACKSPACE>
+
+2023-11-17 19:13:26.911234 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: keylogger.py - beaconing - Visual Studio Code]: log_it()<ENTER>
+
+2023-11-17 19:13:35.996806 -- 30:9C:23:AF:C0:27
+kill-keylogger
+Error: list index out of range
+
+2023-11-17 19:14:02.695452 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: Windows PowerShell]: <ENTER>
+
+2023-11-17 19:14:58.953581 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: pycontrol.py - beaconing - Visual Studio Code]: fkill-kef
+
+2023-11-17 19:15:16.894072 -- 30:9C:23:AF:C0:27
+km84
+
+[Time: 19:14]: 
+[WindowName: keylogger.py - beaconing - Visual Studio Code]: fexce<ENTER><ENTER><ENTER><ENTER><ENTER><ENTER><ENTER><ENTER><ENTER><ENTER><ENTER>
+
+2023-11-17 19:15:59.036235 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: pycontrol.py - beaconing - Visual Studio Code]: fexce<ENTER><ENTER><ENTER><ENTER><ENTER><ENTER>fkifkill-<ENTER>
+
+2023-11-17 19:16:22.286931 -- 30:9C:23:AF:C0:27
+kill-keylogger
+Error: list index out of range
+
+2023-11-17 19:16:34.534777 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: Windows PowerShell]: cc<ENTER><ENTER>
+
+2023-11-17 19:17:09.048785 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: pycontrol.py - beaconing - Visual Studio Code]: fhere
+
+2023-11-17 19:17:21.079151 -- 30:9C:23:AF:C0:27
+km84
+
+[Time: 19:17]: f
+
+2023-11-17 19:17:30.669296 -- 30:9C:23:AF:C0:27
+kill-keylogger
+Error: list index out of range
+
+2023-11-17 19:17:41.869079 -- 30:9C:23:AF:C0:27
+ls
+.git
+constants.py
+keylogger.py
+keys
+Main Command.exe
+main_command.py
+output
+output.log
+payloadgen.py
+pycontrol.py
+pyutils
+README.md
+requirements.txt
+__pycache__
+
+2023-11-17 19:17:55.294735 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: Windows PowerShell]: <ENTER>ls<ENTER>
+
+2023-11-17 19:18:21.706311 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: pycontrol.py - beaconing - Visual Studio Code]: fss
+
+2023-11-17 19:18:33.866798 -- 30:9C:23:AF:C0:27
+ls
+.git
+constants.py
+keylogger.py
+keys
+Main Command.exe
+main_command.py
+output
+output.log
+payloadgen.py
+pycontrol.py
+pyutils
+README.md
+requirements.txt
+__pycache__
+
+2023-11-17 19:18:42.873778 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: Windows PowerShell]: c<ENTER>ls<ENTER>
+
+2023-11-17 19:18:59.758205 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: pycontrol.py - beaconing - Visual Studio Code]: f<ENTER>
+
+2023-11-17 19:19:56.548797 -- 30:9C:23:AF:C0:27
+km84
+
+[Time: 19:19]: kill_<TAB>_func()<ENTER><ENTER><BACKSPACE><BACKSPACE>def kill_keylogger():<ENTER><BACKSPACE>Killing Keyloggers
+
+2023-11-17 19:19:56.791533 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: pycontrol.py - beaconing - Visual Studio Code]: <ENTER>
+
+2023-11-17 19:20:22.536427 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: Windows PowerShell]: cc<ENTER>kill-keylogger<ENTER>
+
+2023-11-17 19:20:22.830049 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: pycontrol.py - beaconing - Visual Studio Code]: _
+
+2023-11-17 19:21:25.483536 -- 30:9C:23:AF:C0:27
+km84
+
+[Time: 19:21]: <BACKSPACE>d be<TAB><ENTER>py py<TAB><ENTER><BACKSPACE><BACKSPACE><BACKSPACE><BACKSPACE><BACKSPACE><BACKSPACE><BACKSPACE>
+
+2023-11-17 19:21:25.886816 -- 30:9C:23:AF:C0:27
+km84
+<BACKSPACE><BACKSPACE><BACKSPACE><BACKSPACE><BACKSPACE><BACKSPACE><BACKSPACE><BACKSPACE><BACKSPACE><BACKSPACE><BACKSPACE><BACKSPACE>
+
+2023-11-17 19:21:39.531787 -- 30:9C:23:AF:C0:27
+km84
+<BACKSPACE><BACKSPACE><BACKSPACE>kill-keylogger<ENTER>
+
+2023-11-17 19:21:39.675790 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *fdsfdf - Notepad]: as
+
+2023-11-17 19:21:39.692788 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *fdsfdfas - Notepad]: a
+
+2023-11-17 19:21:39.899172 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *fdsfdfasa - Notepad]: S
+
+2023-11-17 19:21:40.833985 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *fdsfdfasaS - Notepad]:  D
+
+2023-11-17 19:21:40.844958 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *fdsfdfasaS D - Notepad]: A
+
+2023-11-17 19:21:41.015460 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *fdsfdfasaS DA - Notepad]: S
+
+2023-11-17 19:21:41.177413 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *fdsfdfasaS DAS - Notepad]:  A
+
+2023-11-17 19:21:41.311218 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *fdsfdfasaS DAS A - Notepad]: S
+
+2023-11-17 19:21:41.372997 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *fdsfdfasaS DAS AS - Notepad]: D
+
+2023-11-17 19:21:41.492329 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *fdsfdfasaS DAS ASD - Notepad]:  A
+
+2023-11-17 19:21:41.624645 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *fdsfdfasaS DAS ASD A - Notepad]: S
+
+2023-11-17 19:21:41.703563 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *fdsfdfasaS DAS ASD AS - Notepad]: D
+
+2023-11-17 19:21:41.824804 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *fdsfdfasaS DAS ASD ASD - Notepad]:  A
+
+2023-11-17 19:21:41.930580 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *fdsfdfasaS DAS ASD ASD A - Notepad]: S
+
+2023-11-17 19:21:42.071954 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *fdsfdfasaS DAS ASD ASD AS - Notepad]: D
+
+2023-11-17 19:21:42.143418 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *fdsfdfasaS DAS ASD ASD ASD - Notepad]: A 
+
+2023-11-17 19:21:42.202640 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *fdsfdfasaS DAS ASD ASD ASDA - Notepad]: S
+
+2023-11-17 19:21:42.345445 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *fdsfdfasaS DAS ASD ASD ASDA S - Notepad]: D
+
+2023-11-17 19:21:42.456246 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *fdsfdfasaS DAS ASD ASD ASDA SD - Notepad]: A
+
+2023-11-17 19:21:42.578738 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *fdsfdfasaS DAS ASD ASD ASDA SDA - Notepad]: D
+
+2023-11-17 19:21:42.585736 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *fdsfdfasaS DAS ASD ASD ASDA SDAD - Notepad]: S
+
+2023-11-17 19:21:42.688087 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *fdsfdfasaS DAS ASD ASD ASDA SDADS - Notepad]: A
+
+2023-11-17 19:21:42.790919 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *fdsfdfasaS DAS ASD ASD ASDA SDADSA - Notepad]: D
+
+2023-11-17 19:22:39.146087 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *fdsfdfasaS DAS ASD ASD ASDA SDADSAD - Notepad]: SDSDDS<ENTER>DSADSDSDSDS DS<ENTER>DSDSDDS
+
+2023-11-17 19:22:39.505543 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: keylogger.py - beaconing - Visual Studio Code]: <ENTER>
+
+2023-11-17 19:24:05.991019 -- 30:9C:23:AF:C0:27
+km84
+
+[Time: 19:23]:  - from keyloggers
+
+2023-11-17 19:24:54.338893 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: keylogger.py - beaconing - Visual Studio Code]: ff
+
+2023-11-17 19:24:54.699862 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: Select Administrator: Windows PowerShell]: c
+
+2023-11-17 19:26:33.057841 -- 30:9C:23:AF:C0:27
+keylogger
+Started keylogger thread
+
+2023-11-17 19:26:40.152724 -- 30:9C:23:AF:C0:27
+km84
+
+[Time: 19:26]: 
+[WindowName: *fdsfdfasaS DAS ASD ASD ASDA SDADSAD - Notepad]: <ENTER>fdsfdsfdsf<ENTER>sdfsdfsdfsdf<ENTER>sdfsdf
+
+2023-11-17 19:26:48.137968 -- 30:9C:23:AF:C0:27
+km84
+sdf<ENTER>sdfsdfsd<ENTER>sdfsdf<ENTER>sdfsdf<ENTER>sdfsdf<ENTER>sdfsdfsd
+
+2023-11-17 19:26:55.834325 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: Windows PowerShell]: kill-keylogger<ENTER>
+
+2023-11-17 19:27:04.153192 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: *fdsfdfasaS DAS ASD ASD ASDA SDADSAD - Notepad]: fdsfdfsdfdfdsfs<ENTER>fdsfsdfds<ENTER>sdfsdfsdffds<ENTER>sdff<ENTER>s
+
+2023-11-17 19:27:46.749942 -- 30:9C:23:AF:C0:27
+km84
+<ENTER>sdfdssdf<ENTER>fsdsdffdssdffds<ENTER>sdffdssdf<ENTER>fdssdfs<ENTER>dfsdfdsfsdfs
+
+2023-11-17 19:28:08.644495 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: pycontrol.py - beaconing - Visual Studio Code]: ff<ENTER>
+
+2023-11-17 19:28:38.762039 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: Windows PowerShell]: cc<ENTER>kill-keylogger<ENTER>
+
+2023-11-17 19:28:47.272116 -- 30:9C:23:AF:C0:27
+km84
+
+[Time: 19:28]: 
+[WindowName: *fdsfdfasaS DAS ASD ASD ASDA SDADSAD - Notepad]: fdsfdsf fds fds fdssdf
+
+2023-11-17 19:28:48.014354 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: pycontrol.py - beaconing - Visual Studio Code]: <BACKSPACE>
+
+2023-11-17 19:29:09.396336 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: pycontrol.py - beaconing - Visual Studio Code]: s
+
+2023-11-17 19:29:18.257115 -- 30:9C:23:AF:C0:27
+km84
+
+[WindowName: keylogger.py - beaconing - Visual Studio Code]: fkm84x
+
+2023-11-17 19:30:18.912668 -- 30:9C:23:AF:C0:27
+keylogger
+Started keylogger thread
+
+2023-11-17 19:30:27.202120 -- km84
+30:9C:23:AF:C0:27
+
+[Time: 19:30]: 
+[WindowName: *fdsfdfasaS DAS ASD ASD ASDA SDADSAD - Notepad]: ddsdasdassdaasdassdasdasdasdsadasdasdasdasdasdasd
+
+2023-11-17 19:30:43.524582 -- km84
+30:9C:23:AF:C0:27
+asd
+
+2023-11-17 19:31:04.876218 -- km84
+30:9C:23:AF:C0:27
+
+[WindowName: keylogger.py - beaconing - Visual Studio Code]: <BACKSPACE><BACKSPACE><BACKSPACE><BACKSPACE><BACKSPACE>
+
+2023-11-17 19:31:26.369707 -- km84
+30:9C:23:AF:C0:27
+
+[WindowName: pycontrol.py - beaconing - Visual Studio Code]: kill_key<TAB><ENTER><ENTER><ENTER>
+
+2023-11-17 19:31:40.844474 -- km84
+30:9C:23:AF:C0:27
+
+[WindowName: Windows PowerShell]: c<ENTER>
+
+2023-11-17 19:32:00.107758 -- km84
+30:9C:23:AF:C0:27
+
+[WindowName: *fdsfdfasaS DAS ASD ASD ASDA SDADSAD - Notepad]: saSAsasdfsdfsdffdssdffdsfdssdffdssdffdssdffdssdffdssdffdssdffds<ENTER><ENTER>f
+
+2023-11-17 19:32:03.681348 -- km84
+30:9C:23:AF:C0:27
+dsf
+
+2023-11-17 19:32:09.369398 -- km84
+30:9C:23:AF:C0:27
+
+[WindowName: Windows PowerShell]: <ENTER>
+
+2023-11-17 19:32:09.371406 -- Killing keylogger - from keylogger
+
+2023-11-17 19:37:10.477847 -- 30:9C:23:AF:C0:27
+ls
+.git
+constants.py
+keylogger.py
+keys
+Main Command.exe
+main_command.py
+output
+output.log
+payloadgen.py
+pycontrol.py
+pyutils
+README.md
+requirements.txt
+__pycache__
+
+2023-11-17 19:37:20.952481 -- 30:9C:23:AF:C0:27
+keylogger
+Started keylogger thread
+
+2023-11-17 19:39:04.002588 -- 30:9C:23:AF:C0:27
+ls
+.git
+constants.py
+keylogger.py
+keys
+Main Command.exe
+main_command.py
+output
+output.log
+payloadgen.py
+pycontrol.py
+pyutils
+README.md
+requirements.txt
+__pycache__
+
+2023-11-17 19:40:13.731432 -- 30:9C:23:AF:C0:27
+keylogger
+Started keylogger thread
+
+2023-11-17 19:42:13.011517 -- Killing keylogger - from keylogger
+
+2023-11-17 19:43:16.941958 -- 30:9C:23:AF:C0:27
+keylogger
+Started keylogger thread
+
+2023-11-17 19:44:11.557671 -- 30:9C:23:AF:C0:27
+keylogger
+Started keylogger thread
+
+2023-11-17 19:45:36.153324 -- Killing keylogger - from keylogger
+
+2023-11-17 19:46:30.930852 -- 30:9C:23:AF:C0:27
+keylogger
+Started keylogger thread
+
+2023-11-17 19:48:54.294882 -- 30:9C:23:AF:C0:27
+keylogger
+Started keylogger thread
+
+2023-11-17 19:51:15.567269 -- 30:9C:23:AF:C0:27
+keylogger
+Started keylogger thread
+
+2023-11-17 19:51:25.936214 -- Killing keylogger - from keylogger
+
+2023-11-17 19:51:43.519822 -- 30:9C:23:AF:C0:27
+keylogger
+Started keylogger thread
+
+2023-11-17 19:52:31.555175 -- 30:9C:23:AF:C0:27
+keylogger
+Started keylogger thread
+
+2023-11-17 19:55:31.772011 -- 30:9C:23:AF:C0:27
+keylogger
+Started keylogger thread
+
+2023-11-17 19:58:25.876530 -- 30:9C:23:AF:C0:27
+keylogger
+Started keylogger thread
+
+2023-11-17 19:59:05.464799 -- Killing keylogger - from keylogger
+

