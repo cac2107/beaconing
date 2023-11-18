@@ -1,7 +1,7 @@
 import pyad
 from platform import python_compiler
 
-def get_users(message):
+def get_users(_):
     try:
         python_compiler.CoInitialize()
         query = pyad.adquery.ADQuery()
@@ -33,4 +33,4 @@ def get_users(message):
             finalstr += f"Username: {username}\nFull Name: {fullname}\nGroups:\n{groupstr}\n-------------\n"
 
         return finalstr
-    except Exception as e: return f"Error: {e}"
+    except Exception as e: return f"Error in get_users(): {e}"

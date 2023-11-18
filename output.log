@@ -3234,3 +3234,23 @@ Started keylogger thread
 
 2023-11-17 19:59:05.464799 -- Killing keylogger - from keylogger
 
+2023-11-18 15:42:29.405368 -- 30:9C:23:AF:C0:27
+ls
+.git
+.gitignore
+30-9C-23-AF-C0-27.log
+constants.py
+keylogger.py
+keys
+kl.log
+Main Command.exe
+main_command.py
+output
+output.log
+payloadgen.py
+pycontrol.py
+pyutils
+README.md
+requirements.txt
+__pycache__
+

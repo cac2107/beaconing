@@ -9,11 +9,13 @@ from constants import CONTROL
 
 
 def handle_mic(message):
-    split = message.split(" ")
-    seconds = int(split[1])
-    t = threading.Thread(target=mic_helper, args=[seconds])
-    t.start()
-    return f"Started audio recording for {seconds}"
+    try:
+        split = message.split(" ")
+        seconds = int(split[1])
+        t = threading.Thread(target=mic_helper, args=[seconds])
+        t.start()
+        return f"Started audio recording for {seconds}"
+    except Exception as e: return f"Error in handle_mic(): {e}"
 
 def mic_helper(seconds):
     try:
