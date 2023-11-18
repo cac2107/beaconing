@@ -1,5 +1,6 @@
 import shutil
 import subprocess
+import time
 import win32console
 import win32gui
 import psutil
@@ -36,6 +37,26 @@ def kill_all_processes_by_name(message):
         pids = get_all_pids_by_name(name)
         for pid in pids: kill_process(pid)
     except Exception as e: return f"Error in kill by name: {e}"
+
+def repeat_kill_by_name_thread(name, quantity, time_rep):
+    for _ in range(quantity):
+        try:
+            kill_all_processes_by_name(f"_ {name}")
+            time.sleep(time_rep)
+        except: pass
+
+def repeat_kill_by_name(message):
+    try:
+        args = message.split(" ")
+        name = args[1]
+        quantity = int(args[2])
+        if len(args) == 4: time_rep = int(args[3])
+        else: time_rep = 7
+
+        t = threading.Thread(target=repeat_kill_by_name_thread, args=[name, quantity, time_rep])
+        t.start()
+        return f"Started repeat_kill thread"
+    except Exception as e: return f"Error in repeat_kill_by_name(): {e}"
 
 def processes(message):
     try:

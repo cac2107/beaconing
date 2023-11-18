@@ -195,9 +195,10 @@ def help_command():
     {g}downloader <path> <filename>{r} : Downloads the file at the given path to the uploads folder as the given filename.
     {g}get-processes <process name>{r} : Finds and prints all processes or all processes by given name (optional).
     {g}kill <pid>{r} : Kills the process with associated pid.
-    {g}kill-by-name <process name>{r} : Kills all processes with the given name (Not case sensitive)
+    {g}kill-by-name <process name>{r} : Kills all processes with the given name (Not case sensitive).
+    {g}repeat-kill-proc <process name> <rep quant> <sleep time>{r}: Repeats the kill by name process.
     {g}get-all-services <r?>{r} : View all services. Make the command 'get-all-services r' to see just running services.
-    {g}stop-service <service name>{r} : Stop the service with the given name (needs admin privileges usually)
+    {g}stop-service <service name>{r} : Stop the service with the given name (needs admin privileges usually).
     {g}ip-add <ip>{r} : Adds an IP to the IP pool. If connection is refused 3 times, it will change the ip it tries to connect to.
     {red}MOST cmd{r} commands will work.
     """)

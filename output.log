@@ -3254,3 +3254,7 @@ README.md
 requirements.txt
 __pycache__
 
+2023-11-18 16:14:09.758641 -- 30:9C:23:AF:C0:27
+repeat-kill-proc chrome.exe 3 5
+Started repeat_kill thread
+
