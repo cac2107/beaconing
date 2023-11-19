@@ -116,11 +116,10 @@ def get_all_services_cmd(message):
             service = service.encode('utf-8').decode('utf-8')
             print(service)
             service_status = get_service_status(service)
-            # Assuming get_service_status returns a string, adjust the encoding if needed
             service_status = service_status.encode("utf-8").decode("utf-8")
             
-            # If (running and service_status == "running") or not running:
-            final += f"Name: {str(service)}, Status: {str(service_status)}\n"
+            if (running and service_status == "running") or not running:
+                final += f"Name: {str(service)}, Status: {str(service_status)}\n"
         return final
     except Exception as e:
         return f"Error in get_all_services_cmd(): {e}"
