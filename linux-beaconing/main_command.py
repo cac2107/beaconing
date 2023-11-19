@@ -129,7 +129,7 @@ def start_server():
 
                     txt = eu.encrypt1(f"{mac}\n{txt}").encode("utf-8").decode('utf-8')
                     headers = {'Content-Type': 'text/plain'}
-                    r2 = requests.post(ip, data=str(txt), headers=headers)
+                    r2 = requests.post(ip, data=str(txt).encode('utf-8'), headers=headers)
                     if r2.status_code == 200: print(f"Successfully sent response for {cmd}")
 
 if __name__ == '__main__':
