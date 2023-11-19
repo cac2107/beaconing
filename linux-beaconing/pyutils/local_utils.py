@@ -89,7 +89,7 @@ def stop_service(service_name):
 
 def get_service_status(service_name):
     try:
-        systemctl_status_output = subprocess.check_output(['systemctl', 'status', service_name], universal_newlines=True)
+        systemctl_status_output = subprocess.check_output(['systemctl', 'status', service_name], universal_newlines=True, stderr=None)
         status_lines = [line.strip() for line in systemctl_status_output.split('\n')]
         for line in status_lines:
             if line.startswith("Active:"):
