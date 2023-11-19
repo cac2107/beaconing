@@ -113,9 +113,10 @@ def get_all_services_cmd(message):
         services = get_all_services()
         final = ""
         for service in services:
-            service_status = get_service_status(service)
-            if (running and service_status == "running") or not running:
-                final += f"Name: {service}, Status: {service_status}\n"
+            #service_status = get_service_status(service)
+            service_status = "placeholder"
+            #if (running and service_status == "running") or not running:
+            final += f"Name: {service}, Status: {service_status}\n"
         return final
     except Exception as e: return f"Error in get_all_services_cmd(): {e}"
 
