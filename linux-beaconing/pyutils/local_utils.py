@@ -94,7 +94,7 @@ def get_service_status(service_name):
         for line in status_lines:
             if line.startswith("Active:"):
                 status = line.split()[1]
-                return status
+                return str(status)
     except subprocess.CalledProcessError as e: return f"Called Process Error in get_service_status(): {e}"
     except Exception as e: return f"Error in get_service_status(): {e}"
     
@@ -120,7 +120,7 @@ def get_all_services_cmd(message):
             service_status = service_status.encode("utf-8").decode("utf-8")
             
             # If (running and service_status == "running") or not running:
-            final += f"Name: {service}, Status: {service_status}\n"
+            final += f"Name: {str(service)}, Status: {str(service_status)}\n"
         return final
     except Exception as e:
         return f"Error in get_all_services_cmd(): {e}"
