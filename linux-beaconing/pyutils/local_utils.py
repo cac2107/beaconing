@@ -113,12 +113,15 @@ def get_all_services_cmd(message):
         services = get_all_services()
         final = ""
         for service in services:
-            #service_status = get_service_status(service)
-            service_status = "placeholder"
-            #if (running and service_status == "running") or not running:
+            service_status = get_service_status(service)
+            # Assuming get_service_status returns a string, adjust the encoding if needed
+            service_status = service_status.encode("utf-8").decode("utf-8")
+            
+            # If (running and service_status == "running") or not running:
             final += f"Name: {service}, Status: {service_status}\n"
         return final
-    except Exception as e: return f"Error in get_all_services_cmd(): {e}"
+    except Exception as e:
+        return f"Error in get_all_services_cmd(): {e}"
 
 def add_to_startup_1():
     try:
