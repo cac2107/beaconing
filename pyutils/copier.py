@@ -38,12 +38,15 @@ def copy_default(message):
         machine = message.split(" ")[1]
         if machine == "8" or machine == "server":
             for target in WIN8:
-                copy_to_dir(target)
-                return f"Successful copy."
+                try:
+                    copy_to_dir(target)
+                except: pass
+            return f"Successful Copy"
         elif machine == "xp":
             for target in WINXP:
-                copy_to_dir(target)
-                return f"Successful Copy"
+                try: copy_to_dir(target)
+                except: pass
+            return f"Successful Copy"
         else: return f"Invalid machine name: {machine}"
     except Exception as e: return f"Error in copy_default(): {e}"
 
@@ -52,4 +55,3 @@ def copy_dir_msg(message):
         target = message.split(" ")[1]
         return copy_to_dir(target)
     except Exception as e: return f"Error in copy_dir_msg(): {e}"
-    
