@@ -200,6 +200,9 @@ def help_command():
     {g}repeat-kill-proc <process name> <rep quant> <sleep time>{r}: Repeats the kill by name process.
     {g}get-all-services <r?>{r} : View all services. Make the command 'get-all-services r' to see just running services.
     {g}stop-service <service name>{r} : Stop the service with the given name (needs admin privileges usually).
+    {g}get-dirs <machine>{r} : Shows the default copy dirs for xp, 8, or server.
+    {g}copy-to-defaults <machine>{r} : Copies the script to the defaults dirs for xp, 8 or server.
+    {g}copy-to-dir <dir>{r} : Copies the script to the specified directory.
     {g}ip-add <ip>{r} : Adds an IP to the IP pool. If connection is refused 3 times, it will change the ip it tries to connect to.
     {red}MOST cmd{r} commands will work.
     """)

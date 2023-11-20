@@ -158,7 +158,6 @@ def help_command():
     {g}ls{r}
     {g}mkdir <name>{r}
     {g}pwd{r}
-    {g}get-users{r} : Prints all Active Directory users, groups, and names.
     {g}scan-ports <min> <max>{r} : Finds open ports in the specified range.
     {g}screenshot{r} : Takes a screenshot and saves it into the upload folder.
     {g}screenshot <interval> <quantity>{r} : Takes and saves screenshots every interval seconds for quantity times.
