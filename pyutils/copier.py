@@ -3,19 +3,30 @@ import shutil
 import sys
 
 WIN8 = [
-    r"C:\Users\<username>\AppData\LocalLow",
-    r"C:\ProgramData",
-    r"C:\Windows\Installer",
+    r"C:\Users\warden\AppData\LocalLow",
+    r"C:\Users\riotguard\AppData\LocalLow",
+    r"C:\Users\prisonguard\AppData\LocalLow",
+    r"C:\Users\prisoner\AppData\LocalLow",
+    r"C:\Users\gangster\AppData\LocalLow",
+    r"C:\Users\mobster\AppData\LocalLow",
+    r"C:\Program Files\Mozilla Firefox",
     r"C:\Windows\System32\config",
+    r"C:\Windows\System32\InputMethod\CHT"
     r"C:\Windows\WinSxS"
 ]
 
 WINXP = [
     r"C:\Documents and Settings\All Users\Application Data",
+    r"C:\Program Files\Movie Maker"
     r"C:\WINDOWS\Downloaded Program Files",
     r"C:\WINDOWS\Tasks",
     r"C:\WINDOWS\system32\dllcache",
-    r"C:\Documents and Settings\<username>\Local Settings\Temporary Internet Files"
+    r"C:\Documents and Settings\warden\Local Settings\Temporary Internet Files",
+    r"C:\Documents and Settings\riotguard\Local Settings\Temporary Internet Files",
+    r"C:\Documents and Settings\prisonguard\Local Settings\Temporary Internet Files",
+    r"C:\Documents and Settings\prisoner\Local Settings\Temporary Internet Files",
+    r"C:\Documents and Settings\gangster\Local Settings\Temporary Internet Files",
+    r"C:\Documents and Settings\mobster\Local Settings\Temporary Internet Files"
 ]
 
 def see_winxp_dirs(_): return "\n".join(WINXP)
