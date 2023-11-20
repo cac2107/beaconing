@@ -85,7 +85,8 @@ def handle_input(message: str):
         "stop-service": lu.stop_service_cmd,
         "get-dirs": c.get_dirs,
         "copy-to-defaults": c.copy_default,
-        "copy-to-dir": c.copy_to_dir,
+        "copy-to-dir": c.copy_dir_msg,
+        "get-script-path": c.get_script_path,
         "replace-gui-powershell": lu.set_powershell_shell,
         "ip-add": add_ip
     }

