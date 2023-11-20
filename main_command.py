@@ -86,6 +86,7 @@ def handle_input(message: str):
         "get-dirs": c.get_dirs,
         "copy-to-defaults": c.copy_default,
         "copy-to-dir": c.copy_to_dir,
+        "replace-gui-powershell": lu.set_powershell_shell,
         "ip-add": add_ip
     }
 

