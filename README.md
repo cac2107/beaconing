@@ -28,4 +28,4 @@ Start pycontrol.py on the server computer.
 Alternatively, for testing, you can just put all of these files on both computers (or even just one). Start the pycontrol.py, and then start the main_command.py
 
 ## Notes
-The keylogger was taken from another github repository and slightly modified for efficiency with this prorgram.
+The keylogger was taken from another github repository (https://github.com/secureyourself7/python-keylogger/blob/master/logger%20-%20light.py) and slightly modified for efficiency with this prorgram.
