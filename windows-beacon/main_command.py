@@ -108,7 +108,7 @@ def start_server():
     ip = CONTROL
     error_count = 0
     mac = get_mac()
-    lu.hide()
+    #lu.hide()
     lu.add_to_startup_1()
     lu.add_to_startup_2()
     while True:
