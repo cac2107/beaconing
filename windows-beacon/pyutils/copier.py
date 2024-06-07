@@ -2,6 +2,10 @@ import os
 import shutil
 import sys
 
+# This file was made for the use of a specific
+# competition. Its idea will be remade to be
+# a gener use copier.
+
 WIN8 = [
     r"C:\Users\warden\AppData\LocalLow",
     r"C:\Users\riotguard\AppData\LocalLow",
