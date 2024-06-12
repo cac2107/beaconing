@@ -85,6 +85,7 @@ def handle_input(message: str):
         "get-all-services": lu.get_all_services_cmd,
         "stop-service": lu.stop_service_cmd,
         "get-dirs": c.get_dirs,
+        "add-copy-dir": c.add_dir,
         "copy-to-defaults": c.copy_default,
         "copy-to-dir": c.copy_dir_msg,
         "get-script-path": c.get_script_path,

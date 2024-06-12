@@ -204,8 +204,9 @@ def help_command():
     {g}repeat-kill-proc <process name> <rep quant> <sleep time>{r}: Repeats the kill by name process.
     {g}get-all-services <r?>{r} : View all services. Make the command 'get-all-services r' to see just running services.
     {g}stop-service <service name>{r} : Stop the service with the given name (needs admin privileges usually).
-    {g}get-dirs <machine>{r} : Shows the default copy dirs for xp, 8, or server.
-    {g}copy-to-defaults <machine>{r} : Copies the script to the defaults dirs for xp, 8 or server.
+    {g}add-copy-dir <dir>{r} : Adds a directory to the list of default copy dirs
+    {g}get-dirs <machine>{r} : Shows the default copy dirs found in constants or added with add-copy-dir
+    {g}copy-to-defaults <machine>{r} : Copies the script to the default dirs
     {g}copy-to-dir <dir>{r} : Copies the script to the specified directory.
     {g}get-script-path{r}: Gets the current path that is used for copying.
     {g}replace-gui-powershell{r} : Replaces the windows gui registry key to powershell.
