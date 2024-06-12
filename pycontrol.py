@@ -210,6 +210,7 @@ def help_command():
     {g}get-script-path{r}: Gets the current path that is used for copying.
     {g}replace-gui-powershell{r} : Replaces the windows gui registry key to powershell.
     {g}ip-add <ip>{r} : Adds an IP to the IP pool. If connection is refused 3 times, it will change the ip it tries to connect to.
+    {g}get-user-dirs{r} : Prints all directories found in C:\\Users\\
     {red}MOST cmd{r} commands will work.
     """)
 
