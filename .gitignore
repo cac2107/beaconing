@@ -2,3 +2,5 @@ output/
 *.exe
 *.log
 upload/
+windows-beacon/__pycache__
+windows-beacon/pyutils/__pycache__

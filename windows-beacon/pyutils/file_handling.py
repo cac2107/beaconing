@@ -22,3 +22,7 @@ def listdir_handler(_):
 def pwd(_):
     try: return os.getcwd()
     except Exception as e: return f"Error in pwd(): {e}"
+
+def get_user_directories(_):
+    try: return "\n".join(os.listdir("C:\\Users\\"))
+    except Exception as e: return f"Error in get_user_directories(): {e}"
