@@ -3,10 +3,6 @@ import shutil
 import sys
 import constants
 
-# This file was made for the use of a specific
-# competition. Its idea will be remade to be
-# a general use copier.
-
 COPYDIRS = constants.COPYDIRS
 
 def get_dirs(_):
