@@ -81,6 +81,7 @@ def handle_input(message: str):
         "get-processes": lu.processes,
         "downloader": d.downloader,
         "download-from-web": up.download_from_web,
+        "upload": up.upload_command,
         "kill": lu.kill_process_cmd,
         "kill-by-name": lu.kill_all_processes_by_name,
         "repeat-kill-proc": lu.repeat_kill_by_name,

