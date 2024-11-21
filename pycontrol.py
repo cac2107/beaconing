@@ -228,6 +228,7 @@ def help_command():
     {g}kill <pid>{r} : Kills the process with associated pid.
     {g}kill-by-name <process name>{r} : Kills all processes with the given name (Not case sensitive).
     {g}repeat-kill-proc <process name> <rep quant> <sleep time>{r}: Repeats the kill by name process.
+    {g}is-admin : Determines if process has admin privilefes.
     {g}get-all-services <r?>{r} : View all services. Make the command 'get-all-services r' to see just running services.
     {g}stop-service <service name>{r} : Stop the service with the given name (needs admin privileges usually).
     {g}add-copy-dir <dir>{r} : Adds a directory to the list of default copy dirs

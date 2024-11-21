@@ -8,7 +8,16 @@ import win32console
 import win32gui
 import psutil
 import threading
+import ctypes
 from winreg import HKEY_CURRENT_USER, KEY_ALL_ACCESS, REG_SZ, OpenKey, SetValueEx
+
+def is_admin(_):
+    try:
+        admin = ctypes.windll.shell32.IsUserAnAdmin()
+        if admin == 1: return f"There are admin privileges, id={admin}"
+        elif admin == 0: return f"There are not admin privileges, id={admin}"
+        else: return f"Unknown id={admin}"
+    except Exception as e: return f"Error in is_admin(): {e}"
 
 def kill_process_cmd(message):
     try:
